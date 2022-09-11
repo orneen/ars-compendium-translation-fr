@@ -1,0 +1,294 @@
+{
+  "label": "Compétences",
+  "entries":
+    {
+		"Aggressive": {
+			"name":"Aggressif"
+		},
+		"Animal Handling": {
+			"name":"Connaisance des animaux"
+		},
+		"Animal Ken*": {
+			"name":"Empathie avec les animaux*"
+		},
+		"Artes Liberales*": {
+			"name":"Artes Liberales*"
+		},
+		"Athletics": {
+			"name":"Athlétisme"
+		},
+		"Awareness": {
+			"name":"Attention"
+		},
+		"Bargain": {
+			"name":"Marchandage"
+		},
+		"Bows": {
+			"name":"Archerie"
+		},
+		"Brawl": {
+			"name":"Bagarre"
+		},
+		"Carouse": {
+			"name":"Ripaille"
+		},
+		"Charm": {
+			"name":"Charme"
+		},
+		"Chirurgy*": {
+			"name":"Chirurgie*"
+		},
+		"Civil & Canon Law*": {
+			"name":"Droit civil et canon*"
+		},
+		"Code of Hermes*": {
+			"name":"Droit hermétique*"
+		},
+		"Common Law*": {
+			"name":"Droit commun*"
+		},
+		"Concentration": {
+			"name":"Concentration"
+		},
+		"Craft: (Type)": {
+			"name":"Artisanat (Type)"
+		},
+		"Craft: Architecture": {
+			"name":"Artisanat (Architecte)"
+		},
+		"Craft: Armorer": {
+			"name":"Artisanat (Armurier)"
+		},
+		"Craft: Blacksmith": {
+			"name":"Artisanat (Forgeron)"
+		},
+		"Craft: Bookbinding": {
+			"name":"Artisanat (Relieur)"
+		},
+		"Craft: Bowmaking": {
+			"name":"Artisanat (Archerie)"
+		},
+		"Craft: Brewer": {
+			"name":"Artisant (Brasseur)"
+		},
+		"Craft: Carpentry": {
+			"name":"Artisanat (Charpentier)"
+		},
+		"Craft: Glassworking": {
+			"name":"Artisanat (Souffleur de verre)"
+		},
+		"Craft: Illumination": {
+			"name":"Artisanat (Cirier)"
+		},
+		"Craft: Jewelworking": {
+			"name":"Artisanat (Joailler)"
+		},
+		"Craft: Leathercraft": {
+			"name":"Artisanat (Maroquinier)"
+		},
+		"Craft: Masonry": {
+			"name":"Artisanat (Maçon)"
+		},
+		"Craft: Metalsmith": {
+			"name":"Artisanat (Metalurgiste)"
+		},
+		"Craft: Pottery": {
+			"name":"Artisanat (Potier)"
+		},
+		"Craft: Weaponry": {
+			"name":"Artisanat (Facteur d'armes)"
+		},
+		"Craft: Weaver": {
+			"name":"Artisanat (Tisserand)"
+		},
+		"Dominion Lore*": {
+			"name":"Connaissance du divin*"
+		},
+		"Downsing*": {
+			"name":"Sourcier*"
+		},
+		"Enchanting Music*": {
+			"name":"Musique enchanteresse*"
+		},
+		"Enigmatic Wisdom*": {
+			"name":"Sagesse énigmatique*"
+		},
+		"Entrancement*": {
+			"name":"Hypnotisme*"
+		},
+		"Etiquette": {
+			"name":"Etiquette"
+		},
+		"Faerie Lore*": {
+			"name":"Connaisance de la féérie*"
+		},
+		"Ferocity": {
+			"name":"Férocité"
+		},
+		"Finesse": {
+			"name":"Finesse"
+		},
+		"Folk Ken": {
+			"name":"Connaissance des gens"
+		},
+		"Great Weapon": {
+			"name":"Armes à 2 mains"
+		},
+		"Guile": {
+			"name":"Tromperie"
+		},
+		"Hardy": {
+			"name":"Robuste"
+		},
+		"Heartbeast*": {
+			"name":"Animal de coeur*"
+		},
+		"Hunt": {
+			"name":"Chasse"
+		},
+		"Infernal Lore*": {
+			"name":"Connaissance de l'infernal*"
+		},
+		"Intrigue": {
+			"name":"Intrigue"
+		},
+		"Keen Sense of Smell": {
+			"name":"Sens aigue de l'odorat"
+		},
+		"Language: (Type)*": {
+			"name":"Langage (Type)*"
+		},
+		"Language: Aramaic*": {
+			"name":"Langue ancienne Araméènne*"
+		},
+		"Language: East German*": {
+			"name":"Langue ancienne Germanic*"
+		},
+		"Language: Gothic*": {
+			"name":"Langue ancienne Goth*"
+		},
+		"Language: Hebrew*": {
+			"name":"Langue ancienne Hébraique*"
+		},
+		"Language: Latin*": {
+			"name":"Langue ancienne Latin*"
+		},
+		"Leadership": {
+			"name":"Commandement"
+		},
+		"Legerdemain*": {
+			"name":"Doigt agile*"
+		},
+		"Lore, (Area)": {
+			"name":"Connaissance (Domaine)"
+		},
+		"Lore, (Organisation)": {
+			"name":"Connaissance (Organisation)"
+		},
+		"Lore, Order of Hermes": {
+			"name":"Connaissance de l'ordre d'Hermés"
+		},
+		"Lore: (Mystery Cult)": {
+			"name":"Connaissance (Culte des mystères)"
+		},
+		"Magic Lore*": {
+			"name":"Connaissance de la magie*"
+		},
+		"Magic Sensitivity*": {
+			"name":"Sensibilité à la magie*"
+		},
+		"Magic Theory*": {
+			"name":"Théorie de la magie*"
+		},
+		"Medicine*": {
+			"name":"Médecine*"
+		},
+		"Music": {
+			"name":"Musique"
+		},
+		"Pack Animal": {
+			"name":"Animal de meute"
+		},
+		"Parma Magica*": {
+			"name":"Parma magica"
+		},
+		"Penetration": {
+			"name":"Pénétration"
+		},
+		"Philosophiae*": {
+			"name":"Philosophie*"
+		},
+		"Premonitions*": {
+			"name":"Prémonitions*"
+		},
+		"Profession: (Type)": {
+			"name":"Profession (Type)"
+		},
+		"Profession: Herbalist": {
+			"name":"Profession Herboriste"
+		},
+		"Profession: Merchant": {
+			"name":"Profession Marchand"
+		},
+		"Profession: Sailor": {
+			"name":"Profession Marin"
+		},
+		"Profession: Scribe": {
+			"name":"Profession Scribe"
+		},
+		"Profession: Steward": {
+			"name":"Profession Intendant"
+		},
+		"Profession: Teamster": {
+			"name":"Profession Routier"
+		},
+		"Pursuit Predator": {
+			"name":"Prédateur à l'affut"
+		},
+		"Ride": {
+			"name":"Equitation"
+		},
+		"Second Sight*": {
+			"name":"Seconde vue"
+		},
+		"Sense Holiness & Unholiness*": {
+			"name":"Perception de la sainteté et de la malignité"
+		},
+		"Shapeshifter*": {
+			"name":"Changeforme"
+		},
+		"Sharp Ears": {
+			"name":"Oreilles pointues"
+		},
+		"Single Weapon": {
+			"name":"Armes à 1 main"
+		},
+		"Stealth": {
+			"name":"Discrétion"
+		},
+		"Survival": {
+			"name":"Survie"
+		},
+		"Swim": {
+			"name":"Natation"
+		},
+		"Teaching": {
+			"name":"Enseignement"
+		},
+		"Theology*": {
+			"name":"Théologie"
+		},
+		"Thick Fur": {
+			"name":"Fourrure épaisse"
+		},
+		"Thrown Weapon": {
+			"name":"Armes de jet"
+		},
+		"Vocal": {
+			"name":"Vocal"
+		},
+		"Wilderness Sense*": {
+			"name":"Sens de la nature"
+		}		
+	}
+}

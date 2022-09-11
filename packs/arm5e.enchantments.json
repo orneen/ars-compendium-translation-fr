@@ -1,0 +1,15 @@
+{
+  "label": "Enchantements",
+  "entries":
+    {
+		"Purification of the Festering Wounds": {
+			"name":"Purification des plaies purulentes"
+		},
+		"Subtle Taste of Poison and Purity": {
+			"name":"Goût subtil de poison et de pureté"
+		},
+		"Wings of the Soaring Wind": {
+			"name":"Ailes du vent"
+		}
+	}
+}	

@@ -1,0 +1,558 @@
+{
+  "label": "Vices",
+  "entries":
+    {
+		"Ability Block": {
+			"name":"Compétences inhibées"
+		},
+		"Afflicted Tongue": {
+			"name":"Défaut de prononciation"
+		},
+		"Age Quickly": {
+			"name":"Vieillissement accéléré"
+		},
+		"Ambitious (Major)": {
+			"name":"Ambition (Majeur)"
+		},
+		"Ambitious (Minor)": {
+			"name":"Ambition (Mineur)"
+		},
+		"Animal Companion": {
+			"name":"Compagnon animal"
+		},
+		"Arthritis": {
+			"name":"Arthrite"
+		},
+		"Avaricious (Major)": {
+			"name":"Avarice (Majeur)"
+		},
+		"Avaricious (Minor)": {
+			"name":"Avarice (Mineur)"
+		},
+		"Black Sheep": {
+			"name":"Brebis galeuse"
+		},
+		"Blackmail": {
+			"name":"Chantage"
+		},
+		"Blatant Gift": {
+			"name":"Don tapageur"
+		},
+		"Blind": {
+			"name":"Cécité"
+		},
+		"Branded Criminal": {
+			"name":"Criminel de marque"
+		},
+		"Busybody": {
+			"name":"Commérage"
+		},
+		"Cabal Legacy": {
+			"name":"Héritage de la Cabale"
+		},
+		"Carefree": {
+			"name":"Insouciance"
+		},
+		"Careless Sorcerer": {
+			"name":"Imprudence en sorcellerie"
+		},
+		"Chaotic Magic": {
+			"name":"Magie chaotique"
+		},
+		"Close Family Ties": {
+			"name":"Liens familiaux étroits"
+		},
+		"Clumsy": {
+			"name":"Maladresse"
+		},
+		"Clumsy Magic": {
+			"name":"Magie maladroite"
+		},
+		"Compassionate (Major)": {
+			"name":"Compassion (Majeur)"
+		},
+		"Compassionate (Minor)": {
+			"name":"Compassion (Mineur)"
+		},
+		"Compulsion": {
+			"name":"Compulsion"
+		},
+		"Continence": {
+			"name":"Chasteté"
+		},
+		"Covenant Upbringing": {
+			"name":"Éducation dans une alliance"
+		},
+		"Creative Block": {
+			"name":"Créativité asséchée"
+		},
+		"Crippled": {
+			"name":"Infirmité"
+		},
+		"Curse Of Venus": {
+			"name":"Malédiction de Vénus"
+		},
+		"Cyclic Magic (negative)": {
+			"name":"Magie cyclique (négatif)"
+		},
+		"Dark Secret": {
+			"name":"Sombre secret"
+		},
+		"Deaf": {
+			"name":"Surdité"
+		},
+		"Deficient Form": {
+			"name":"Forme déficiente"
+		},
+		"Deficient Technique": {
+			"name":"Technique déficiente"
+		},
+		"Deleterious Circumstances": {
+			"name":"Circonstances délétères"
+		},
+		"Delusion": {
+			"name":"Illusions"
+		},
+		"Dependent": {
+			"name":"Responsabilité"
+		},
+		"Depressed": {
+			"name":"Dépression"
+		},
+		"Diabolic Past": {
+			"name":"Passé diabolique"
+		},
+		"Difficult Longevity Ritual": {
+			"name":"Rituel de longévité difficile"
+		},
+		"Difficult Spontaneous Magic": {
+			"name":"Magie spontanée difficile"
+		},
+		"Difficult Underlings": {
+			"name":"Subalternes difficiles"
+		},
+		"Disfigured": {
+			"name":"Défiguration"
+		},
+		"Disjointed Magic": {
+			"name":"Magie disjointe"
+		},
+		"Disorientating Magic": {
+			"name":"Magie désorientante"
+		},
+		"Driven (Major)": {
+			"name":"Détermination (Majeur)"
+		},
+		"Driven (Minor)": {
+			"name":"Détermination (Mineur)"
+		},
+		"Dutybound": {
+			"name":"Sens du devoir"
+		},
+		"Dwarf": {
+			"name":"Nain"
+		},
+		"Enemies": {
+			"name":"Ennemis"
+		},
+		"Enfeebled": {
+			"name":"Asthénie"
+		},
+		"Envious (Major)": {
+			"name":"Envie (Majeur)"
+		},
+		"Envious (Minor)": {
+			"name":"Envie (Mineur)"
+		},
+		"Faerie Friend": {
+			"name":"Ami féerique"
+		},
+		"Faerie Upbringing": {
+			"name":"Education féérique"
+		},
+		"Failed Monk": {
+			"name":"Moine défroqué"
+		},
+		"Favors": {
+			"name":"Faveurs"
+		},
+		"Fear": {
+			"name":"Peur"
+		},
+		"Feral Upbringing": {
+			"name":"Éducation sauvage"
+		},
+		"Feud": {
+			"name":"Querelle"
+		},
+		"Flawed Parma Magica": {
+			"name":"Faible Parma Magica"
+		},
+		"Fury": {
+			"name":"Fureur"
+		},
+		"Gender Nonconforming (Major)": {
+			"name":"Genre non conforme (Majeur)"
+		},
+		"Gender Nonconforming (Minor)": {
+			"name":"Genre non conforme (Mineur)"
+		},
+		"Generous (Major)": {
+			"name":"Générosité (Majeur)"
+		},
+		"Generous (Minor)": {
+			"name":"Générosité (Mineur)"
+		},
+		"Greater Malediction": {
+			"name":"Grande malédiction"
+		},
+		"Greedy (Major)": {
+			"name":"Gourmandise (Majeur)"
+		},
+		"Greedy (Minor)": {
+			"name":"Gourmandise (Mineur)"
+		},
+		"Hatred (Major)": {
+			"name":"Haine (Majeur)"
+		},
+		"Hatred (Minor)": {
+			"name":"Haine (Mineur)"
+		},
+		"Hedge Wizard": {
+			"name":"Rebouteux"
+		},
+		"Heir": {
+			"name":"Héritier"
+		},
+		"Higher Purpose": {
+			"name":"Mission supérieure"
+		},
+		"Humble": {
+			"name":"Humilité"
+		},
+		"Hunchback": {
+			"name":"Difformité"
+		},
+		"Incompatible Arts": {
+			"name":"Arts incompatibles"
+		},
+		"Incomprehensible": {
+			"name":"Incompréhensible"
+		},
+		"Indiscreet": {
+			"name":"Indiscrétion"
+		},
+		"Infamous": {
+			"name":"Tristement célèbre"
+		},
+		"Infamous Master": {
+			"name":"Maître tristement célèbre"
+		},
+		"Judged Unfairly": {
+			"name":"Méjugement"
+		},
+		"Lame": {
+			"name":"Handicap"
+		},
+		"Lecherous": {
+			"name":"Luxure"
+		},
+		"Lesser Malediction": {
+			"name":"Petite malédiction"
+		},
+		"Limited Magic Resistance": {
+			"name":"Résistance magique limitée"
+		},
+		"Loose Magic": {
+			"name":"Magie lâche"
+		},
+		"Lost Love": {
+			"name":"Amour perdu"
+		},
+		"Low Self-esteem": {
+			"name":"Manque de confiance en soi"
+		},
+		"Lycanthrope": {
+			"name":"Lycanthrope"
+		},
+		"Magic Addiction": {
+			"name":"Dépendance à la magie"
+		},
+		"Magical Air": {
+			"name":"Halo magique"
+		},
+		"Magical Animal Companion": {
+			"name":"Compagnon animal magique"
+		},
+		"Meddler (Major)": {
+			"name":"Ingérence (Majeur)"
+		},
+		"Meddler (Minor)": {
+			"name":"Ingérence (Mineur)"
+		},
+		"Mentor": {
+			"name":"Mentor"
+		},
+		"Minor Magical Focus": {
+			"name":"Focus magique mineur"
+		},
+		"Missing Ear": {
+			"name":"Oreille manquante"
+		},
+		"Missing Eye": {
+			"name":"Oeil manquant"
+		},
+		"Missing Hand": {
+			"name":"Main manquante"
+		},
+		"Mistaken Identity": {
+			"name":"Erreur sur la personne"
+		},
+		"Monastic Vows": {
+			"name":"Voeux monacaux"
+		},
+		"Motion Sickness": {
+			"name":"Mal des transports"
+		},
+		"Mute": {
+			"name":"Mutisme"
+		},
+		"Necessary Condition": {
+			"name":"Condition nécessaire"
+		},
+		"No Hands": {
+			"name":"Privé de mains"
+		},
+		"No Sense Of Direction": {
+			"name":"Désorientation"
+		},
+		"Nocturnal": {
+			"name":"Nocturne"
+		},
+		"Noncombatant": {
+			"name":"Non combattant"
+		},
+		"Oath Of Fealty": {
+			"name":"Serment de fidélité"
+		},
+		"Obese": {
+			"name":"Obésité"
+		},
+		"Obsessed": {
+			"name":"Obsession"
+		},
+		"Offensive To Animals (Major)": {
+			"name":"Offensant pour les animaux (Majeur)"
+		},
+		"Offensive To Animals (Minor)": {
+			"name":"Offensant pour les animaux (Mineur)"
+		},
+		"Optimistic (Minor)": {
+			"name":"Optimisme (Mineur)"
+		},
+		"Optmistic (Major)": {
+			"name":"Optimisme (Majeur)"
+		},
+		"Outcast": {
+			"name":"Marginal"
+		},
+		"Outlaw": {
+			"name":"Hors-la-loi"
+		},
+		"Outlaw Leader": {
+			"name":"Chef hors-la-loi"
+		},
+		"Outsider": {
+			"name":"Étranger"
+		},
+		"Overconfident (Major)": {
+			"name":"Arrogance (Majeur)"
+		},
+		"Overconfident (Minor)": {
+			"name":"Arrogance (Mineur)"
+		},
+		"Oversensitive": {
+			"name":"Sensibilité"
+		},
+		"Painful Magic": {
+			"name":"Magie douloureuse"
+		},
+		"Palsied Hands": {
+			"name":"Tremblote"
+		},
+		"Pessimistic": {
+			"name":"Pessimisme"
+		},
+		"Pious (Major)": {
+			"name":"Piété (Majeur)"
+		},
+		"Pious (Minor)": {
+			"name":"Piété (Mineur)"
+		},
+		"Plagued By Supernatural Entity": {
+			"name":"Harcelé par une entité surnaturelle"
+		},
+		"Poor": {
+			"name":"Pauvreté"
+		},
+		"Poor (characteristic)": {
+			"name":"Piètre (caractéristique)"
+		},
+		"Poor Eyesight": {
+			"name":"Vue basse"
+		},
+		"Poor Formulaic Magic": {
+			"name":"Mauvaise magie formelle"
+		},
+		"Poor Hearing": {
+			"name":"Dur d’oreille"
+		},
+		"Poor Memory": {
+			"name":"Mauvaise mémoire"
+		},
+		"Poor Student": {
+			"name":"Mauvais étudiant"
+		},
+		"Prohibition": {
+			"name":"Interdit"
+		},
+		"Proud (Major)": {
+			"name":"Fierté (Majeur)"
+		},
+		"Proud (Minor)": {
+			"name":"Fierté (Mineur)"
+		},
+		"Reckless": {
+			"name":"Témérité"
+		},
+		"Reclusive": {
+			"name":"Réclusion"
+		},
+		"Restriction": {
+			"name":"Restriction"
+		},
+		"Rigid Magic": {
+			"name":"Magie rigide"
+		},
+		"Sheltered Upbringing": {
+			"name":"Éducation solitaire"
+		},
+		"Short Attention Span": {
+			"name":"Concentration médiocre"
+		},
+		"Short-lived Magic": {
+			"name":"Magie éphémère"
+		},
+		"Short-ranged Magic": {
+			"name":"Magie à portée réduite"
+		},
+		"Simple-minded": {
+			"name":"Simple d’esprit"
+		},
+		"Slow Caster": {
+			"name":"Lancement lent"
+		},
+		"Small Frame": {
+			"name":"Petite carrure"
+		},
+		"Social Handicap": {
+			"name":"Handicap social"
+		},
+		"Soft-hearted": {
+			"name":"Délicatesse"
+		},
+		"Study Requirement": {
+			"name":"Études contraintes"
+		},
+		"Supernatural Nuisance": {
+			"name":"Nuisance surnaturelle"
+		},
+		"Susceptibility To Divine Power": {
+			"name":"Vulnérabilité au pouvoir divin"
+		},
+		"Susceptibility To Faerie Power": {
+			"name":"Vulnérabilité au pouvoir féérique"
+		},
+		"Susceptibility To Infernal Power": {
+			"name":"Vulnérabilité au pouvoir infernal"
+		},
+		"Tainted With Evil": {
+			"name":"Souillure maléfique"
+		},
+		"Temperate": {
+			"name":"Tempérance"
+		},
+		"Tormenting Master": {
+			"name":"Maître ennemi"
+		},
+		"True Love (Major)": {
+			"name":"Amour véritable (Majeur)"
+		},
+		"True Love (Minor)": {
+			"name":"Amour véritable (Mineur)"
+		},
+		"Twilight Prone": {
+			"name":"Enclin au crépuscule"
+		},
+		"Unimaginative Learner": {
+			"name":"Élève sans imagination"
+		},
+		"Unpredictable Magic": {
+			"name":"Magie imprévisible"
+		},
+		"Unstructured Caster": {
+			"name":"Mage non structuré"
+		},
+		"Visions (Story)": {
+			"name":"Visions (Histoire)"
+		},
+		"Visions (Supernatural)": {
+			"name":"Visions (Supernaturel)"
+		},
+		"Vow": {
+			"name":"Voeu"
+		},
+		"Warped Magic": {
+			"name":"Magie biscornue"
+		},
+		"Waster Of Vis": {
+			"name":"Gâchis de vis"
+		},
+		"Weak Characteristics": {
+			"name":"Caractéristiques inférieures"
+		},
+		"Weak Enchanter": {
+			"name":"Enchanteur ardu"
+		},
+		"Weak Magic": {
+			"name":"Magie émoussée"
+		},
+		"Weak Magic Resistance": {
+			"name":"Résistance magique faible"
+		},
+		"Weak Parens": {
+			"name":"Parens incompétent"
+		},
+		"Weak Scholar": {
+			"name":"Érudition limitée"
+		},
+		"Weak Spontaneous Magic": {
+			"name":"Magie spontanée faible"
+		},
+		"Weak-willed": {
+			"name":"Obéissance"
+		},
+		"Weakness": {
+			"name":"Point faible"
+		},
+		"Weird Magic": {
+			"name":"Magie étrange"
+		},
+		"Wrathful (Major)": {
+			"name":"Courroux (Majeur)"
+		},
+		"Wrathful (Minor)": {
+			"name":"Courroux (Mineur)"
+		}
+	}
+}

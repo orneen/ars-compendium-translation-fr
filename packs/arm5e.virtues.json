@@ -1,0 +1,435 @@
+{
+  "label": "Vertues",
+  "entries":
+    {
+		"Adept Laboratory Student": {
+			"name":"Etudiant laborantin adepte"
+		},
+		"Affinity With (ability)": {
+			"name":"Affinité avec (compétences)"
+		},
+		"Affinity With (art)": {
+			"name":"Affinité avec (art)"	
+		},
+		"Animae Magic": {
+			"name":"Magie animée"
+		},
+		"Animal Ken": {
+			"name":"Empathie avec les animaux"
+		},
+		"Apt Student":{
+			"name":"Étudiant attentif"
+		},
+		"Arcane Lore": {
+			"name":"Connaissance des arcanes"
+		},
+		"Baccalaureus":{
+			"name":"Bachelor"
+		},
+		"Berserk":{
+			"name":"Frénésie berserk"
+		},
+		"Blood of the Nephilim":{
+			"name":"Sang de nephilim"
+		},
+		"Book Learner":{
+			"name":"Lecteur perspicace"
+		},
+				"Cautious Sorcerer": {
+			"name":"Prudence en sorcellerie"
+		},
+		"Cautious With (ability)": {
+			"name":"Prudence pour (compétence)"
+		},
+		"Clear Thinker": {
+			"name":"Clarté de pensée"
+		},
+		"Clerk": {
+			"name":"Employé de bureau"
+		},
+		"Common Sense": {
+			"name":"Bon sens"
+		},
+		"Covenfolk": {
+			"name":"Résident d’une alliance"
+		},
+		"Craftsman": {
+			"name":"Artisan"
+		},
+		"Custos": {
+			"name":"Custos"
+		},
+		"Cyclic Magic (positive)": {
+			"name":"Magie cyclique (positive)"
+		},
+		"Death Prophecy": {
+			"name":"Prophétie de mort"
+		},
+		"Deft Form": {
+			"name":"Forme de prédilection"
+		},
+		"Diedne Magic": {
+			"name":"Magie de Diedne"
+		},
+		"Dowsing": {
+			"name":"Sourcier"
+		},
+		"Educated": {
+			"name":"Éducation classique"
+		},
+		"Elemental Magic": {
+			"name":"Magie élémentaire"
+		},
+		"Enchanting Music": {
+			"name":"Musique enchanteresse"
+		},
+		"Enduring Constitution": {
+			"name":"Constitution solide"
+		},
+		"Enduring Magic": {
+			"name":"Magie persistante"
+		},
+		"Entrancement": {
+			"name":"Hypnotisme"
+		},
+		"Faerie Blood": {
+			"name":"Sang féerique"
+		},
+		"Faerie Magic": {
+			"name":"Magie féérique"
+		},
+		"Failed Apprentice": {
+			"name":"Apprenti raté"
+		},
+		"Famous": {
+			"name":"Célèbre"
+		},
+		"Fast Caster": {
+			"name":"Lancement rapide"
+		},
+		"Flawless Magic": {
+			"name":"Magie parfaite"
+		},
+		"Flexible Formulaic Magic": {
+			"name":"Magie formelle flexible"
+		},
+		"Fragile Constitution": {
+			"name":"Constitution fragile"
+		},
+		"Free Expression": {
+			"name":"Créativité foisonnante"
+		},
+		"Free Study": {
+			"name":"Études libres"
+		},
+		"Gentle Gift": {
+			"name":"Don de velours"
+		},
+		"Gentleman/woman": {
+			"name":"Gentilhomme/Gente dame"
+		},
+		"Ghostly Warder": {
+			"name":"Fantôme protecteur"
+		},
+		"Giant Blood": {
+			"name":"Sang de géant"
+		},
+		"Gift of Tongues": {
+			"name":"Don des langues"
+		},
+		"Good Teacher": {
+			"name":"Pédagogue"
+		},
+		"Gossip": {
+			"name":"Ragots"
+		},
+		"Great (characteristic)": {
+			"name":"Excellente (caractéristique)"
+		},
+		"Greater Immunity": {
+			"name":"Immunité majeure"
+		},
+		"Greater Purifying Touch": {
+			"name":"Imposition des mains majeure"
+		},
+		"Guardian Angel": {
+			"name":"Ange gardien"
+		},
+		"Harnessed Magic": {
+			"name":"Magie contrôlée"
+		},
+		"Heartbeast": {
+			"name":"Animal de coeur"
+		},
+		"Hermetic Magus": {
+			"name":"Mage hermétique"
+		},
+		"Hermetic Prestige": {
+			"name":"Prestige hermétique"
+		},
+		"Imbued with the Spirit of (Form)": {
+			"name":"Imprégné de l'esprit de (forme)"
+		},
+		"Improved Characteristics": {
+			"name":"Caractéristiques supérieures"
+		},
+		"Inoffensive To Animals (General)": {
+			"name":"Indifférence des animaux (Général)"
+		},
+		"Inoffensive To Animals (Hermetic)": {
+			"name":"Indifférence des animaux (Hermétic)"
+		},
+		"Inspirational": {
+			"name":"Exaltation"
+		},
+		"Intuition": {
+			"name":"Intuition"
+		},
+		"Inventive Genius": {
+			"name":"Génie inventif"
+		},
+		"Keen Vision": {
+			"name":"Vision acérée"
+		},
+		"Knight": {
+			"name":"Chevalier"
+		},
+		"Landed Noble": {
+			"name":"Noble propriétaire terrien"
+		},
+		"Large": {
+			"name":"Colosse"
+		},
+		"Latent Magic Ability": {
+			"name":"Aptitude magique latente"
+		},
+		"Learn (ability) From Mistakes": {
+			"name":"Erreurs profitables en (compétence)"
+		},
+		"Lesser Immunity": {
+			"name":"Immunité mineure"
+		},
+		"Lesser Purifying Touch": {
+			"name":"Imposition des mains mineure"
+		},
+		"Life Boost": {
+			"name":"Renforcement vital"
+		},
+		"Life-linked Spontaneous Magic": {
+			"name":"Magie spontanée vitalisée"
+		},
+		"Light Touch": {
+			"name":"Doigté"
+		},
+		"Lightning Reflexes": {
+			"name":"Réflexes éclairs"
+		},
+		"Linguist": {
+			"name":"Linguiste"
+		},
+		"Long-winded": {
+			"name":"Endurance"
+		},
+		"Luck": {
+			"name":"Chance"
+		},
+		"Magic Animal": {
+			"name":"Magie animal"
+		},
+		"Magic Sensitivity": {
+			"name":"Sensibilité à la magie"
+		},
+		"Magical Blood: Human": {
+			"name":"Sang magique : Humain"
+		},
+		"Magical Champion": {
+			"name":"Champion magique"
+		},
+		"Magical Master": {
+			"name":"Maitre magique"
+		},
+		"Magical Memory": {
+			"name":"Mémoire magique"
+		},
+		"Magister In Artibus": {
+			"name":"Magister in artibus"
+		},
+		"Major Magical Focus": {
+			"name":"Expertise magique majeure"
+		},
+		"Mastered Spells": {
+			"name":"Maitrise des sorts"
+		},
+		"Mendicant Friar": {
+			"name":"Frère mendiant"
+		},
+		"Mercenary Captain": {
+			"name":"Capitaine mercenaire"
+		},
+		"Merchant": {
+			"name":"Marchand"
+		},
+		"Mercurian Magic": {
+			"name":"Magie de Mercure"
+		},
+		"Method Caster": {
+			"name":"Lancement méthodique"
+		},
+		"Mutantum Magic": {
+			"name":"Magie mutagène"
+		},
+		"Mythic Blood": {
+			"name":"Sang mythique"
+		},
+		"Peasant": {
+			"name":"Paysan"
+		},
+		"Perfect Balance": {
+			"name":"Sens de l’équilibre"
+		},
+		"Personal Power": {
+			"name":"Pouvoir personnel"
+		},
+		"Personal Vis Source": {
+			"name":"Source de Vis personnelle"
+		},
+		"Piercing Gaze": {
+			"name":"Regard perçant"
+		},
+		"Premonitions": {
+			"name":"Prémonitions"
+		},
+		"Priest": {
+			"name":"Prêtre"
+		},
+		"Privileged Upbringing": {
+			"name":"Éducation privilégiée"
+		},
+		"Protection": {
+			"name":"Protection"
+		},
+		"Puissant (ability)": {
+			"name":"Talent pour (compétence)"
+		},
+		"Puissant (art)": {
+			"name":"Talent en (Art)"
+		},
+		"Quiet Magic": {
+			"name":"Magie silencieuse"
+		},
+		"Rapid Convalescence": {
+			"name":"Convalescence rapide"
+		},
+		"Redcap": {
+			"name":"Toque rouge"
+		},
+		"Relic": {
+			"name":"Relique"
+		},
+		"Reserves Of Strength": {
+			"name":"Réserves de force"
+		},
+		"Second Sight": {
+			"name":"Double vue"
+		},
+		"Secondary Insight": {
+			"name":"Révélations secondaires"
+		},
+		"Self-confident": {
+			"name":"Confiance en soi"
+		},
+		"Sense Holiness And Unholiness": {
+			"name":"Perception de la sainteté et de la malignité"
+		},
+		"Shapeshifter": {
+			"name":"Changeforme"
+		},
+		"Side Effect": {
+			"name":"Effet secondaire"
+		},
+		"Skilled Parens": {
+			"name":"Parens compétent"
+		},
+		"Skinchanger": {
+			"name":"Changepeau"
+		},
+		"Social Contacts": {
+			"name":"Contacts sociaux"
+		},
+		"Special Circumstances": {
+			"name":"Circonstances spéciales"
+		},
+		"Strong Angelic Heritage": {
+			"name":"Héritage angélique puissant"
+		},
+		"Strong Faerie Blood": {
+			"name":"Sang féerique saillant"
+		},
+		"Strong-willed": {
+			"name":"Indépendance"
+		},
+		"Student Of (realm)": {
+			"name":"Étudiant (dimension)"
+		},
+		"Study Bonus": {
+			"name":"Bonus aux études"
+		},
+		"Subtle Magic": {
+			"name":"Magie subtile"
+		},
+		"Temporal Influence": {
+			"name":"Influence temporelle"
+		},
+		"The Enigma": {
+			"name":"L’énigme"
+		},
+		"The Gift": {
+			"name":"Le Don"
+		},
+		"Tough": {
+			"name":"Vigueur"
+		},
+		"Troupe Upbringing": {
+			"name":"Éducation bohémienne"
+		},
+		"True Faith": {
+			"name":"Foi exaltée"
+		},
+		"Twilight Mastery": {
+			"name":"Maîtrise du Crépuscule"
+		},
+		"Unaffected by the Gift": {
+			"name":"Non affecté par le don"
+		},
+		"Unaging": {
+			"name":"Verdeur"
+		},
+		"Venus's Blessing": {
+			"name":"Bénédiction de Vénus"
+		},
+		"Verditius Magic": {
+			"name":"Magie de Verditius"
+		},
+		"Wanderer": {
+			"name":"Vagabond"
+		},
+		"Warrior": {
+			"name":"Combattant"
+		},
+		"Ways Of The (land)": {
+			"name":"Connaissance du (terrain)"
+		},
+		"Wealthy": {
+			"name":"Richesse"
+		},
+		"Well-traveled": {
+			"name":"Grand voyageur"
+		},
+		"Wilderness Sense": {
+			"name":"Sens de la nature"
+		},
+		"Wise One": {
+			"name":"Sage"
+		}
+	}
+}
