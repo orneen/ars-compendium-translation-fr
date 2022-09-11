@@ -1,0 +1,38 @@
+{
+  "label": "Vieillissement",
+  "entries":
+    {
+		"Aging table": {
+			"name":"Table de viellissement",
+			"description":"Décrit les effets d'un jet de vieillissement",
+			"results": {
+				"-999-2": "Pas de vieillissement apparent",
+				"3-9": "L'age apparent augment d'une année",
+				"10-12": "1 point de Vieillissement dans une caractéristique quelconque",
+				"13-13": "Gain de suffisamment de points de Vieillissement (dans des Caractéristiques quelconques) pour atteindre le prochain niveau de Décrépitude, plus Crise",
+				"14-14": "1 point de Vieillissement en Vivacité",
+				"15-15": "1 point de Vieillissement en Énergie",
+				"16-16": "1 point de Vieillissement en Perception",
+				"17-17": "1 point de Vieillissement en Présence",
+				"18-18": "1 point de Vieillissement en Force et en Énergie",
+				"19-19": "1 point de Vieillissement en Dextérité et en Vivacité",
+				"20-20": "1 point de Vieillissement en Communication et en Présence",
+				"21-21": "1 point de Vieillissement en Intelligence et en Perception",
+				"22-999": "Gain de suffisamment de points de Vieillissement (dans des caractéristiques quelconques) pour atteindre le prochain niveau de Décrépitude, plus Crise"
+			}
+		},
+		"Aging crisis table": {
+			"name":"Table des crises de vieillissement",
+			"description":"Jet sur cette table en cas de crise de vieillissement : 1D10+age/10 (arrondi au supérieur) + valeur de décréptude",
+			"results": {
+				"-99-8": "Doit garder le lit une semaine",
+				"9-14": "Doit garder le lit un mois",
+				"15-15": "Maladie bénigne. Jet d’Éne de 3+ ou CrCo 20 pour survivre",
+				"16-16": "Maladie sérieuse. Jet d’Éne de 6+ ou CrCo 25 pour survivre",
+				"17-17": "Maladie grave. Jet d’Éne de 9+ ou CrCo 30 pour survivre",
+				"18-18": "Maladie critique. Jet d’Éne de 12+ ou CrCo 35 pour survivre",
+				"19-99": "Maladie terminale. Cr Co 40 pour survivre"
+			}
+		}
+	}
+}

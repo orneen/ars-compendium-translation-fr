@@ -1,0 +1,174 @@
+{
+  "label": "Equipements",
+  "entries":
+    {
+		"(B) Bludgeon": {
+			"name":"(M) Matraque"
+		},
+		"(B) Dagger": {
+			"name":"(M) Dague"
+		},
+		"(B) Fist": {
+			"name":"(M) Coup de poing"
+		},
+		"(B) Gauntlet": {
+			"name":"(M) Gantelet"
+		},
+		"(B) Kick": {
+			"name":"(M) Coup de pied"
+		},
+		"(B) Knife": {
+			"name":"(M) Couteau"
+		},
+		"(C) Arbalest": {
+			"name":"(A) Arbalète"
+		},
+		"(C) Arbalest, Heavy": {
+			"name":"(A) Arbalète lourde"
+		},
+		"(C) Crossbow": {
+			"name":"(A) Arbalète légère"
+		},
+		"(G) Crudgel": {
+			"name":"(2M) Masse d'arme"
+		},
+		"(G) Farm Implement": {
+			"name":"(2M) Outil agricole"
+		},
+		"(G) Flail": {
+			"name":"(2M) Fléau d'arme"
+		},
+		"(G) Halberd": {
+			"name":"(2M)  Hallebarde"
+		},
+		"(G) Pole Arm": {
+			"name":"(2M) Arme d'hast"
+		},
+		"(G) Pole Axe": {
+			"name":"(2M) Hache d'arme"
+		},
+		"(G) Spear, Long": {
+			"name":"(2M) Pique longue"
+		},
+		"(G) Staff": {
+			"name":"(2M) Baton"
+		},
+		"(G) Sword, Great": {
+			"name":"(2M) Grande épée"
+		},
+		"(G) Warhammer": {
+			"name":"(2M) Marteau de guerre"
+		},
+		"(S) Axe": {
+			"name":"(1M) Hache"
+		},
+		"(S) Club": {
+			"name":"(1M) Gourdin"
+		},
+		"(S) Falchion": {
+			"name":"(1M) Fauchon"
+		},
+		"(S) Hatchet": {
+			"name":"(1M) Hachette"
+		},
+		"(S) Lance": {
+			"name":"(1M) Lance"
+		},
+		"(S) Mace": {
+			"name":"(1M) Masse d'arme"
+		},
+		"(S) Mace and Chain": {
+			"name":"(1M) Fléau d'arme"
+		},
+		"(S) Net": {
+			"name":"(1M) Filet"
+		},
+		"(S) Shield, Buckler": {
+			"name":"(B) Bouclier rondache"
+		},
+		"(S) Shield, Heater": {
+			"name":"(B) Bouclier écu"
+		},
+		"(S) Shield, Infantry": {
+			"name":"(B) Bouclier pavois"
+		},
+		"(S) Shield, Round": {
+			"name":"(B) Bouclier targe"
+		},
+		"(S) Spear, Short": {
+			"name":"(1M) Lance courte"
+		},
+		"(S) Sword, Bastard 1H": {
+			"name":"(1M) Epée batarde 1m"
+		},
+		"(S) Sword, Long": {
+			"name":"(1M) Lance longue"
+		},
+		"(S) Sword, Short": {
+			"name":"(1M) Epée courte"
+		},
+		"(S) Whip": {
+			"name":"(1M) Fouet"
+		},
+		"(T) Axe, Throwing": {
+			"name":"(J) Hache de lancer"
+		},
+		"(T) Javelin": {
+			"name":"(J) Javelot"
+		},
+		"(T) Knife": {
+			"name":"(J) Couteau de lancer"
+		},
+		"(T) Rock, Sharpened": {
+			"name":"(J) Pierre taillé"
+		},
+		"(T) Sling": {
+			"name":"(J) Fronde"
+		},
+		"(T) Stone": {
+			"name":"(J) Pierre"
+		},
+		"Bow, Composite": {
+			"name":"(A) Arc composite"
+		},
+		"Bow, Horse": {
+			"name":"(A) Arc monté"
+		},
+		"Bow, Long": {
+			"name":"(A) Arc long"
+		},
+		"Bow, Short": {
+			"name":"(A) Arc court"
+		},
+		"Chain Mail - Full": {
+			"name":"Cotte de maille complète"
+		},
+		"Chain Mail - Partial": {
+			"name":"Cotte de maille partiel"
+		},
+		"Heavy Leather - Partial": {
+			"name":"Cuir épais partiel"
+		},
+		"Leather Scale - Full": {
+			"name":"Ecaille de cuir complète"
+		},
+		"Leather Scale - Partial": {
+			"name":"Ecaille de cuir partiel"
+		},
+		"Metal Reinf Leather - Full": {
+			"name":"Cuir renforcé complète"
+		},
+		"Metal Reinf Leather - Partial": {
+			"name":"Cuir renforcé partiel"
+		},
+		"Metal Scale - Full": {
+			"name":"Ecailles métallique complète"
+		},
+		"Metal Scale - Partial": {
+			"name":"Ecaille métallique partiel"
+		},
+		"Quilted/Fur - Partial": {
+			"name":"Rembourage / cuir"
+		}
+	}
+}
