@@ -3,7 +3,8 @@
   "entries":
     {
 		"Aggressive": {
-			"name":"Aggressif"
+			"name":"Aggressif",
+			"description":"Test"
 		},
 		"Animal Handling": {
 			"name":"Connaisance des animaux"
