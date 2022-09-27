@@ -1,0 +1,390 @@
+{
+	"label": "Vices de laboratoire",
+	"mapping":
+	{
+		"source": "system.source",
+		"page": "system.page",
+		"description": "system.description"
+	},
+	"entries":
+	{
+		"No stores":
+		{
+			"name":"Aucune réserve",
+			"source":"Cov",
+			"page":"151"
+		},
+		"Defective lighting":
+		{
+			"name":"Eclairage défectueux",
+			"source":"Cov",
+			"page":"154"
+		},
+		"Wrecked":
+		{
+			"name":"En ruines",
+			"source":"Cov",
+			"page":"153"
+		},
+		"Low ceiling*":
+		{
+			"name":"Plafond bas*",
+			"source":"Cov",
+			"page":"151"
+		},
+		"Defective heating":
+		{
+			"name":"Chauffage défectueux",
+			"source":"Cov",
+			"page":"154"
+		},
+		"Empty (-1 health)*":
+		{
+			"name":"Vide (-1 santé)",
+			"source":"Cov",
+			"page":"151"
+		},
+		"Haunted":
+		{
+			"name":"Hanté",
+			"source":"Cov",
+			"page":"156"
+		},
+		"Deformed":
+		{
+			"name":"Déformé",
+			"source":"Cov",
+			"page":"150"
+		},
+		"Lesser illusion*":
+		{
+			"name":"Illusion mineure*",
+			"source":"Cov",
+			"page":"157"
+		},
+		"Exposed":
+		{
+			"name":"Exposé",
+			"source":"Cov",
+			"page":"151"
+		},
+		"Diminutive":
+		{
+			"name":"Petites proportions",
+			"source":"Cov",
+			"page":"151"
+		},
+		"Poorly insulated":
+		{
+			"name":"Mal isolé",
+			"source":"Cov",
+			"page":"151"
+		},
+		"Basic":
+		{
+			"name":"Basique",
+			"source":"Cov",
+			"page":"152"
+		},
+		"Impregnable":
+		{
+			"name":"Imprenable",
+			"source":"Cov",
+			"page":"156"
+		},
+		"Vile surroundings":
+		{
+			"name":"Environnement infect",
+			"source":"Cov",
+			"page":"151"
+		},
+		"Underwater":
+		{
+			"name":"Subaquatique",
+			"source":"Cov",
+			"page":"157"
+		},
+		"Predecessor":
+		{
+			"name":"Prédécesseur",
+			"source":"Cov",
+			"page":"156"
+		},
+		"Missing sanctum marker":
+		{
+			"name":"Pas de signe de sanctum",
+			"source":"Cov",
+			"page":"153"
+		},
+		"Abyss":
+		{
+			"name":"Abysse",
+			"source":"Cov",
+			"page":"156"
+		},
+		"Restriction":
+		{
+			"name":"Restriction",
+			"source":"Cov",
+			"page":"156"
+		},
+		"Hidden defect*":
+		{
+			"name":"Défaut caché",
+			"source":"Cov",
+			"page":"152"
+		},
+		"Gremlins":
+		{
+			"name":"Gremlins",
+			"source":"Cov",
+			"page":"156"
+		},
+		"Outdoors":
+		{
+			"name":"Externe",
+			"source":"Cov",
+			"page":"151"
+		},
+		"Inferior tools":
+		{
+			"name":"Outillage inférieur",
+			"source":"Cov",
+			"page":"153"
+		},
+		"Awkward shape":
+		{
+			"name":"Forme malcommode",
+			"source":"Cov",
+			"page":"151"
+		},
+		"Decaying":
+		{
+			"name":"Délabrement",
+			"source":"Cov",
+			"page":"153"
+		},
+		"Lightless":
+		{
+			"name":"Ténèbreux",
+			"source":"Cov",
+			"page":"157"
+		},
+		"Empty (+1 Upkeep)*":
+		{
+			"name":"Vide (+1 entretien)",
+			"source":"Cov",
+			"page":"151"
+		},
+		"Lair":
+		{
+			"name":"Antre",
+			"source":"Cov",
+			"page":"156"
+		},
+		"Living":
+		{
+			"name":"Vivant",
+			"source":"Cov",
+			"page":"157"
+		},
+		"Elementary":
+		{
+			"name":"Elémentaire",
+			"source":"Cov",
+			"page":"154"
+		},
+		"Uneven floor":
+		{
+			"name":"Sol inégal",
+			"source":"Cov",
+			"page":"151"
+		},
+		"Greater illusion*":
+		{
+			"name":"Illusion majeure*",
+			"source":"Cov",
+			"page":"157"
+		},
+		"Hovel":
+		{
+			"name":"Taudis",
+			"source":"Cov",
+			"page":"154"
+		},
+		"Lesser focus":
+		{
+			"name":"Point focal mineur",
+			"source":"Cov",
+			"page":"151"
+		},
+		"Sacrifices":
+		{
+			"name":"Sacrifices",
+			"source":"Cov",
+			"page":"157"
+		},
+		"Subterranean":
+		{
+			"name":"Souterrain",
+			"source":"Cov",
+			"page":"151"
+		},
+		"Labyrinth":
+		{
+			"name":"Labyrinthe",
+			"source":"Cov",
+			"page":"156"
+		},
+		"Inferior equipment":
+		{
+			"name":"Equipement inférieur",
+			"source":"Cov",
+			"page":"153"
+		},
+		"Disorganized":
+		{
+			"name":"Désorganisé",
+			"source":"Cov",
+			"page":"153"
+		},
+		"Afire":
+		{
+			"name":"Enflammé",
+			"source":"Cov",
+			"page":"156"
+		},
+		"Unstable*":
+		{
+			"name":"Instable",
+			"source":"Cov",
+			"page":"151"
+		},
+		"Infested":
+		{
+			"name":"Infesté",
+			"source":"Cov",
+			"page":"153"
+		},
+		"Heinous architecture":
+		{
+			"name":"Architecture agressive",
+			"source":"Cov",
+			"page":"151"
+		},
+		"Disguised":
+		{
+			"name":"Déguisé",
+			"source":"Cov",
+			"page":"151"
+		},
+		"Mental construct":
+		{
+			"name":"Construction mentale",
+			"source":"Cov",
+			"page":"157"
+		},
+		"Chaotic":
+		{
+			"name":"Chaotique",
+			"source":"Cov",
+			"page":"156"
+		},
+		"Greater focus":
+		{
+			"name":"Point focal majeur",
+			"source":"Cov",
+			"page":"151"
+		},
+		"Dirty":
+		{
+			"name":"Sale",
+			"source":"Cov",
+			"page":"154"
+		},
+		"Gaudy":
+		{
+			"name":"Mauvais gout",
+			"source":"Cov",
+			"page":"153"
+		},
+		"Vulnerable":
+		{
+			"name":"Vulnérable",
+			"source":"Cov",
+			"page":"151"
+		},
+		"Inhabitants":
+		{
+			"name":"Habitants",
+			"source":"Cov",
+			"page":"156"
+		},
+		"Missing equipment*":
+		{
+			"name":"Equipement manquant*",
+			"source":"Cov",
+			"page":"154"
+		},
+		"Damaged":
+		{
+			"name":"Endommagé",
+			"source":"Cov",
+			"page":"153"
+		},
+		"Cramped":
+		{
+			"name":"Exigu",
+			"source":"Cov",
+			"page":"151"
+		},
+		"Lousy ingredients":
+		{
+			"name":"Ingrédients miteux",
+			"source":"Cov",
+			"page":"153"
+		},
+		"Undecorated":
+		{
+			"name":"Spartiate",
+			"source":"Cov",
+			"page":"154"
+		},
+		"Cursed":
+		{
+			"name":"Maudit",
+			"source":"Cov",
+			"page":"156"
+		},
+		"Precarious*":
+		{
+			"name":"Précaire*",
+			"source":"Cov",
+			"page":"156"
+		},
+		"Missing ingredients*":
+		{
+			"name":"Ingrédients manquants*",
+			"source":"Cov",
+			"page":"153"
+		},
+		"Thoroughfare":
+		{
+			"name":"Voie publique",
+			"source":"Cov",
+			"page":"157"
+		},
+		"Damp":
+		{
+			"name":"Moite",
+			"source":"Cov",
+			"page":"153"
+		},
+		"Degenerative":
+		{
+			"name":"Dégénérescent",
+			"source":"Cov",
+			"page":"156"
+		}
+	}
+}

@@ -1,294 +1,396 @@
 {
-  "label": "Compétences",
-  "entries":
-    {
-		"Aggressive": {
+	"label": "Competences",
+	"mapping":
+	{
+		"source": "system.source",
+		"page": "system.page",
+		"description": "system.description"
+	},
+	"entries":
+	{
+		"Aggressive":
+		{
 			"name":"Aggressif"
 		},
-		"Animal Handling": {
+		"Animal Handling":
+		{
 			"name":"Connaisance des animaux"
 		},
-		"Animal Ken*": {
+		"Animal Ken*":
+		{
 			"name":"Empathie avec les animaux*"
 		},
-		"Artes Liberales*": {
+		"Artes Liberales*":
+		{
 			"name":"Artes Liberales*"
 		},
-		"Athletics": {
+		"Athletics":
+		{
 			"name":"Athlétisme"
 		},
-		"Awareness": {
+		"Awareness":
+		{
 			"name":"Attention"
 		},
-		"Bargain": {
+		"Bargain":
+		{
 			"name":"Marchandage"
 		},
-		"Bows": {
+		"Bows":
+		{
 			"name":"Archerie"
 		},
-		"Brawl": {
+		"Brawl":
+		{
 			"name":"Bagarre"
 		},
-		"Carouse": {
+		"Carouse":
+		{
 			"name":"Ripaille"
 		},
-		"Charm": {
+		"Charm":
+		{
 			"name":"Charme"
 		},
-		"Chirurgy*": {
+		"Chirurgy*":
+		{
 			"name":"Chirurgie*"
 		},
-		"Civil & Canon Law*": {
+		"Civil & Canon Law*":
+		{
 			"name":"Droit civil et canon*"
 		},
-		"Code of Hermes*": {
+		"Code of Hermes*":
+		{
 			"name":"Droit hermétique*"
 		},
-		"Common Law*": {
+		"Common Law*":
+		{
 			"name":"Droit commun*"
 		},
-		"Concentration": {
+		"Concentration":
+		{
 			"name":"Concentration"
 		},
-		"Craft: (Type)": {
+		"Craft: (Type)":
+		{
 			"name":"Artisanat (Type)"
 		},
-		"Craft: Architecture": {
+		"Craft: Architecture":
+		{
 			"name":"Artisanat (Architecte)"
 		},
-		"Craft: Armorer": {
+		"Craft: Armorer":
+		{
 			"name":"Artisanat (Armurier)"
 		},
-		"Craft: Blacksmith": {
+		"Craft: Blacksmith":
+		{
 			"name":"Artisanat (Forgeron)"
 		},
-		"Craft: Bookbinding": {
+		"Craft: Bookbinding":
+		{
 			"name":"Artisanat (Relieur)"
 		},
-		"Craft: Bowmaking": {
+		"Craft: Bowmaking":
+		{
 			"name":"Artisanat (Archerie)"
 		},
-		"Craft: Brewer": {
+		"Craft: Brewer":
+		{
 			"name":"Artisant (Brasseur)"
 		},
-		"Craft: Carpentry": {
+		"Craft: Carpentry":
+		{
 			"name":"Artisanat (Charpentier)"
 		},
-		"Craft: Glassworking": {
+		"Craft: Glassworking":
+		{
 			"name":"Artisanat (Souffleur de verre)"
 		},
-		"Craft: Illumination": {
+		"Craft: Illumination":
+		{
 			"name":"Artisanat (Cirier)"
 		},
-		"Craft: Jewelworking": {
+		"Craft: Jewelworking":
+		{
 			"name":"Artisanat (Joailler)"
 		},
-		"Craft: Leathercraft": {
+		"Craft: Leathercraft":
+		{
 			"name":"Artisanat (Maroquinier)"
 		},
-		"Craft: Masonry": {
+		"Craft: Masonry":
+		{
 			"name":"Artisanat (Maçon)"
 		},
-		"Craft: Metalsmith": {
+		"Craft: Metalsmith":
+		{
 			"name":"Artisanat (Metalurgiste)"
 		},
-		"Craft: Pottery": {
+		"Craft: Pottery":
+		{
 			"name":"Artisanat (Potier)"
 		},
-		"Craft: Weaponry": {
+		"Craft: Weaponry":
+		{
 			"name":"Artisanat (Facteur d'armes)"
 		},
-		"Craft: Weaver": {
+		"Craft: Weaver":
+		{
 			"name":"Artisanat (Tisserand)"
 		},
-		"Dominion Lore*": {
+		"Dominion Lore*":
+		{
 			"name":"Connaissance du divin*"
 		},
-		"Downsing*": {
+		"Downsing*":
+		{
 			"name":"Sourcier*"
 		},
-		"Enchanting Music*": {
+		"Enchanting Music*":
+		{
 			"name":"Musique enchanteresse*"
 		},
-		"Enigmatic Wisdom*": {
+		"Enigmatic Wisdom*":
+		{
 			"name":"Sagesse énigmatique*"
 		},
-		"Entrancement*": {
+		"Entrancement*":
+		{
 			"name":"Hypnotisme*"
 		},
-		"Etiquette": {
+		"Etiquette":
+		{
 			"name":"Etiquette"
 		},
-		"Faerie Lore*": {
+		"Faerie Lore*":
+		{
 			"name":"Connaisance de la féérie*"
 		},
-		"Ferocity": {
+		"Ferocity":
+		{
 			"name":"Férocité"
 		},
-		"Finesse": {
+		"Finesse":
+		{
 			"name":"Finesse"
 		},
-		"Folk Ken": {
+		"Folk Ken":
+		{
 			"name":"Connaissance des gens"
 		},
-		"Great Weapon": {
+		"Great Weapon":
+		{
 			"name":"Armes à 2 mains"
 		},
-		"Guile": {
+		"Guile":
+		{
 			"name":"Tromperie"
 		},
-		"Hardy": {
+		"Hardy":
+		{
 			"name":"Robuste"
 		},
-		"Heartbeast*": {
+		"Heartbeast*":
+		{
 			"name":"Animal de coeur*"
 		},
-		"Hunt": {
+		"Hunt":
+		{
 			"name":"Chasse"
 		},
-		"Infernal Lore*": {
+		"Infernal Lore*":
+		{
 			"name":"Connaissance de l'infernal*"
 		},
-		"Intrigue": {
+		"Intrigue":
+		{
 			"name":"Intrigue"
 		},
-		"Keen Sense of Smell": {
+		"Keen Sense of Smell":
+		{
 			"name":"Sens aigue de l'odorat"
 		},
-		"Language: (Type)*": {
+		"Language: (Type)*":
+		{
 			"name":"Langage (Type)*"
 		},
-		"Language: Aramaic*": {
+		"Language: Aramaic*":
+		{
 			"name":"Langue ancienne Araméènne*"
 		},
-		"Language: East German*": {
+		"Language: East German*":
+		{
 			"name":"Langue ancienne Germanic*"
 		},
-		"Language: Gothic*": {
+		"Language: Gothic*":
+		{
 			"name":"Langue ancienne Goth*"
 		},
-		"Language: Hebrew*": {
+		"Language: Hebrew*":
+		{
 			"name":"Langue ancienne Hébraique*"
 		},
-		"Language: Latin*": {
+		"Language: Latin*":
+		{
 			"name":"Langue ancienne Latin*"
 		},
-		"Leadership": {
+		"Leadership":
+		{
 			"name":"Commandement"
 		},
-		"Legerdemain*": {
+		"Legerdemain*":
+		{
 			"name":"Doigt agile*"
 		},
-		"Lore, (Area)": {
+		"Lore, (Area)":
+		{
 			"name":"Connaissance (Domaine)"
 		},
-		"Lore, (Organisation)": {
+		"Lore, (Organisation)":
+		{
 			"name":"Connaissance (Organisation)"
 		},
-		"Lore, Order of Hermes": {
+		"Lore, Order of Hermes":
+		{
 			"name":"Connaissance de l'ordre d'Hermés"
 		},
-		"Lore: (Mystery Cult)": {
+		"Lore: (Mystery Cult)":
+		{
 			"name":"Connaissance (Culte des mystères)"
 		},
-		"Magic Lore*": {
+		"Magic Lore*":
+		{
 			"name":"Connaissance de la magie*"
 		},
-		"Magic Sensitivity*": {
+		"Magic Sensitivity*":
+		{
 			"name":"Sensibilité à la magie*"
 		},
-		"Magic Theory*": {
+		"Magic Theory*":
+		{
 			"name":"Théorie de la magie*"
 		},
-		"Medicine*": {
+		"Medicine*":
+		{
 			"name":"Médecine*"
 		},
-		"Music": {
+		"Music":
+		{
 			"name":"Musique"
 		},
-		"Pack Animal": {
+		"Pack Animal":
+		{
 			"name":"Animal de meute"
 		},
-		"Parma Magica*": {
+		"Parma Magica*":
+		{
 			"name":"Parma magica"
 		},
-		"Penetration": {
+		"Penetration":
+		{
 			"name":"Pénétration"
 		},
-		"Philosophiae*": {
+		"Philosophiae*":
+		{
 			"name":"Philosophie*"
 		},
-		"Premonitions*": {
+		"Premonitions*":
+		{
 			"name":"Prémonitions*"
 		},
-		"Profession: (Type)": {
+		"Profession: (Type)":
+		{
 			"name":"Profession (Type)"
 		},
-		"Profession: Herbalist": {
+		"Profession: Herbalist":
+		{
 			"name":"Profession Herboriste"
 		},
-		"Profession: Merchant": {
+		"Profession: Merchant":
+		{
 			"name":"Profession Marchand"
 		},
-		"Profession: Sailor": {
+		"Profession: Sailor":
+		{
 			"name":"Profession Marin"
 		},
-		"Profession: Scribe": {
+		"Profession: Scribe":
+		{
 			"name":"Profession Scribe"
 		},
-		"Profession: Steward": {
+		"Profession: Steward":
+		{
 			"name":"Profession Intendant"
 		},
-		"Profession: Teamster": {
+		"Profession: Teamster":
+		{
 			"name":"Profession Routier"
 		},
-		"Pursuit Predator": {
+		"Pursuit Predator":
+		{
 			"name":"Prédateur à l'affut"
 		},
-		"Ride": {
+		"Ride":
+		{
 			"name":"Equitation"
 		},
-		"Second Sight*": {
+		"Second Sight*":
+		{
 			"name":"Seconde vue"
 		},
-		"Sense Holiness & Unholiness*": {
+		"Sense Holiness & Unholiness*":
+		{
 			"name":"Perception de la sainteté et de la malignité"
 		},
-		"Shapeshifter*": {
+		"Shapeshifter*":
+		{
 			"name":"Changeforme"
 		},
-		"Sharp Ears": {
+		"Sharp Ears":
+		{
 			"name":"Oreilles pointues"
 		},
-		"Single Weapon": {
+		"Single Weapon":
+		{
 			"name":"Armes à 1 main"
 		},
-		"Stealth": {
+		"Stealth":
+		{
 			"name":"Discrétion"
 		},
-		"Survival": {
+		"Survival":
+		{
 			"name":"Survie"
 		},
-		"Swim": {
+		"Swim":
+		{
 			"name":"Natation"
 		},
-		"Teaching": {
+		"Teaching":
+		{
 			"name":"Enseignement"
 		},
-		"Theology*": {
+		"Theology*":
+		{
 			"name":"Théologie"
 		},
-		"Thick Fur": {
+		"Thick Fur":
+		{
 			"name":"Fourrure épaisse"
 		},
-		"Thrown Weapon": {
+		"Thrown Weapon":
+		{
 			"name":"Armes de jet"
 		},
-		"Vocal": {
+		"Vocal":
+		{
 			"name":"Vocal"
 		},
-		"Wilderness Sense*": {
+		"Wilderness Sense*":
+		{
 			"name":"Sens de la nature"
-		}		
+		}
 	}
 }

@@ -1,0 +1,426 @@
+{
+	"label": "Vertues de laboratoire",
+	"mapping":
+	{
+		"source": "system.source",
+		"page": "system.page",
+		"description": "system.description"
+	},
+	"entries":
+	{
+		"Superior construction":
+		{
+			"name":"Construction supérieure",
+			"source":"Cov",
+			"page":"150"
+		},
+		"Magical superior lighting":
+		{
+			"name":"Eclairage supérieur magique",
+			"source":"Cov",
+			"page":"155"
+		},
+		"Superior lighting":
+		{
+			"name":"Eclairage supérieur",
+			"source":"Cov",
+			"page":"152"
+		},
+		"Superior equipment":
+		{
+			"name":"Equipement supérieur",
+			"source":"Cov",
+			"page":"152"
+		},
+		"Vis source*":
+		{
+			"name":"Source de Vis*",
+			"source":"Cov",
+			"page":"155"
+		},
+		"Flawless tools":
+		{
+			"name":"Outillage parfait",
+			"source":"Cov",
+			"page":"155"
+		},
+		"Relocation":
+		{
+			"name":"Mobile",
+			"source":"Cov",
+			"page":"155"
+		},
+		"Sentient":
+		{
+			"name":"Doué de pensée",
+			"source":"Cov",
+			"page":"155"
+		},
+		"Palatial":
+		{
+			"name":"Grandiose",
+			"source":"Cov",
+			"page":"152"
+		},
+		"Person*":
+		{
+			"name":"Personne*",
+			"source":"Cov",
+			"page":"152"
+		},
+		"Lesser guardian":
+		{
+			"name":"Gardien mineur",
+			"source":"Cov",
+			"page":"155"
+		},
+		"Living quarters":
+		{
+			"name":"Logement",
+			"source":"Cov",
+			"page":"152"
+		},
+		"Superior decoration":
+		{
+			"name":"Décoration supérieure",
+			"source":"Cov",
+			"page":"152"
+		},
+		"Shrouded":
+		{
+			"name":"Caché",
+			"source":"Cov",
+			"page":"155"
+		},
+		"Extensive stores":
+		{
+			"name":"Réserves importantes",
+			"source":"Cov",
+			"page":"149"
+		},
+		"Regio*":
+		{
+			"name":"Regio*",
+			"source":"Cov",
+			"page":"155"
+		},
+		"Assistant*":
+		{
+			"name":"Assistant*",
+			"source":"Cov",
+			"page":"152"
+		},
+		"Magical excessive heating":
+		{
+			"name":"Chauffage excessif magique",
+			"source":"Cov",
+			"page":"155"
+		},
+		"Idyllic surronding":
+		{
+			"name":"Environnement idylllique*",
+			"source":"Cov",
+			"page":"150"
+		},
+		"Superior heating":
+		{
+			"name":"Chauffage supérieur",
+			"source":"Cov",
+			"page":"152"
+		},
+		"Ice cavern":
+		{
+			"name":"Caverne de glace",
+			"source":"Cov",
+			"page":"155"
+		},
+		"Well insulated":
+		{
+			"name":"Bien isolé",
+			"source":"Cov",
+			"page":"149"
+		},
+		"Grand entrance":
+		{
+			"name":"Entrée grandiose",
+			"source":"Cov",
+			"page":"150"
+		},
+		"Excessive lighting":
+		{
+			"name":"Vivement éclairé",
+			"source":"Cov",
+			"page":"152"
+		},
+		"Superior tools":
+		{
+			"name":"Outillage supérieur",
+			"source":"Cov",
+			"page":"152"
+		},
+		"Invisible":
+		{
+			"name":"Invisible",
+			"source":"Cov",
+			"page":"155"
+		},
+		"Lesser feature*":
+		{
+			"name":"Trait distinctif mineur*",
+			"source":"Cov",
+			"page":"149"
+		},
+		"Lesser expansion":
+		{
+			"name":"Extension mineure",
+			"source":"Cov",
+			"page":"152"
+		},
+		"Mountaintop":
+		{
+			"name":"Sommet de montagne",
+			"source":"Cov",
+			"page":"150"
+		},
+		"Auspicious shape":
+		{
+			"name":"Forme propice",
+			"source":"Cov",
+			"page":"149"
+		},
+		"Site of legend":
+		{
+			"name":"Site légendaire",
+			"source":"Cov",
+			"page":"155"
+		},
+		"Slaves":
+		{
+			"name":"Esclaves",
+			"source":"Cov",
+			"page":"152"
+		},
+		"Magic item*":
+		{
+			"name":"Objet magique*",
+			"source":"Cov",
+			"page":"155"
+		},
+		"Dedicated building":
+		{
+			"name":"Batiment dédié",
+			"source":"Cov",
+			"page":"150"
+		},
+		"Faerie ingredients":
+		{
+			"name":"Ingrédients féériques",
+			"source":"Cov",
+			"page":"155"
+		},
+		"Precious ingredients":
+		{
+			"name":"Ingrédients précieux",
+			"source":"Cov",
+			"page":"152"
+		},
+		"Boundless":
+		{
+			"name":"Illimité",
+			"source":"Cov",
+			"page":"155"
+		},
+		"Greater feature*":
+		{
+			"name":"Trait distinctif majeur*",
+			"source":"Cov",
+			"page":"149"
+		},
+		"Mobile":
+		{
+			"name":"Mobile",
+			"source":"Cov",
+			"page":"150"
+		},
+		"Enchantment*":
+		{
+			"name":"Enchantement*",
+			"source":"Cov",
+			"page":"155"
+		},
+		"Guard*":
+		{
+			"name":"Garde*",
+			"source":"Cov",
+			"page":"152"
+		},
+		"Familiar":
+		{
+			"name":"Familier",
+			"source":"Cov",
+			"page":"154"
+		},
+		"Highly organized":
+		{
+			"name":"Très organisé",
+			"source":"Cov",
+			"page":"152"
+		},
+		"Greater horde":
+		{
+			"name":"Horde supérieure",
+			"source":"Cov",
+			"page":"154"
+		},
+		"Greater guardian":
+		{
+			"name":"Gardien supérieur",
+			"source":"Cov",
+			"page":"154"
+		},
+		"Magical excessive lighting":
+		{
+			"name":"Eclairage excessif magique",
+			"source":"Cov",
+			"page":"155"
+		},
+		"Defense":
+		{
+			"name":"Défenses",
+			"source":"Cov",
+			"page":"150"
+		},
+		"Elevated":
+		{
+			"name":"Elevé",
+			"source":"Cov",
+			"page":"150"
+		},
+		"Spotless":
+		{
+			"name":"Impeccable",
+			"source":"Cov",
+			"page":"152"
+		},
+		"Airborne":
+		{
+			"name":"Aérien",
+			"source":"Cov",
+			"page":"155"
+		},
+		"Flawless equipment":
+		{
+			"name":"Equipement parfait",
+			"source":"Cov",
+			"page":"155"
+		},
+		"Gallery":
+		{
+			"name":"Galerie",
+			"source":"Cov",
+			"page":"149"
+		},
+		"Inexhaustible supplies":
+		{
+			"name":"Fournitures inépuisables",
+			"source":"Cov",
+			"page":"155"
+		},
+		"Volcanic minerals":
+		{
+			"name":"Minerais volcaniques",
+			"source":"HP",
+			"page":"19"
+		},
+		"Specimens*":
+		{
+			"name":"Spécimens*",
+			"source":"Cov",
+			"page":"152"
+		},
+		"Magical superior heating":
+		{
+			"name":"Chauffage supérieur magique",
+			"source":"Cov",
+			"page":"155"
+		},
+		"Lesser horde":
+		{
+			"name":"Horde mineure",
+			"source":"Cov",
+			"page":"155"
+		},
+		"Menagerie":
+		{
+			"name":"Ménagerie",
+			"source":"Cov",
+			"page":"152"
+		},
+		"Servant":
+		{
+			"name":"Serviteur",
+			"source":"Cov",
+			"page":"116"
+		},
+		"Greater expansion":
+		{
+			"name":"Grande extension",
+			"source":"Cov",
+			"page":"151"
+		},
+		"Priceless ingredients":
+		{
+			"name":"Ingrédients inestimables",
+			"source":"Cov",
+			"page":"152"
+		},
+		"Studio":
+		{
+			"name":"Studio",
+			"source":"Cov",
+			"page":"150"
+		},
+		"Gateway":
+		{
+			"name":"Passage",
+			"source":"Cov",
+			"page":"155"
+		},
+		"Natural environment":
+		{
+			"name":"Environnement naturel",
+			"source":"Cov",
+			"page":"149"
+		},
+		"Opulent":
+		{
+			"name":"Opulent",
+			"source":"Cov",
+			"page":"152"
+		},
+		"Excessive heating":
+		{
+			"name":"Surchauffé",
+			"source":"Cov",
+			"page":"152"
+		},
+		"Spacious":
+		{
+			"name":"Spacieux",
+			"source":"Cov",
+			"page":"149"
+		},
+		"Preserved":
+		{
+			"name":"Préservé",
+			"source":"Cov",
+			"page":"155"
+		},
+		"Pot plants":
+		{
+			"name":"Plante en pots",
+			"source":"Cov",
+			"page":"152"
+		}
+	}
+}
