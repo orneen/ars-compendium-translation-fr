@@ -1,1 +1,1 @@
-# ars-traduction-compendium-fr
+# ars-compendium-translation-fr
