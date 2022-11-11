@@ -1,7 +1,7 @@
 {
-	"id": "ars-traduction-compendium-fr",
-	"title": "Ars Magica Traduction Compendium en français",
-	"description": "Ars Magica Traduction Compendium en français",
+	"id": "ars-compendium-translation-fr",
+	"title": "Traduction pour Ars Magica Foundry en français",
+	"description": "Traduction des compendium du système Ars Magica pour Foundry en français",
 	"authors": [
 	{
 		"name": "Orneen"
