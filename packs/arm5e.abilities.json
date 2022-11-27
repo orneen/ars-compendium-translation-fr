@@ -10,387 +10,579 @@
 	{
 		"Aggressive":
 		{
-			"name":"Aggressif"
+			"name":"Aggressif",
+			"source":"ArM5",
+			"page":288
 		},
 		"Animal Handling":
 		{
-			"name":"Connaisance des animaux"
+			"name":"Connaisance des animaux",
+			"source":"ArM5",
+			"page":105
 		},
 		"Animal Ken*":
 		{
-			"name":"Empathie avec les animaux*"
+			"name":"Empathie avec les animaux*",
+			"source":"ArM5",
+			"page":106
 		},
 		"Artes Liberales*":
 		{
-			"name":"Artes Liberales*"
+			"name":"Artes Liberales*",
+			"source":"ArM5",
+			"page":104
 		},
 		"Athletics":
 		{
-			"name":"Athlétisme"
+			"name":"Athlétisme",
+			"source":"ArM5",
+			"page":104
 		},
 		"Awareness":
 		{
-			"name":"Attention"
+			"name":"Attention",
+			"source":"ArM5",
+			"page":104
 		},
 		"Bargain":
 		{
-			"name":"Marchandage"
+			"name":"Marchandage",
+			"source":"ArM5",
+			"page":107
 		},
 		"Bows":
 		{
-			"name":"Archerie"
+			"name":"Archerie",
+			"source":"ArM5",
+			"page":102
 		},
 		"Brawl":
 		{
-			"name":"Bagarre"
+			"name":"Bagarre",
+			"source":"ArM5",
+			"page":104
 		},
 		"Carouse":
 		{
-			"name":"Ripaille"
+			"name":"Ripaille",
+			"source":"ArM5",
+			"page":109
 		},
 		"Charm":
 		{
-			"name":"Charme"
+			"name":"Charme",
+			"source":"ArM5",
+			"page":104
 		},
 		"Chirurgy*":
 		{
-			"name":"Chirurgie*"
+			"name":"Chirurgie*",
+			"source":"ArM5",
+			"page":104
 		},
 		"Civil & Canon Law*":
 		{
-			"name":"Droit civil et canon*"
+			"name":"Droit civil et canon*",
+			"source":"ArM5",
+			"page":106
 		},
 		"Code of Hermes*":
 		{
-			"name":"Droit hermétique*"
+			"name":"Droit hermétique*",
+			"source":"ArM5",
+			"page":106
 		},
 		"Common Law*":
 		{
-			"name":"Droit commun*"
+			"name":"Droit commun*",
+			"source":"ArM5",
+			"page":106
 		},
 		"Concentration":
 		{
-			"name":"Concentration"
+			"name":"Concentration",
+			"source":"ArM5",
+			"page":104
 		},
 		"Craft: (Type)":
 		{
-			"name":"Artisanat (Type)"
+			"name":"Artisanat (Type)",
+			"source":"ArM5",
+			"page":102
 		},
 		"Craft: Architecture":
 		{
-			"name":"Artisanat (Architecte)"
+			"name":"Artisanat (Architecte)",
+			"source":"ArM5",
+			"page":102
 		},
 		"Craft: Armorer":
 		{
-			"name":"Artisanat (Armurier)"
+			"name":"Artisanat (Armurier)",
+			"source":"ArM5",
+			"page":102
 		},
 		"Craft: Blacksmith":
 		{
-			"name":"Artisanat (Forgeron)"
+			"name":"Artisanat (Forgeron)",
+			"source":"ArM5",
+			"page":102
 		},
 		"Craft: Bookbinding":
 		{
-			"name":"Artisanat (Relieur)"
+			"name":"Artisanat (Relieur)",
+			"source":"ArM5",
+			"page":102
 		},
 		"Craft: Bowmaking":
 		{
-			"name":"Artisanat (Archerie)"
+			"name":"Artisanat (Archerie)",
+			"source":"ArM5",
+			"page":102
 		},
 		"Craft: Brewer":
 		{
-			"name":"Artisant (Brasseur)"
+			"name":"Artisant (Brasseur)",
+			"source":"ArM5",
+			"page":102
 		},
 		"Craft: Carpentry":
 		{
-			"name":"Artisanat (Charpentier)"
+			"name":"Artisanat (Charpentier)",
+			"source":"ArM5",
+			"page":102
 		},
 		"Craft: Glassworking":
 		{
-			"name":"Artisanat (Souffleur de verre)"
+			"name":"Artisanat (Souffleur de verre)",
+			"source":"ArM5",
+			"page":102
 		},
 		"Craft: Illumination":
 		{
-			"name":"Artisanat (Cirier)"
+			"name":"Artisanat (Cirier)",
+			"source":"ArM5",
+			"page":102
 		},
 		"Craft: Jewelworking":
 		{
-			"name":"Artisanat (Joailler)"
+			"name":"Artisanat (Joailler)",
+			"source":"ArM5",
+			"page":102
 		},
 		"Craft: Leathercraft":
 		{
-			"name":"Artisanat (Maroquinier)"
+			"name":"Artisanat (Maroquinier)",
+			"source":"ArM5",
+			"page":102
 		},
 		"Craft: Masonry":
 		{
-			"name":"Artisanat (Maçon)"
+			"name":"Artisanat (Maçon)",
+			"source":"ArM5",
+			"page":102
 		},
 		"Craft: Metalsmith":
 		{
-			"name":"Artisanat (Metalurgiste)"
+			"name":"Artisanat (Metalurgiste)",
+			"source":"ArM5",
+			"page":102
 		},
 		"Craft: Pottery":
 		{
-			"name":"Artisanat (Potier)"
+			"name":"Artisanat (Potier)",
+			"source":"ArM5",
+			"page":102
 		},
 		"Craft: Weaponry":
 		{
-			"name":"Artisanat (Facteur d'armes)"
+			"name":"Artisanat (Facteur d'armes)",
+			"source":"ArM5",
+			"page":102
 		},
 		"Craft: Weaver":
 		{
-			"name":"Artisanat (Tisserand)"
+			"name":"Artisanat (Tisserand)",
+			"source":"ArM5",
+			"page":102
 		},
 		"Dominion Lore*":
 		{
-			"name":"Connaissance du divin*"
+			"name":"Connaissance du divin*",
+			"source":"ArM5",
+			"page":105
 		},
 		"Downsing*":
 		{
-			"name":"Sourcier*"
+			"name":"Sourcier*",
+			"source":"ArM5",
+			"page":110
 		},
 		"Enchanting Music*":
 		{
-			"name":"Musique enchanteresse*"
+			"name":"Musique enchanteresse*",
+			"source":"ArM5",
+			"page":108
 		},
 		"Enigmatic Wisdom*":
 		{
-			"name":"Sagesse énigmatique*"
+			"name":"Sagesse énigmatique*",
+			"source":"ArM5",
+			"page":148
 		},
 		"Entrancement*":
 		{
-			"name":"Hypnotisme*"
+			"name":"Hypnotisme*",
+			"source":"ArM5",
+			"page":106
 		},
 		"Etiquette":
 		{
-			"name":"Etiquette"
+			"name":"Etiquette",
+			"source":"ArM5",
+			"page":106
 		},
 		"Faerie Lore*":
 		{
-			"name":"Connaisance de la féérie*"
+			"name":"Connaisance de la féérie*",
+			"source":"ArM5",
+			"page":105
 		},
 		"Ferocity":
 		{
-			"name":"Férocité"
+			"name":"Férocité",
+			"source":"ArM5",
+			"page":0
 		},
 		"Finesse":
 		{
-			"name":"Finesse"
+			"name":"Finesse",
+			"source":"ArM5",
+			"page":106
 		},
 		"Folk Ken":
 		{
-			"name":"Connaissance des gens"
+			"name":"Connaissance des gens",
+			"source":"ArM5",
+			"page":105
 		},
 		"Great Weapon":
 		{
-			"name":"Armes à 2 mains"
+			"name":"Armes à 2 mains",
+			"source":"ArM5",
+			"page":102
 		},
 		"Guile":
 		{
-			"name":"Tromperie"
+			"name":"Tromperie",
+			"source":"ArM5",
+			"page":110
 		},
 		"Hardy":
 		{
-			"name":"Robuste"
+			"name":"Robuste",
+			"source":"ArM5",
+			"page":0
 		},
 		"Heartbeast*":
 		{
-			"name":"Animal de coeur*"
+			"name":"Animal de coeur*",
+			"source":"HoH:MC",
+			"page":45
 		},
 		"Hunt":
 		{
-			"name":"Chasse"
+			"name":"Chasse",
+			"source":"ArM5",
+			"page":104
 		},
 		"Infernal Lore*":
 		{
-			"name":"Connaissance de l'infernal*"
+			"name":"Connaissance de l'infernal*",
+			"source":"ArM5",
+			"page":105
 		},
 		"Intrigue":
 		{
-			"name":"Intrigue"
+			"name":"Intrigue",
+			"source":"ArM5",
+			"page":107
 		},
 		"Keen Sense of Smell":
 		{
-			"name":"Sens aigue de l'odorat"
+			"name":"Sens aigue de l'odorat",
+			"source":"ArM5",
+			"page":0
 		},
 		"Language: (Type)*":
 		{
-			"name":"Langage (Type)*"
+			"name":"Langue (Type)*",
+			"source":"ArM5",
+			"page":107
 		},
 		"Language: Aramaic*":
 		{
-			"name":"Langue ancienne Araméènne*"
+			"name":"Langue morte (Araméènne)*",
+			"source":"ArM5",
+			"page":107
 		},
 		"Language: East German*":
 		{
-			"name":"Langue ancienne Germanic*"
+			"name":"Langue morte (Germanic)*",
+			"source":"ArM5",
+			"page":107
 		},
 		"Language: Gothic*":
 		{
-			"name":"Langue ancienne Goth*"
+			"name":"Langue morte (Goth)*",
+			"source":"HoH:MC",
+			"page":45
 		},
 		"Language: Hebrew*":
 		{
-			"name":"Langue ancienne Hébraique*"
+			"name":"Langue morte (Hébraique)*",
+			"source":"ArM5",
+			"page":107
 		},
 		"Language: Latin*":
 		{
-			"name":"Langue ancienne Latin*"
+			"name":"Langue morte (Latin)*",
+			"source":"ArM5",
+			"page":107
 		},
 		"Leadership":
 		{
-			"name":"Commandement"
+			"name":"Commandement",
+			"source":"ArM5",
+			"page":104
 		},
 		"Legerdemain*":
 		{
-			"name":"Doigt agile*"
+			"name":"Doigt agile*",
+			"source":"ArM5",
+			"page":105
 		},
 		"Lore, (Area)":
 		{
-			"name":"Connaissance (Domaine)"
+			"name":"Connaissance (Région)",
+			"source":"ArM5",
+			"page":105
 		},
 		"Lore, (Organisation)":
 		{
-			"name":"Connaissance (Organisation)"
+			"name":"Connaissance (Organisation)",
+			"source":"ArM5",
+			"page":104
 		},
 		"Lore, Order of Hermes":
 		{
-			"name":"Connaissance de l'ordre d'Hermés"
+			"name":"Connaissance de l'ordre d'Hermés",
+			"source":"ArM5",
+			"page":0
 		},
 		"Lore: (Mystery Cult)":
 		{
-			"name":"Connaissance (Culte des mystères)"
+			"name":"Connaissance (Culte des mystères)",
+			"source":"",
+			"page":0
 		},
 		"Magic Lore*":
 		{
-			"name":"Connaissance de la magie*"
+			"name":"Connaissance de la magie*",
+			"source":"ArM5",
+			"page":105
 		},
 		"Magic Sensitivity*":
 		{
-			"name":"Sensibilité à la magie*"
+			"name":"Sensibilité à la magie*",
+			"source":"ArM5",
+			"page":109
 		},
 		"Magic Theory*":
 		{
-			"name":"Théorie de la magie*"
+			"name":"Théorie de la magie*",
+			"source":"ArM5",
+			"page":110
 		},
 		"Medicine*":
 		{
-			"name":"Médecine*"
+			"name":"Médecine*",
+			"source":"ArM5",
+			"page":107
 		},
 		"Music":
 		{
-			"name":"Musique"
+			"name":"Musique",
+			"source":"ArM5",
+			"page":107
 		},
 		"Pack Animal":
 		{
-			"name":"Animal de meute"
+			"name":"Animal de meute",
+			"source":"ArM5",
+			"page":0
 		},
 		"Parma Magica*":
 		{
-			"name":"Parma magica"
+			"name":"Parma magica",
+			"source":"ArM5",
+			"page":108
 		},
 		"Penetration":
 		{
-			"name":"Pénétration"
+			"name":"Pénétration",
+			"source":"ArM5",
+			"page":108
 		},
 		"Philosophiae*":
 		{
-			"name":"Philosophie*"
+			"name":"Philosophie*",
+			"source":"ArM5",
+			"page":108
 		},
 		"Premonitions*":
 		{
-			"name":"Prémonitions*"
+			"name":"Prémonitions*",
+			"source":"ArM5",
+			"page":108
 		},
 		"Profession: (Type)":
 		{
-			"name":"Profession (Type)"
+			"name":"Profession (Type)",
+			"source":"ArM5",
+			"page":109
 		},
 		"Profession: Herbalist":
 		{
-			"name":"Profession Herboriste"
+			"name":"Profession Herboriste",
+			"source":"ArM5",
+			"page":109
 		},
 		"Profession: Merchant":
 		{
-			"name":"Profession Marchand"
+			"name":"Profession Marchand",
+			"source":"ArM5",
+			"page":109
 		},
 		"Profession: Sailor":
 		{
-			"name":"Profession Marin"
+			"name":"Profession Marin",
+			"source":"ArM5",
+			"page":109
 		},
 		"Profession: Scribe":
 		{
-			"name":"Profession Scribe"
+			"name":"Profession Scribe",
+			"source":"ArM5",
+			"page":109
 		},
 		"Profession: Steward":
 		{
-			"name":"Profession Intendant"
+			"name":"Profession Intendant",
+			"source":"ArM5",
+			"page":109
 		},
 		"Profession: Teamster":
 		{
-			"name":"Profession Routier"
+			"name":"Profession Routier",
+			"source":"ArM5",
+			"page":109
 		},
 		"Pursuit Predator":
 		{
-			"name":"Prédateur à l'affut"
+			"name":"Prédateur à l'affut",
+			"source":"ArM5",
+			"page":0
 		},
 		"Ride":
 		{
-			"name":"Equitation"
+			"name":"Equitation",
+			"source":"ArM5",
+			"page":106
 		},
 		"Second Sight*":
 		{
-			"name":"Seconde vue"
+			"name":"Double vue",
+			"source":"ArM5",
+			"page":105
 		},
 		"Sense Holiness & Unholiness*":
 		{
-			"name":"Perception de la sainteté et de la malignité"
+			"name":"Perception de la sainteté et de la malignité",
+			"source":"ArM5",
+			"page":108
 		},
 		"Shapeshifter*":
 		{
-			"name":"Changeforme"
+			"name":"Changeforme",
+			"source":"ArM5",
+			"page":104
 		},
 		"Sharp Ears":
 		{
-			"name":"Oreilles pointues"
+			"name":"Oreilles pointues",
+			"source":"ArM5",
+			"page":0
 		},
 		"Single Weapon":
 		{
-			"name":"Armes à 1 main"
+			"name":"Armes à 1 main",
+			"source":"ArM5",
+			"page":102
 		},
 		"Stealth":
 		{
-			"name":"Discrétion"
+			"name":"Discrétion",
+			"source":"ArM5",
+			"page":105
 		},
 		"Survival":
 		{
-			"name":"Survie"
+			"name":"Survie",
+			"source":"ArM5",
+			"page":110
 		},
 		"Swim":
 		{
-			"name":"Natation"
+			"name":"Natation",
+			"source":"ArM5",
+			"page":108
 		},
 		"Teaching":
 		{
-			"name":"Enseignement"
+			"name":"Enseignement",
+			"source":"ArM5",
+			"page":106
 		},
 		"Theology*":
 		{
-			"name":"Théologie"
+			"name":"Théologie",
+			"source":"ArM5",
+			"page":110
 		},
 		"Thick Fur":
 		{
-			"name":"Fourrure épaisse"
+			"name":"Fourrure épaisse",
+			"source":"ArM5",
+			"page":0
 		},
 		"Thrown Weapon":
 		{
-			"name":"Armes de jet"
+			"name":"Armes de jet",
+			"source":"ArM5",
+			"page":102
 		},
 		"Vocal":
 		{
-			"name":"Vocal"
+			"name":"Vocal",
+			"source":"ArM5",
+			"page":0
 		},
 		"Wilderness Sense*":
 		{
-			"name":"Sens de la nature"
+			"name":"Sens de la nature",
+			"source":"ArM5",
+			"page":109
 		}
 	}
 }
