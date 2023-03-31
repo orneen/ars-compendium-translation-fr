@@ -26,9 +26,9 @@
 			"source":"Cov",
 			"page":"153"
 		},
-		"Low ceiling*":
+		"Low ceiling* \"to be configure\"":
 		{
-			"name":"Plafond bas*",
+			"name":"Plafond bas* \"à configurer\"",
 			"source":"Cov",
 			"page":"151"
 		},
@@ -50,9 +50,9 @@
 			"source":"Cov",
 			"page":"156"
 		},
-		"Deformed":
+		"Deformed \"to be configured\"":
 		{
-			"name":"Déformé",
+			"name":"Déformé \"à configurer\"",
 			"source":"Cov",
 			"page":"150"
 		},
@@ -92,9 +92,9 @@
 			"source":"Cov",
 			"page":"156"
 		},
-		"Vile surroundings":
+		"Vile surroundings \"to be configured\"":
 		{
-			"name":"Environnement infect",
+			"name":"Environnement infect \"à configurer\"",
 			"source":"Cov",
 			"page":"151"
 		},
@@ -122,9 +122,9 @@
 			"source":"Cov",
 			"page":"156"
 		},
-		"Restriction":
+		"Restriction \"to be configured\"":
 		{
-			"name":"Restriction",
+			"name":"Restriction \"à configurer\"",
 			"source":"Cov",
 			"page":"156"
 		},
@@ -134,9 +134,9 @@
 			"source":"Cov",
 			"page":"152"
 		},
-		"Gremlins":
+		"Gremlins \"to be configured\"":
 		{
-			"name":"Gremlins",
+			"name":"Gremlins \"à configurer\"",
 			"source":"Cov",
 			"page":"156"
 		},
@@ -164,9 +164,9 @@
 			"source":"Cov",
 			"page":"153"
 		},
-		"Lightless":
+		"Lightless \"to be configure\"":
 		{
-			"name":"Ténèbreux",
+			"name":"Ténèbreux \"à configurer\"",
 			"source":"Cov",
 			"page":"157"
 		},
@@ -176,15 +176,15 @@
 			"source":"Cov",
 			"page":"151"
 		},
-		"Lair":
+		"Lair \"to be configured\"":
 		{
-			"name":"Antre",
+			"name":"Antre \"à configurer\"",
 			"source":"Cov",
 			"page":"156"
 		},
-		"Living":
+		"Living \"to be configured\"":
 		{
-			"name":"Vivant",
+			"name":"Vivant \"à configurer\"",
 			"source":"Cov",
 			"page":"157"
 		},
@@ -194,9 +194,9 @@
 			"source":"Cov",
 			"page":"154"
 		},
-		"Uneven floor":
+		"Uneven floor \"to be configured\"":
 		{
-			"name":"Sol inégal",
+			"name":"Sol inégal \"à configurer\"",
 			"source":"Cov",
 			"page":"151"
 		},
@@ -212,15 +212,15 @@
 			"source":"Cov",
 			"page":"154"
 		},
-		"Lesser focus":
+		"Lesser focus \"to be configured\"":
 		{
-			"name":"Point focal mineur",
+			"name":"Point focal mineur \"à configurer\"",
 			"source":"Cov",
 			"page":"151"
 		},
-		"Sacrifices":
+		"Sacrifices \"to be configured\"":
 		{
-			"name":"Sacrifices",
+			"name":"Sacrifices \"à configurer\"",
 			"source":"Cov",
 			"page":"157"
 		},
@@ -230,9 +230,9 @@
 			"source":"Cov",
 			"page":"151"
 		},
-		"Labyrinth":
+		"Labyrinth \"to be configured\"":
 		{
-			"name":"Labyrinthe",
+			"name":"Labyrinthe \"à configurer\"",
 			"source":"Cov",
 			"page":"156"
 		},
@@ -242,9 +242,9 @@
 			"source":"Cov",
 			"page":"153"
 		},
-		"Disorganized":
+		"Disorganized \"to be configured\"":
 		{
-			"name":"Désorganisé",
+			"name":"Désorganisé \"à configurer\"",
 			"source":"Cov",
 			"page":"153"
 		},
@@ -260,9 +260,9 @@
 			"source":"Cov",
 			"page":"151"
 		},
-		"Infested":
+		"Infested \"to be configured\"":
 		{
-			"name":"Infesté",
+			"name":"Infesté \"à configurer\"",
 			"source":"Cov",
 			"page":"153"
 		},
@@ -284,15 +284,15 @@
 			"source":"Cov",
 			"page":"157"
 		},
-		"Chaotic":
+		"Chaotic \"to be configured\"":
 		{
-			"name":"Chaotique",
+			"name":"Chaotique \"à configurer\"",
 			"source":"Cov",
 			"page":"156"
 		},
-		"Greater focus":
+		"Greater focus \"to be configured\"":
 		{
-			"name":"Point focal majeur",
+			"name":"Point focal majeur \"à configurer\"",
 			"source":"Cov",
 			"page":"151"
 		},
@@ -314,9 +314,9 @@
 			"source":"Cov",
 			"page":"151"
 		},
-		"Inhabitants":
+		"Inhabitants \"to be configured\"":
 		{
-			"name":"Habitants",
+			"name":"Habitants \"à configurer\"",
 			"source":"Cov",
 			"page":"156"
 		},
@@ -332,9 +332,9 @@
 			"source":"Cov",
 			"page":"153"
 		},
-		"Cramped":
+		"Cramped \"to be configured\"":
 		{
-			"name":"Exigu",
+			"name":"Exigu \"à configurer\"",
 			"source":"Cov",
 			"page":"151"
 		},
@@ -344,21 +344,21 @@
 			"source":"Cov",
 			"page":"153"
 		},
-		"Undecorated":
+		"Undecorated \"to be configure\"":
 		{
-			"name":"Spartiate",
+			"name":"Spartiate \"à configurer\"",
 			"source":"Cov",
 			"page":"154"
 		},
-		"Cursed":
+		"Cursed \"to be configured\"":
 		{
-			"name":"Maudit",
+			"name":"Maudit \"à configurer\"",
 			"source":"Cov",
 			"page":"156"
 		},
-		"Precarious*":
+		"Precarious* \"to be configured\"":
 		{
-			"name":"Précaire*",
+			"name":"Précaire* \"à configurer\"",
 			"source":"Cov",
 			"page":"156"
 		},

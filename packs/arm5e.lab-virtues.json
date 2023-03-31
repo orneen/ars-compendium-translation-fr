@@ -32,15 +32,15 @@
 			"source":"Cov",
 			"page":"152"
 		},
-		"Vis source*":
+		"Vis source* \"to be configured\"":
 		{
-			"name":"Source de Vis*",
+			"name":"Source de Vis* \"à configurer\"",
 			"source":"Cov",
 			"page":"155"
 		},
-		"Flawless tools":
+		"Flawless tools \"to be configured\"":
 		{
-			"name":"Outillage parfait",
+			"name":"Outillage parfait \"à configurer\"",
 			"source":"Cov",
 			"page":"155"
 		},
@@ -56,21 +56,21 @@
 			"source":"Cov",
 			"page":"155"
 		},
-		"Palatial":
+		"Palatial \"to be configured\"":
 		{
-			"name":"Grandiose",
+			"name":"Grandiose \"à configurer\"",
 			"source":"Cov",
 			"page":"152"
 		},
-		"Person*":
+		"Person* \"to be configured\"":
 		{
-			"name":"Personne*",
+			"name":"Personne* \"à configurer\"",
 			"source":"Cov",
 			"page":"152"
 		},
-		"Lesser guardian":
+		"Lesser guardian \"to be configured\"":
 		{
-			"name":"Gardien mineur",
+			"name":"Gardien mineur \"à configurer\"",
 			"source":"Cov",
 			"page":"155"
 		},
@@ -86,9 +86,9 @@
 			"source":"Cov",
 			"page":"152"
 		},
-		"Shrouded":
+		"Shrouded \"to be configure\"":
 		{
-			"name":"Caché",
+			"name":"Caché \"à configurer\"",
 			"source":"Cov",
 			"page":"155"
 		},
@@ -116,9 +116,9 @@
 			"source":"Cov",
 			"page":"155"
 		},
-		"Idyllic surronding":
+		"Idyllic surronding \"to be configured\"":
 		{
-			"name":"Environnement idylllique*",
+			"name":"Environnement idylllique* \"à configurer\"",
 			"source":"Cov",
 			"page":"150"
 		},
@@ -128,9 +128,9 @@
 			"source":"Cov",
 			"page":"152"
 		},
-		"Ice cavern":
+		"Ice cavern \"to be configured\"":
 		{
-			"name":"Caverne de glace",
+			"name":"Caverne de glace \"à configurer\"",
 			"source":"Cov",
 			"page":"155"
 		},
@@ -164,15 +164,15 @@
 			"source":"Cov",
 			"page":"155"
 		},
-		"Lesser feature*":
+		"Lesser feature* \"to be configured\"":
 		{
-			"name":"Trait distinctif mineur*",
+			"name":"Trait distinctif mineur* \"à configurer\"",
 			"source":"Cov",
 			"page":"149"
 		},
-		"Lesser expansion":
+		"Lesser expansion \"to be configured\"":
 		{
-			"name":"Extension mineure",
+			"name":"Extension mineure \"à configurer\"",
 			"source":"Cov",
 			"page":"152"
 		},
@@ -188,21 +188,21 @@
 			"source":"Cov",
 			"page":"149"
 		},
-		"Site of legend":
+		"Site of legend \"to be configured\"":
 		{
-			"name":"Site légendaire",
+			"name":"Site légendaire \"à configurer\"",
 			"source":"Cov",
 			"page":"155"
 		},
-		"Slaves":
+		"Slaves \"to be configured\"":
 		{
-			"name":"Esclaves",
+			"name":"Esclaves \"à configurer\"",
 			"source":"Cov",
 			"page":"152"
 		},
-		"Magic item*":
+		"Magic item* \"to be configured\"":
 		{
-			"name":"Objet magique*",
+			"name":"Objet magique* \"à configurer\"",
 			"source":"Cov",
 			"page":"155"
 		},
@@ -212,9 +212,9 @@
 			"source":"Cov",
 			"page":"150"
 		},
-		"Faerie ingredients":
+		"Faerie ingredients \"to be configured\"":
 		{
-			"name":"Ingrédients féériques",
+			"name":"Ingrédients féériques \"à configurer\"",
 			"source":"Cov",
 			"page":"155"
 		},
@@ -230,9 +230,9 @@
 			"source":"Cov",
 			"page":"155"
 		},
-		"Greater feature*":
+		"Greater feature* \"to be configured\"":
 		{
-			"name":"Trait distinctif majeur*",
+			"name":"Trait distinctif majeur* \"à configurer\"",
 			"source":"Cov",
 			"page":"149"
 		},
@@ -242,9 +242,9 @@
 			"source":"Cov",
 			"page":"150"
 		},
-		"Enchantment*":
+		"Enchantment* \"to be configured\"":
 		{
-			"name":"Enchantement*",
+			"name":"Enchantement* \"à configurer\"",
 			"source":"Cov",
 			"page":"155"
 		},
@@ -266,15 +266,15 @@
 			"source":"Cov",
 			"page":"152"
 		},
-		"Greater horde":
+		"Greater horde \"to be configured\"":
 		{
-			"name":"Horde supérieure",
+			"name":"Horde supérieure \"à configurer\"",
 			"source":"Cov",
 			"page":"154"
 		},
-		"Greater guardian":
+		"Greater guardian \"to be configured\"":
 		{
-			"name":"Gardien supérieur",
+			"name":"Gardien supérieur \"à configurer\"",
 			"source":"Cov",
 			"page":"154"
 		},
@@ -314,9 +314,9 @@
 			"source":"Cov",
 			"page":"155"
 		},
-		"Gallery":
+		"Gallery \"to be configured\"":
 		{
-			"name":"Galerie",
+			"name":"Galerie \"à configurer\"",
 			"source":"Cov",
 			"page":"149"
 		},
@@ -332,9 +332,9 @@
 			"source":"HP",
 			"page":"19"
 		},
-		"Specimens*":
+		"Specimens* \"to be configured\"":
 		{
-			"name":"Spécimens*",
+			"name":"Spécimens* \"à configurer\"",
 			"source":"Cov",
 			"page":"152"
 		},
@@ -344,9 +344,9 @@
 			"source":"Cov",
 			"page":"155"
 		},
-		"Lesser horde":
+		"Lesser horde \"to be configured\"":
 		{
-			"name":"Horde mineure",
+			"name":"Horde mineure \"à configurer\"",
 			"source":"Cov",
 			"page":"155"
 		},
@@ -362,9 +362,9 @@
 			"source":"Cov",
 			"page":"116"
 		},
-		"Greater expansion":
+		"Greater expansion \"to be configured\"":
 		{
-			"name":"Grande extension",
+			"name":"Grande extension \"à configurer\"",
 			"source":"Cov",
 			"page":"151"
 		},
@@ -380,21 +380,21 @@
 			"source":"Cov",
 			"page":"150"
 		},
-		"Gateway":
+		"Gateway \"to be configured\"":
 		{
-			"name":"Passage",
+			"name":"Passage \"à configurer\"",
 			"source":"Cov",
 			"page":"155"
 		},
-		"Natural environment":
+		"Natural environment \"to be configured\"":
 		{
-			"name":"Environnement naturel",
+			"name":"Environnement naturel \"à configurer\"",
 			"source":"Cov",
 			"page":"149"
 		},
-		"Opulent":
+		"Opulent \"to be configured\"":
 		{
-			"name":"Opulent",
+			"name":"Opulent \"à configurer\"",
 			"source":"Cov",
 			"page":"152"
 		},
