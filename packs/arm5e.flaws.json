@@ -12,1105 +12,1105 @@
 		{
 			"name":"Compétences inhibées",
 			"source":"ArM5",
-			"page":"90"
+			"page":90
 		},
 		"Afflicted Tongue":
 		{
 			"name":"Défaut de prononciation",
 			"source":"ArM5",
-			"page":"90"
+			"page":90
 		},
 		"Age Quickly":
 		{
 			"name":"Vieillissement accéléré",
 			"source":"ArM5",
-			"page":"101"
+			"page":101
 		},
 		"Ambitious (Major)":
 		{
 			"name":"Ambition (Majeur)",
 			"source":"ArM5",
-			"page":"88"
+			"page":88
 		},
 		"Ambitious (Minor)":
 		{
 			"name":"Ambition (Mineur)",
 			"source":"ArM5",
-			"page":"88"
+			"page":88
 		},
 		"Animal Companion":
 		{
 			"name":"Compagnon animal",
 			"source":"ArM5",
-			"page":"90"
+			"page":90
 		},
 		"Arthritis":
 		{
 			"name":"Arthrite",
 			"source":"ArM5",
-			"page":"88"
+			"page":88
 		},
 		"Avaricious (Major)":
 		{
 			"name":"Avarice (Majeur)",
 			"source":"ArM5",
-			"page":"88"
+			"page":88
 		},
 		"Avaricious (Minor)":
 		{
 			"name":"Avarice (Mineur)",
 			"source":"ArM5",
-			"page":"88"
+			"page":88
 		},
 		"Black Sheep":
 		{
 			"name":"Brebis galeuse",
 			"source":"ArM5",
-			"page":"89"
+			"page":89
 		},
 		"Blackmail":
 		{
 			"name":"Chantage",
 			"source":"ArM5",
-			"page":"89"
+			"page":89
 		},
 		"Blatant Gift":
 		{
 			"name":"Don tapageur",
 			"source":"ArM5",
-			"page":"91"
+			"page":91
 		},
 		"Blind":
 		{
 			"name":"Cécité",
 			"source":"ArM5",
-			"page":"89"
+			"page":89
 		},
 		"Branded Criminal":
 		{
 			"name":"Criminel marqué",
 			"source":"ArM5",
-			"page":"90"
+			"page":90
 		},
 		"Busybody":
 		{
 			"name":"Commérage",
 			"source":"ArM5",
-			"page":"90"
+			"page":90
 		},
 		"Cabal Legacy":
 		{
 			"name":"Héritage de la Cabale",
 			"source":"",
-			"page":""
+			"page":0
 		},
 		"Carefree":
 		{
 			"name":"Insouciance",
 			"source":"ArM5",
-			"page":"94"
+			"page":94
 		},
 		"Careless Sorcerer":
 		{
 			"name":"Imprudence en sorcellerie",
 			"source":"ArM5",
-			"page":"93"
+			"page":93
 		},
 		"Chaotic Magic":
 		{
 			"name":"Magie chaotique",
 			"source":"ArM5",
-			"page":"95"
+			"page":95
 		},
 		"Close Family Ties":
 		{
 			"name":"Liens familiaux étroits",
 			"source":"ArM5",
-			"page":"94"
+			"page":94
 		},
 		"Clumsy":
 		{
 			"name":"Maladresse",
 			"source":"ArM5",
-			"page":"96"
+			"page":96
 		},
 		"Clumsy Magic":
 		{
 			"name":"Magie maladroite",
 			"source":"ArM5",
-			"page":"95"
+			"page":95
 		},
 		"Compassionate (Major)":
 		{
 			"name":"Compassion (Majeur)",
 			"source":"ArM5",
-			"page":"90"
+			"page":90
 		},
 		"Compassionate (Minor)":
 		{
 			"name":"Compassion (Mineur)",
 			"source":"ArM5",
-			"page":"90"
+			"page":90
 		},
 		"Compulsion":
 		{
 			"name":"Compulsion",
 			"source":"ArM5",
-			"page":"90"
+			"page":90
 		},
 		"Continence":
 		{
 			"name":"Chasteté",
 			"source":"ArM5",
-			"page":"89"
+			"page":89
 		},
 		"Covenant Upbringing":
 		{
 			"name":"Éducation dans une alliance",
 			"source":"ArM5",
-			"page":"91"
+			"page":91
 		},
 		"Creative Block":
 		{
 			"name":"Créativité asséchée",
 			"source":"ArM5",
-			"page":"90"
+			"page":90
 		},
 		"Crippled":
 		{
 			"name":"Infirmité",
 			"source":"ArM5",
-			"page":"93"
+			"page":93
 		},
 		"Curse Of Venus":
 		{
 			"name":"Malédiction de Vénus",
 			"source":"ArM5",
-			"page":"96"
+			"page":96
 		},
 		"Cyclic Magic (negative)":
 		{
 			"name":"Magie cyclique (négatif)",
 			"source":"ArM5",
-			"page":"95"
+			"page":95
 		},
 		"Dark Secret":
 		{
 			"name":"Sombre secret",
 			"source":"ArM5",
-			"page":"100"
+			"page":100
 		},
 		"Deaf":
 		{
 			"name":"Surdité",
 			"source":"ArM5",
-			"page":"100"
+			"page":100
 		},
 		"Deficient Form":
 		{
 			"name":"Forme déficiente",
 			"source":"ArM5",
-			"page":"92"
+			"page":92
 		},
 		"Deficient Technique":
 		{
 			"name":"Technique déficiente",
 			"source":"ArM5",
-			"page":"100"
+			"page":100
 		},
 		"Deleterious Circumstances":
 		{
 			"name":"Circonstances délétères",
 			"source":"ArM5",
-			"page":"89"
+			"page":89
 		},
 		"Delusion":
 		{
 			"name":"Illusions",
 			"source":"ArM5",
-			"page":"93"
+			"page":93
 		},
 		"Dependent":
 		{
 			"name":"Responsabilité",
 			"source":"ArM5",
-			"page":"99"
+			"page":99
 		},
 		"Depressed":
 		{
 			"name":"Dépression",
 			"source":"ArM5",
-			"page":"91"
+			"page":91
 		},
 		"Diabolic Past":
 		{
 			"name":"Passé diabolique",
 			"source":"ArM5",
-			"page":"98"
+			"page":98
 		},
 		"Difficult Longevity Ritual":
 		{
 			"name":"Rituel de longévité difficile",
 			"source":"ArM5",
-			"page":"99"
+			"page":99
 		},
 		"Difficult Spontaneous Magic":
 		{
 			"name":"Magie spontanée difficile",
 			"source":"ArM5",
-			"page":"95"
+			"page":95
 		},
 		"Difficult Underlings":
 		{
 			"name":"Subalternes difficiles",
 			"source":"ArM5",
-			"page":"100"
+			"page":100
 		},
 		"Disfigured":
 		{
 			"name":"Défiguration",
 			"source":"ArM5",
-			"page":"90"
+			"page":90
 		},
 		"Disjointed Magic":
 		{
 			"name":"Magie disjointe",
 			"source":"ArM5",
-			"page":"95"
+			"page":95
 		},
 		"Disorientating Magic":
 		{
 			"name":"Magie désorientante",
 			"source":"ArM5",
-			"page":"95"
+			"page":95
 		},
 		"Driven (Major)":
 		{
 			"name":"Détermination (Majeur)",
 			"source":"ArM5",
-			"page":"91"
+			"page":91
 		},
 		"Driven (Minor)":
 		{
 			"name":"Détermination (Mineur)",
 			"source":"ArM5",
-			"page":"91"
+			"page":91
 		},
 		"Dutybound":
 		{
 			"name":"Sens du devoir",
 			"source":"ArM5",
-			"page":"99"
+			"page":99
 		},
 		"Dwarf":
 		{
 			"name":"Nain",
 			"source":"ArM5",
-			"page":"96"
+			"page":96
 		},
 		"Enemies":
 		{
 			"name":"Ennemis",
 			"source":"ArM5",
-			"page":"92"
+			"page":92
 		},
 		"Enfeebled":
 		{
 			"name":"Asthénie",
 			"source":"ArM5",
-			"page":"88"
+			"page":88
 		},
 		"Envious (Major)":
 		{
 			"name":"Envie (Majeur)",
 			"source":"ArM5",
-			"page":"92"
+			"page":92
 		},
 		"Envious (Minor)":
 		{
 			"name":"Envie (Mineur)",
 			"source":"ArM5",
-			"page":"92"
+			"page":92
 		},
 		"Faerie Friend":
 		{
 			"name":"Ami féerique",
 			"source":"ArM5",
-			"page":"88"
+			"page":88
 		},
 		"Faerie Upbringing":
 		{
 			"name":"Education féérique",
 			"source":"RoP:F",
-			"page":"115"
+			"page":115
 		},
 		"Failed Monk":
 		{
 			"name":"Moine défroqué",
 			"source":"RoP:D",
-			"page":"93"
+			"page":93
 		},
 		"Favors":
 		{
 			"name":"Faveurs",
 			"source":"ArM5",
-			"page":"92"
+			"page":92
 		},
 		"Fear":
 		{
 			"name":"Peur",
 			"source":"ArM5",
-			"page":"98"
+			"page":98
 		},
 		"Feral Upbringing":
 		{
 			"name":"Éducation sauvage",
 			"source":"ArM5",
-			"page":"91"
+			"page":91
 		},
 		"Feud":
 		{
 			"name":"Querelle",
 			"source":"ArM5",
-			"page":"98"
+			"page":98
 		},
 		"Flawed Parma Magica":
 		{
 			"name":"Faible Parma Magica",
 			"source":"ArM5",
-			"page":"92"
+			"page":92
 		},
 		"Fury":
 		{
 			"name":"Fureur",
 			"source":"ArM5",
-			"page":"92"
+			"page":92
 		},
 		"Gender Nonconforming (Major)":
 		{
 			"name":"Genre non conforme (Majeur)",
 			"source":"",
-			"page":""
+			"page":0
 		},
 		"Gender Nonconforming (Minor)":
 		{
 			"name":"Genre non conforme (Mineur)",
 			"source":"",
-			"page":""
+			"page":0
 		},
 		"Generous (Major)":
 		{
 			"name":"Générosité (Majeur)",
 			"source":"ArM5",
-			"page":"92"
+			"page":92
 		},
 		"Generous (Minor)":
 		{
 			"name":"Générosité (Mineur)",
 			"source":"ArM5",
-			"page":"92"
+			"page":92
 		},
 		"Greater Malediction":
 		{
 			"name":"Grande malédiction",
 			"source":"ArM5",
-			"page":"93"
+			"page":93
 		},
 		"Greedy (Major)":
 		{
 			"name":"Gourmandise (Majeur)",
 			"source":"ArM5",
-			"page":"92"
+			"page":92
 		},
 		"Greedy (Minor)":
 		{
 			"name":"Gourmandise (Mineur)",
 			"source":"ArM5",
-			"page":"92"
+			"page":92
 		},
 		"Hatred (Major)":
 		{
 			"name":"Haine (Majeur)",
 			"source":"ArM5",
-			"page":"93"
+			"page":93
 		},
 		"Hatred (Minor)":
 		{
 			"name":"Haine (Mineur)",
 			"source":"ArM5",
-			"page":"93"
+			"page":93
 		},
 		"Hedge Wizard":
 		{
 			"name":"Rebouteux",
 			"source":"HMRE",
-			"page":"12"
+			"page":12
 		},
 		"Heir":
 		{
 			"name":"Héritier",
 			"source":"ArM5",
-			"page":"93"
+			"page":93
 		},
 		"Higher Purpose":
 		{
 			"name":"Mission supérieure",
 			"source":"ArM5",
-			"page":"96"
+			"page":96
 		},
 		"Humble":
 		{
 			"name":"Humilité",
 			"source":"ArM5",
-			"page":"93"
+			"page":93
 		},
 		"Hunchback":
 		{
 			"name":"Difformité",
 			"source":"ArM5",
-			"page":"91"
+			"page":91
 		},
 		"Incompatible Arts":
 		{
 			"name":"Arts incompatibles",
 			"source":"ArM5",
-			"page":"88"
+			"page":88
 		},
 		"Incomprehensible":
 		{
 			"name":"Incompréhensible",
 			"source":"ArM5",
-			"page":"93"
+			"page":93
 		},
 		"Indiscreet":
 		{
 			"name":"Indiscrétion",
 			"source":"ArM5",
-			"page":"93"
+			"page":93
 		},
 		"Infamous":
 		{
 			"name":"Tristement célèbre",
 			"source":"ArM5",
-			"page":"101"
+			"page":101
 		},
 		"Infamous Master":
 		{
 			"name":"Maître tristement célèbre",
 			"source":"ArM5",
-			"page":"96"
+			"page":96
 		},
 		"Judged Unfairly":
 		{
 			"name":"Méjugement",
 			"source":"ArM5",
-			"page":"96"
+			"page":96
 		},
 		"Lame":
 		{
 			"name":"Handicap",
 			"source":"ArM5",
-			"page":"93"
+			"page":93
 		},
 		"Lecherous":
 		{
 			"name":"Luxure",
 			"source":"ArM5",
-			"page":"94"
+			"page":94
 		},
 		"Lesser Malediction":
 		{
 			"name":"Petite malédiction",
 			"source":"ArM5",
-			"page":"98"
+			"page":98
 		},
 		"Limited Magic Resistance":
 		{
 			"name":"Résistance magique limitée",
 			"source":"ArM5",
-			"page":"98"
+			"page":98
 		},
 		"Loose Magic":
 		{
 			"name":"Magie lâche",
 			"source":"ArM5",
-			"page":"95"
+			"page":95
 		},
 		"Lost Love":
 		{
 			"name":"Amour perdu",
 			"source":"ArM5",
-			"page":"88"
+			"page":88
 		},
 		"Low Self-esteem":
 		{
 			"name":"Manque de confiance en soi",
 			"source":"ArM5",
-			"page":"96"
+			"page":96
 		},
 		"Lycanthrope":
 		{
 			"name":"Lycanthrope",
 			"source":"ArM5",
-			"page":"94"
+			"page":94
 		},
 		"Magic Addiction":
 		{
 			"name":"Dépendance à la magie",
 			"source":"ArM5",
-			"page":"90"
+			"page":90
 		},
 		"Magical Air":
 		{
 			"name":"Halo magique",
 			"source":"ArM5",
-			"page":"93"
+			"page":93
 		},
 		"Magical Animal Companion":
 		{
 			"name":"Compagnon animal magique",
 			"source":"ArM5",
-			"page":"90"
+			"page":90
 		},
 		"Meddler (Major)":
 		{
 			"name":"Ingérence (Majeur)",
 			"source":"ArM5",
-			"page":"93"
+			"page":93
 		},
 		"Meddler (Minor)":
 		{
 			"name":"Ingérence (Mineur)",
 			"source":"ArM5",
-			"page":"93"
+			"page":93
 		},
 		"Mentor":
 		{
 			"name":"Mentor",
 			"source":"ArM5",
-			"page":"96"
+			"page":96
 		},
 		"Minor Magical Focus":
 		{
 			"name":"Expertise magique mineure",
 			"source":"ArM5",
-			"page":"78"
+			"page":78
 		},
 		"Missing Ear":
 		{
 			"name":"Oreille manquante",
 			"source":"ArM5",
-			"page":"98"
+			"page":98
 		},
 		"Missing Eye":
 		{
 			"name":"Oeil manquant",
 			"source":"ArM5",
-			"page":"97"
+			"page":97
 		},
 		"Missing Hand":
 		{
 			"name":"Main manquante",
 			"source":"ArM5",
-			"page":"96"
+			"page":96
 		},
 		"Mistaken Identity":
 		{
 			"name":"Erreur sur la personne",
 			"source":"ArM5",
-			"page":"92"
+			"page":92
 		},
 		"Monastic Vows":
 		{
 			"name":"Voeux monacaux",
 			"source":"ArM5",
-			"page":"101"
+			"page":101
 		},
 		"Motion Sickness":
 		{
 			"name":"Mal des transports",
 			"source":"ArM5",
-			"page":"96"
+			"page":96
 		},
 		"Mute":
 		{
 			"name":"Mutisme",
 			"source":"ArM5",
-			"page":"96"
+			"page":96
 		},
 		"Necessary Condition":
 		{
 			"name":"Condition nécessaire",
 			"source":"HoH:S",
-			"page":"157"
+			"page":157
 		},
 		"No Hands":
 		{
 			"name":"Privé de mains",
 			"source":"ArM5",
-			"page":"98"
+			"page":98
 		},
 		"No Sense Of Direction":
 		{
 			"name":"Désorientation",
 			"source":"ArM5",
-			"page":"91"
+			"page":91
 		},
 		"Nocturnal":
 		{
 			"name":"Nocturne",
 			"source":"ArM5",
-			"page":"96"
+			"page":96
 		},
 		"Noncombatant":
 		{
 			"name":"Non combattant",
 			"source":"ArM5",
-			"page":"97"
+			"page":97
 		},
 		"Oath Of Fealty":
 		{
 			"name":"Serment de fidélité",
 			"source":"ArM5",
-			"page":"99"
+			"page":99
 		},
 		"Obese":
 		{
 			"name":"Obésité",
 			"source":"ArM5",
-			"page":"97"
+			"page":97
 		},
 		"Obsessed":
 		{
 			"name":"Obsession",
 			"source":"ArM5",
-			"page":"97"
+			"page":97
 		},
 		"Offensive To Animals (Major)":
 		{
 			"name":"Offensant pour les animaux (Majeur)",
 			"source":"",
-			"page":""
+			"page":0
 		},
 		"Offensive To Animals (Minor)":
 		{
 			"name":"Offensant pour les animaux (Mineur)",
 			"source":"",
-			"page":""
+			"page":0
 		},
 		"Optimistic (Minor)":
 		{
 			"name":"Optimisme (Mineur)",
 			"source":"ArM5",
-			"page":"97"
+			"page":97
 		},
 		"Optmistic (Major)":
 		{
 			"name":"Optimisme (Majeur)",
 			"source":"ArM5",
-			"page":"97"
+			"page":97
 		},
 		"Outcast":
 		{
 			"name":"Marginal",
 			"source":"ArM5",
-			"page":"96"
+			"page":96
 		},
 		"Outlaw":
 		{
 			"name":"Hors-la-loi",
 			"source":"ArM5",
-			"page":"93"
+			"page":93
 		},
 		"Outlaw Leader":
 		{
 			"name":"Chef hors-la-loi",
 			"source":"ArM5",
-			"page":"89"
+			"page":89
 		},
 		"Outsider":
 		{
 			"name":"Étranger",
 			"source":"ArM5",
-			"page":"92"
+			"page":92
 		},
 		"Overconfident (Major)":
 		{
 			"name":"Arrogance (Majeur)",
 			"source":"ArM5",
-			"page":"88"
+			"page":88
 		},
 		"Overconfident (Minor)":
 		{
 			"name":"Arrogance (Mineur)",
 			"source":"ArM5",
-			"page":"88"
+			"page":88
 		},
 		"Oversensitive":
 		{
 			"name":"Sensibilité",
 			"source":"ArM5",
-			"page":"99"
+			"page":99
 		},
 		"Painful Magic":
 		{
 			"name":"Magie douloureuse",
 			"source":"ArM5",
-			"page":"95"
+			"page":95
 		},
 		"Palsied Hands":
 		{
 			"name":"Tremblote",
 			"source":"ArM5",
-			"page":"101"
+			"page":101
 		},
 		"Pessimistic":
 		{
 			"name":"Pessimisme",
 			"source":"ArM5",
-			"page":"98"
+			"page":98
 		},
 		"Pious (Major)":
 		{
 			"name":"Piété (Majeur)",
 			"source":"ArM5",
-			"page":"98"
+			"page":98
 		},
 		"Pious (Minor)":
 		{
 			"name":"Piété (Mineur)",
 			"source":"ArM5",
-			"page":"98"
+			"page":98
 		},
 		"Plagued By Supernatural Entity":
 		{
 			"name":"Harcelé par une entité surnaturelle",
 			"source":"ArM5",
-			"page":"93"
+			"page":93
 		},
 		"Poor":
 		{
 			"name":"Pauvreté",
 			"source":"ArM5",
-			"page":"98"
+			"page":98
 		},
 		"Poor (characteristic)":
 		{
 			"name":"Piètre (caractéristique)",
 			"source":"ArM5",
-			"page":"98"
+			"page":98
 		},
 		"Poor Eyesight":
 		{
 			"name":"Vue basse",
 			"source":"ArM5",
-			"page":"101"
+			"page":101
 		},
 		"Poor Formulaic Magic":
 		{
 			"name":"Mauvaise magie formelle",
 			"source":"ArM5",
-			"page":"96"
+			"page":96
 		},
 		"Poor Hearing":
 		{
 			"name":"Dur d’oreille",
 			"source":"ArM5",
-			"page":"91"
+			"page":91
 		},
 		"Poor Memory":
 		{
 			"name":"Mauvaise mémoire",
 			"source":"ArM5",
-			"page":"96"
+			"page":96
 		},
 		"Poor Student":
 		{
 			"name":"Mauvais étudiant",
 			"source":"ArM5",
-			"page":"96"
+			"page":96
 		},
 		"Prohibition":
 		{
 			"name":"Interdit",
 			"source":"ArM5",
-			"page":"94"
+			"page":94
 		},
 		"Proud (Major)":
 		{
 			"name":"Fierté (Majeur)",
 			"source":"ArM5",
-			"page":"92"
+			"page":92
 		},
 		"Proud (Minor)":
 		{
 			"name":"Fierté (Mineur)",
 			"source":"ArM5",
-			"page":"92"
+			"page":92
 		},
 		"Reckless":
 		{
 			"name":"Témérité",
 			"source":"ArM5",
-			"page":"100"
+			"page":100
 		},
 		"Reclusive":
 		{
 			"name":"Réclusion",
 			"source":"ArM5",
-			"page":"98"
+			"page":98
 		},
 		"Restriction":
 		{
 			"name":"Restriction",
 			"source":"ArM5",
-			"page":"99"
+			"page":99
 		},
 		"Rigid Magic":
 		{
 			"name":"Magie rigide",
 			"source":"ArM5",
-			"page":"95"
+			"page":95
 		},
 		"Sheltered Upbringing":
 		{
 			"name":"Éducation solitaire",
 			"source":"ArM5",
-			"page":"91"
+			"page":91
 		},
 		"Short Attention Span":
 		{
 			"name":"Concentration médiocre",
 			"source":"ArM5",
-			"page":"90"
+			"page":90
 		},
 		"Short-lived Magic":
 		{
 			"name":"Magie éphémère",
 			"source":"ArM5",
-			"page":"95"
+			"page":95
 		},
 		"Short-ranged Magic":
 		{
 			"name":"Magie à portée réduite",
 			"source":"ArM5",
-			"page":"94"
+			"page":94
 		},
 		"Simple-minded":
 		{
 			"name":"Simple d’esprit",
 			"source":"ArM5",
-			"page":"99"
+			"page":99
 		},
 		"Slow Caster":
 		{
 			"name":"Lancement lent",
 			"source":"ArM5",
-			"page":"94"
+			"page":94
 		},
 		"Small Frame":
 		{
 			"name":"Petite carrure",
 			"source":"ArM5",
-			"page":"98"
+			"page":98
 		},
 		"Social Handicap":
 		{
 			"name":"Handicap social",
 			"source":"ArM5",
-			"page":"93"
+			"page":93
 		},
 		"Soft-hearted":
 		{
 			"name":"Délicatesse",
 			"source":"ArM5",
-			"page":"90"
+			"page":90
 		},
 		"Study Requirement":
 		{
 			"name":"Études contraintes",
 			"source":"ArM5",
-			"page":"92"
+			"page":92
 		},
 		"Supernatural Nuisance":
 		{
 			"name":"Nuisance surnaturelle",
 			"source":"ArM5",
-			"page":"97"
+			"page":97
 		},
 		"Susceptibility To Divine Power":
 		{
 			"name":"Vulnérabilité au pouvoir divin",
 			"source":"ArM5",
-			"page":"101"
+			"page":101
 		},
 		"Susceptibility To Faerie Power":
 		{
 			"name":"Vulnérabilité au pouvoir féérique",
 			"source":"ArM5",
-			"page":"101"
+			"page":101
 		},
 		"Susceptibility To Infernal Power":
 		{
 			"name":"Vulnérabilité au pouvoir infernal",
 			"source":"ArM5",
-			"page":"101"
+			"page":101
 		},
 		"Tainted With Evil":
 		{
 			"name":"Souillure maléfique",
 			"source":"ArM5",
-			"page":"100"
+			"page":100
 		},
 		"Temperate":
 		{
 			"name":"Tempérance",
 			"source":"ArM5",
-			"page":"100"
+			"page":100
 		},
 		"Tormenting Master":
 		{
 			"name":"Maître ennemi",
 			"source":"ArM5",
-			"page":"96"
+			"page":96
 		},
 		"True Love (Major)":
 		{
 			"name":"Amour véritable (Majeur)",
 			"source":"ArM5",
-			"page":"73"
+			"page":73
 		},
 		"True Love (Minor)":
 		{
 			"name":"Amour véritable (Mineur)",
 			"source":"ArM5",
-			"page":"73"
+			"page":73
 		},
 		"Twilight Prone":
 		{
 			"name":"Enclin au crépuscule",
 			"source":"ArM5",
-			"page":"91"
+			"page":91
 		},
 		"Unimaginative Learner":
 		{
 			"name":"Élève sans imagination",
 			"source":"ArM5",
-			"page":"91"
+			"page":91
 		},
 		"Unpredictable Magic":
 		{
 			"name":"Magie imprévisible",
 			"source":"ArM5",
-			"page":"95"
+			"page":95
 		},
 		"Unstructured Caster":
 		{
 			"name":"Mage non structuré",
 			"source":"ArM5",
-			"page":"94"
+			"page":94
 		},
 		"Visions (Story)":
 		{
 			"name":"Visions (Histoire)",
 			"source":"ArM5",
-			"page":"101"
+			"page":101
 		},
 		"Visions (Supernatural)":
 		{
 			"name":"Visions (Supernaturel)",
 			"source":"ArM5",
-			"page":"101"
+			"page":101
 		},
 		"Vow":
 		{
 			"name":"Voeu",
 			"source":"ArM5",
-			"page":"101"
+			"page":101
 		},
 		"Warped Magic":
 		{
 			"name":"Magie biscornue",
 			"source":"ArM5",
-			"page":"95"
+			"page":95
 		},
 		"Waster Of Vis":
 		{
 			"name":"Gâchis de vis",
 			"source":"ArM5",
-			"page":"92"
+			"page":92
 		},
 		"Weak Characteristics":
 		{
 			"name":"Caractéristiques inférieures",
 			"source":"ArM5",
-			"page":"89"
+			"page":89
 		},
 		"Weak Enchanter":
 		{
 			"name":"Enchanteur ardu",
 			"source":"ArM5",
-			"page":"91"
+			"page":91
 		},
 		"Weak Magic":
 		{
 			"name":"Magie émoussée",
 			"source":"ArM5",
-			"page":"95"
+			"page":95
 		},
 		"Weak Magic Resistance":
 		{
 			"name":"Résistance magique faible",
 			"source":"ArM5",
-			"page":"98"
+			"page":98
 		},
 		"Weak Parens":
 		{
 			"name":"Parens incompétent",
 			"source":"ArM5",
-			"page":"98"
+			"page":98
 		},
 		"Weak Scholar":
 		{
 			"name":"Érudition limitée",
 			"source":"ArM5",
-			"page":"92"
+			"page":92
 		},
 		"Weak Spontaneous Magic":
 		{
 			"name":"Magie spontanée faible",
 			"source":"ArM5",
-			"page":"95"
+			"page":95
 		},
 		"Weak-willed":
 		{
 			"name":"Obéissance",
 			"source":"ArM5",
-			"page":"97"
+			"page":97
 		},
 		"Weakness":
 		{
 			"name":"Point faible",
 			"source":"ArM5",
-			"page":"98"
+			"page":98
 		},
 		"Weird Magic":
 		{
 			"name":"Magie étrange",
 			"source":"ArM5",
-			"page":"95"
+			"page":95
 		},
 		"Wrathful (Major)":
 		{
 			"name":"Courroux (Majeur)",
 			"source":"ArM5",
-			"page":"90"
+			"page":90
 		},
 		"Wrathful (Minor)":
 		{
 			"name":"Courroux (Mineur)",
 			"source":"ArM5",
-			"page":"90"
+			"page":90
 		}
 	}
 }
