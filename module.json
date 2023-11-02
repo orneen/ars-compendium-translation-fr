@@ -6,7 +6,7 @@
 	{
 		"name": "Orneen"
 	}],
-	"version": "2.1",
+	"version": "3.0",
 	"compatibility": {
 		"minimum": "9",
 		"verified": "10"
@@ -21,7 +21,7 @@
 			"name": "arm5e",
 			"type": "system",
 			"manifest": "https://raw.githubusercontent.com/xzotl42/arm5e/master/system.json",
-			"version": "2.0.4.22"
+			"version": "2.2.0.0"
 		}
 	],	
 	"esmodules": [

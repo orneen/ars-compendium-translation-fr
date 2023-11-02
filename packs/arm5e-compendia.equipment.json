@@ -6,6 +6,13 @@
 		"page": "system.page",
 		"description": "system.description"
 	},
+	"folders": 
+	{
+		"Armor": "Armure",
+		"Weapons": "Armes",
+		"Melee": "Mélée",
+		"Missile": "Distance"
+	},
 	"entries":
 	{
 		"(B) Bludgeon":

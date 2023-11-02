@@ -6,6 +6,17 @@
 		"page": "system.page",
 		"description": "system.description"
 	},
+	"folders": 
+	{
+		"General": "Général",
+		"Hermetic": "Hermétique",
+		"Personality": "Personnalité",
+		"Social Status": "Statut Social",
+		"Story": "Histoire",
+		"Supernatural": "Supernaturel",
+		"Major": "Majeur",
+		"Minor": "Mineur"
+	},
 	"entries":
 	{
 		"Ability Block":

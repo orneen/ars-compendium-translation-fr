@@ -6,6 +6,15 @@
 		"page": "system.page",
 		"description": "system.description"
 	},
+	"folders": 
+	{
+		"Outfitting": "Equipement",
+		"Structure": "Structure",
+		"Supernatural": "Supernaturel",
+		"Major": "Majeur",
+		"Minor": "Mineur",
+		"Free": "Gratuit"
+	},
 	"entries":
 	{
 		"No stores":

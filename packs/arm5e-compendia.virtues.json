@@ -6,6 +6,16 @@
 		"page": "system.page",
 		"description": "system.description"
 	},
+	"folders": 
+	{
+		"General": "Générale",
+		"Hermetic": "Hermétique",
+		"Social Status": "Statut Social",
+		"Supernatural": "Supernaturelle",
+		"Major": "Majeure",
+		"Minor": "Mineure",
+		"Free": "Gratuite"
+	},
 	"entries":
 	{
 		"Adept Laboratory Student":
