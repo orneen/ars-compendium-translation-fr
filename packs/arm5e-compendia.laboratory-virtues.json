@@ -1,14 +1,14 @@
 {
-	"label": "Vertues de laboratoire",
+	"label": "Vertus de laboratoire",
 	"mapping":
 	{
 		"source": "system.source",
 		"page": "system.page",
 		"description": "system.description"
 	},
-	"folders": 
+	"folders":
 	{
-		"Outfittings": "Equipement",
+		"Outfitting": "Equipement",
 		"Structure": "Structure",
 		"Supernatural": "Supernaturelle",
 		"Major": "Majeure",

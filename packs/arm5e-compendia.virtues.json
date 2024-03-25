@@ -1,15 +1,15 @@
 {
-	"label": "Vertues",
+	"label": "Vertus",
 	"mapping":
 	{
 		"source": "system.source",
 		"page": "system.page",
 		"description": "system.description"
 	},
-	"folders": 
+	"folders":
 	{
-		"General": "Générale",
-		"Hermetic": "Hermétique",
+		"General": "Generale",
+		"Hermetic": "Hermetique",
 		"Social Status": "Statut Social",
 		"Supernatural": "Supernaturelle",
 		"Major": "Majeure",
@@ -22,859 +22,918 @@
 		{
 			"name":"Etudiant laborantin adepte",
 			"source":"ArM5",
-			"page":77
+			"page":77,
+			"description":""
 		},
 		"Affinity With (ability)":
 		{
 			"name":"Affinité pour (compétences)",
 			"source":"ArM5",
-			"page":73
+			"page":73,
+			"description":"test"
 		},
 		"Affinity With (art)":
 		{
 			"name":"Affinité pour (art)",
 			"source":"ArM5",
-			"page":73
-		},
-		"Animae Magic":
-		{
-			"name":"Magie animée",
-			"source":"ArM5",
-			"page":73
+			"page":73,
+			"description":""
 		},
 		"Animal Ken":
 		{
 			"name":"Empathie avec les animaux",
 			"source":"ArM5",
-			"page":77
+			"page":77,
+			"description":""
 		},
 		"Apt Student":
 		{
 			"name":"Étudiant attentif",
 			"source":"ArM5",
-			"page":77
+			"page":77,
+			"description":""
 		},
 		"Arcane Lore":
 		{
 			"name":"Connaissance mystiques",
 			"source":"ArM5",
-			"page":76
-		},
-		"Baccalaureus":
-		{
-			"name":"Bachelor",
-			"source":"A&A",
-			"page":90
+			"page":76,
+			"description":""
 		},
 		"Berserk":
 		{
 			"name":"Frénésie berserk",
 			"source":"ArM5",
-			"page":78
-		},
-		"Blood of the Nephilim":
-		{
-			"name":"Sang de nephilim",
-			"source":"RoP:D",
-			"page":34
+			"page":78,
+			"description":""
 		},
 		"Book Learner":
 		{
 			"name":"Lecteur perspicace",
 			"source":"ArM5",
-			"page":80
+			"page":80,
+			"description":""
 		},
 		"Cautious Sorcerer":
 		{
 			"name":"Prudence en sorcellerie",
 			"source":"ArM5",
-			"page":84
+			"page":84,
+			"description":""
 		},
 		"Cautious With (ability)":
 		{
 			"name":"Prudence pour (compétence)",
 			"source":"ArM5",
-			"page":84
+			"page":84,
+			"description":""
 		},
 		"Clear Thinker":
 		{
 			"name":"Clarté de pensée",
 			"source":"ArM5",
-			"page":75
+			"page":75,
+			"description":""
 		},
 		"Clerk":
 		{
 			"name":"Clerc",
 			"source":"ArM5",
-			"page":76
+			"page":76,
+			"description":""
 		},
 		"Common Sense":
 		{
 			"name":"Bon sens",
 			"source":"ArM5",
-			"page":73
+			"page":73,
+			"description":""
 		},
 		"Covenfolk":
 		{
 			"name":"Résident d’une alliance",
 			"source":"ArM5",
-			"page":84
+			"page":84,
+			"description":""
 		},
 		"Craftsman":
 		{
 			"name":"Artisan",
 			"source":"ArM5",
-			"page":73
+			"page":73,
+			"description":""
 		},
 		"Custos":
 		{
 			"name":"Custos",
 			"source":"ArM5",
-			"page":76
+			"page":76,
+			"description":""
 		},
 		"Cyclic Magic (positive)":
 		{
 			"name":"Magie cyclique (positive)",
 			"source":"ArM5",
-			"page":80
+			"page":80,
+			"description":""
 		},
 		"Death Prophecy":
 		{
 			"name":"Prophétie de mort",
 			"source":"ArM5",
-			"page":83
+			"page":83,
+			"description":""
 		},
 		"Deft Form":
 		{
 			"name":"Forme de prédilection",
 			"source":"ArM5",
-			"page":78
+			"page":78,
+			"description":""
 		},
 		"Diedne Magic":
 		{
 			"name":"Magie de Diedne",
 			"source":"ArM5",
-			"page":80
+			"page":80,
+			"description":""
 		},
 		"Dowsing":
 		{
 			"name":"Sourcier",
 			"source":"ArM5",
-			"page":87
+			"page":87,
+			"description":""
 		},
 		"Educated":
 		{
 			"name":"Éducation classique",
 			"source":"ArM5",
-			"page":76
+			"page":76,
+			"description":""
 		},
 		"Elemental Magic":
 		{
 			"name":"Magie élémentaire",
 			"source":"ArM5",
-			"page":81
+			"page":81,
+			"description":""
 		},
 		"Enchanting Music":
 		{
 			"name":"Musique enchanteresse",
 			"source":"ArM5",
-			"page":82
+			"page":82,
+			"description":""
 		},
 		"Enduring Constitution":
 		{
 			"name":"Constitution solide",
 			"source":"ArM5",
-			"page":76
+			"page":76,
+			"description":""
 		},
 		"Enduring Magic":
 		{
 			"name":"Magie persistante",
 			"source":"ArM5",
-			"page":81
+			"page":81,
+			"description":""
 		},
 		"Entrancement":
 		{
 			"name":"Hypnotisme",
 			"source":"ArM5",
-			"page":79
+			"page":79,
+			"description":""
 		},
 		"Faerie Blood":
 		{
 			"name":"Sang féerique",
 			"source":"ArM5",
-			"page":85
+			"page":85,
+			"description":""
 		},
 		"Faerie Magic":
 		{
 			"name":"Magie féérique",
 			"source":"ArM5",
-			"page":81
+			"page":81,
+			"description":""
 		},
 		"Failed Apprentice":
 		{
 			"name":"Apprenti raté",
 			"source":"ArM5",
-			"page":73
+			"page":73,
+			"description":""
 		},
 		"Famous":
 		{
 			"name":"Célèbre",
 			"source":"ArM5",
-			"page":74
+			"page":74,
+			"description":""
 		},
 		"Fast Caster":
 		{
 			"name":"Lancement rapide",
 			"source":"ArM5",
-			"page":80
+			"page":80,
+			"description":""
 		},
 		"Flawless Magic":
 		{
 			"name":"Magie parfaite",
 			"source":"ArM5",
-			"page":81
+			"page":81,
+			"description":""
 		},
 		"Flexible Formulaic Magic":
 		{
 			"name":"Magie formelle flexible",
 			"source":"ArM5",
-			"page":81
-		},
-		"Fragile Constitution":
-		{
-			"name":"Constitution fragile",
-			"source":"ArM5",
-			"page":90
+			"page":81,
+			"description":""
 		},
 		"Free Expression":
 		{
 			"name":"Créativité foisonnante",
 			"source":"ArM5",
-			"page":76
+			"page":76,
+			"description":""
 		},
 		"Free Study":
 		{
 			"name":"Études libres",
 			"source":"ArM5",
-			"page":77
+			"page":77,
+			"description":""
 		},
 		"Gentle Gift":
 		{
 			"name":"Don de velours",
 			"source":"ArM5",
-			"page":76
+			"page":76,
+			"description":""
 		},
 		"Gentleman/woman":
 		{
 			"name":"Gentilhomme/Gente dame",
 			"source":"ArM5",
-			"page":78
+			"page":78,
+			"description":""
 		},
 		"Ghostly Warder":
 		{
 			"name":"Fantôme protecteur",
 			"source":"ArM5",
-			"page":78
+			"page":78,
+			"description":""
 		},
 		"Giant Blood":
 		{
 			"name":"Sang de géant",
 			"source":"ArM5",
-			"page":85
-		},
-		"Gift of Tongues":
-		{
-			"name":"Don des langues",
-			"source":"HoH:TL",
-			"page":127
+			"page":85,
+			"description":""
 		},
 		"Good Teacher":
 		{
 			"name":"Pédagogue",
 			"source":"ArM5",
-			"page":82
+			"page":82,
+			"description":""
 		},
 		"Gossip":
 		{
 			"name":"Ragots",
 			"source":"ArM5",
-			"page":84
+			"page":84,
+			"description":""
 		},
 		"Great (characteristic)":
 		{
 			"name":"Excellente (caractéristique)",
 			"source":"ArM5",
-			"page":77
+			"page":77,
+			"description":""
 		},
 		"Greater Immunity":
 		{
 			"name":"Immunité majeure",
 			"source":"RoP:M",
-			"page":44
+			"page":44,
+			"description":""
 		},
 		"Greater Purifying Touch":
 		{
 			"name":"Imposition des mains majeure",
 			"source":"ArM5",
-			"page":79
+			"page":79,
+			"description":""
 		},
 		"Guardian Angel":
 		{
 			"name":"Ange gardien",
 			"source":"ArM5",
-			"page":73
+			"page":73,
+			"description":""
 		},
 		"Harnessed Magic":
 		{
 			"name":"Magie contrôlée",
 			"source":"ArM5",
-			"page":80
+			"page":80,
+			"description":""
 		},
 		"Heartbeast":
 		{
 			"name":"Animal de coeur",
 			"source":"ArM5",
-			"page":73
+			"page":73,
+			"description":""
 		},
 		"Hermetic Magus":
 		{
 			"name":"Mage hermétique",
 			"source":"ArM5",
-			"page":80
+			"page":80,
+			"description":""
 		},
 		"Hermetic Prestige":
 		{
 			"name":"Prestige hermétique",
 			"source":"ArM5",
-			"page":83
-		},
-		"Imbued with the Spirit of (Form)":
-		{
-			"name":"Imprégné de l'esprit de (forme)",
-			"source":"RoP:M",
-			"page":44
+			"page":83,
+			"description":""
 		},
 		"Improved Characteristics":
 		{
 			"name":"Caractéristiques supérieures",
 			"source":"ArM5",
-			"page":74
+			"page":74,
+			"description":""
 		},
 		"Inoffensive To Animals (General)":
 		{
 			"name":"Indifférence des animaux (Général)",
 			"source":"ArM5",
-			"page":80
+			"page":80,
+			"description":""
 		},
 		"Inoffensive To Animals (Hermetic)":
 		{
 			"name":"Indifférence des animaux (Hermétic)",
 			"source":"ArM5",
-			"page":80
+			"page":80,
+			"description":""
 		},
 		"Inspirational":
 		{
 			"name":"Exaltation",
 			"source":"ArM5",
-			"page":77
+			"page":77,
+			"description":""
 		},
 		"Intuition":
 		{
 			"name":"Intuition",
 			"source":"ArM5",
-			"page":80
+			"page":80,
+			"description":""
 		},
 		"Inventive Genius":
 		{
 			"name":"Génie inventif",
 			"source":"ArM5",
-			"page":78
+			"page":78,
+			"description":""
 		},
 		"Keen Vision":
 		{
 			"name":"Vision acérée",
 			"source":"ArM5",
-			"page":88
+			"page":88,
+			"description":""
 		},
 		"Knight":
 		{
 			"name":"Chevalier",
 			"source":"ArM5",
-			"page":74
+			"page":74,
+			"description":""
 		},
 		"Landed Noble":
 		{
 			"name":"Noble propriétaire terrien",
 			"source":"ArM5",
-			"page":82
+			"page":82,
+			"description":""
 		},
 		"Large":
 		{
 			"name":"Colosse",
 			"source":"ArM5",
-			"page":76
+			"page":76,
+			"description":""
 		},
 		"Latent Magic Ability":
 		{
 			"name":"Aptitude magique latente",
 			"source":"ArM5",
-			"page":73
+			"page":73,
+			"description":""
 		},
 		"Learn (ability) From Mistakes":
 		{
 			"name":"Erreurs profitables en (compétence)",
 			"source":"ArM5",
-			"page":77
+			"page":77,
+			"description":""
 		},
 		"Lesser Immunity":
 		{
 			"name":"Immunité mineure",
 			"source":"ArM5",
-			"page":79
+			"page":79,
+			"description":""
 		},
 		"Lesser Purifying Touch":
 		{
 			"name":"Imposition des mains mineure",
 			"source":"ArM5",
-			"page":79
+			"page":79,
+			"description":""
 		},
 		"Life Boost":
 		{
 			"name":"Renforcement vital",
 			"source":"ArM5",
-			"page":84
+			"page":84,
+			"description":""
 		},
 		"Life-linked Spontaneous Magic":
 		{
 			"name":"Magie spontanée vitalisée",
 			"source":"ArM5",
-			"page":81
+			"page":81,
+			"description":""
 		},
 		"Light Touch":
 		{
 			"name":"Doigté",
 			"source":"ArM5",
-			"page":76
+			"page":76,
+			"description":""
 		},
 		"Lightning Reflexes":
 		{
 			"name":"Réflexes éclairs",
 			"source":"ArM5",
-			"page":84
-		},
-		"Linguist":
-		{
-			"name":"Linguiste",
-			"source":"HoH:TL",
-			"page":32
+			"page":84,
+			"description":""
 		},
 		"Long-winded":
 		{
 			"name":"Endurance",
 			"source":"ArM5",
-			"page":77
+			"page":77,
+			"description":""
 		},
 		"Luck":
 		{
 			"name":"Chance",
 			"source":"ArM5",
-			"page":74
-		},
-		"Magic Animal":
-		{
-			"name":"Magie animal",
-			"source":"RoP:M",
-			"page":45
+			"page":74,
+			"description":""
 		},
 		"Magic Sensitivity":
 		{
 			"name":"Sensibilité à la magie",
 			"source":"ArM5",
-			"page":87
-		},
-		"Magical Blood: Human":
-		{
-			"name":"Sang magique : Humain",
-			"source":"RoP:M",
-			"page":46
-		},
-		"Magical Champion":
-		{
-			"name":"Champion magique",
-			"source":"RoP:M",
-			"page":46
-		},
-		"Magical Master":
-		{
-			"name":"Maitre magique",
-			"source":"RoP:M",
-			"page":46
+			"page":87,
+			"description":""
 		},
 		"Magical Memory":
 		{
 			"name":"Mémoire magique",
 			"source":"ArM5",
-			"page":82
+			"page":82,
+			"description":""
 		},
 		"Magister In Artibus":
 		{
 			"name":"Magister in artibus",
 			"source":"ArM5",
-			"page":81
+			"page":81,
+			"description":""
 		},
 		"Major Magical Focus":
 		{
 			"name":"Expertise magique majeure",
 			"source":"ArM5",
-			"page":77
+			"page":77,
+			"description":""
 		},
 		"Mastered Spells":
 		{
 			"name":"Maitrise des sorts",
 			"source":"ArM5",
-			"page":82
+			"page":82,
+			"description":""
 		},
 		"Mendicant Friar":
 		{
 			"name":"Frère mendiant",
 			"source":"ArM5",
-			"page":82
+			"page":82,
+			"description":""
 		},
 		"Mercenary Captain":
 		{
 			"name":"Capitaine mercenaire",
 			"source":"ArM5",
-			"page":74
+			"page":74,
+			"description":""
 		},
 		"Merchant":
 		{
 			"name":"Marchand",
 			"source":"ArM5",
-			"page":82
+			"page":82,
+			"description":""
 		},
 		"Mercurian Magic":
 		{
 			"name":"Magie de Mercure",
 			"source":"ArM5",
-			"page":80
+			"page":80,
+			"description":""
 		},
 		"Method Caster":
 		{
 			"name":"Lancement méthodique",
 			"source":"ArM5",
-			"page":80
+			"page":80,
+			"description":""
 		},
-		"Mutantum Magic":
+		"Minor Magical Focus":
 		{
-			"name":"Magie mutagène",
-			"source":"HoH:TL",
-			"page":128
+			"name":"Expertise magique mineure",
+			"source":"ArM5",
+			"page":78,
+			"description":""
 		},
 		"Mythic Blood":
 		{
 			"name":"Sang mythique",
 			"source":"ArM5",
-			"page":86
+			"page":86,
+			"description":""
 		},
 		"Peasant":
 		{
 			"name":"Paysan",
 			"source":"ArM5",
-			"page":82
+			"page":82,
+			"description":""
 		},
 		"Perfect Balance":
 		{
 			"name":"Sens de l’équilibre",
 			"source":"ArM5",
-			"page":87
-		},
-		"Personal Power":
-		{
-			"name":"Pouvoir personnel",
-			"source":"RoP:M",
-			"page":47
+			"page":87,
+			"description":""
 		},
 		"Personal Vis Source":
 		{
 			"name":"Source de Vis personnelle",
 			"source":"ArM5",
-			"page":87
+			"page":87,
+			"description":""
 		},
 		"Piercing Gaze":
 		{
 			"name":"Regard perçant",
 			"source":"ArM5",
-			"page":84
+			"page":84,
+			"description":""
 		},
 		"Premonitions":
 		{
 			"name":"Prémonitions",
 			"source":"ArM5",
-			"page":83
+			"page":83,
+			"description":""
 		},
 		"Priest":
 		{
 			"name":"Prêtre",
 			"source":"ArM5",
-			"page":83
+			"page":83,
+			"description":""
 		},
 		"Privileged Upbringing":
 		{
 			"name":"Éducation privilégiée",
 			"source":"ArM5",
-			"page":77
+			"page":77,
+			"description":""
 		},
 		"Protection":
 		{
 			"name":"Protection",
 			"source":"ArM5",
-			"page":84
+			"page":84,
+			"description":""
 		},
 		"Puissant (ability)":
 		{
 			"name":"Talent pour (compétence)",
 			"source":"ArM5",
-			"page":87
+			"page":87,
+			"description":""
 		},
 		"Puissant (art)":
 		{
 			"name":"Talent en (Art)",
 			"source":"ArM5",
-			"page":87
+			"page":87,
+			"description":""
 		},
 		"Quiet Magic":
 		{
 			"name":"Magie silencieuse",
 			"source":"ArM5",
-			"page":81
+			"page":81,
+			"description":""
 		},
 		"Rapid Convalescence":
 		{
 			"name":"Convalescence rapide",
 			"source":"ArM5",
-			"page":76
+			"page":76,
+			"description":""
 		},
 		"Redcap":
 		{
 			"name":"Toque rouge",
 			"source":"ArM5",
-			"page":87
+			"page":87,
+			"description":""
 		},
 		"Relic":
 		{
 			"name":"Relique",
 			"source":"ArM5",
-			"page":84
+			"page":84,
+			"description":""
 		},
 		"Reserves Of Strength":
 		{
 			"name":"Réserves de force",
 			"source":"ArM5",
-			"page":84
+			"page":84,
+			"description":""
 		},
 		"Second Sight":
 		{
 			"name":"Double vue",
 			"source":"ArM5",
-			"page":76
+			"page":76,
+			"description":""
 		},
 		"Secondary Insight":
 		{
 			"name":"Révélations secondaires",
 			"source":"HMRE",
-			"page":122
+			"page":122,
+			"description":""
 		},
 		"Self-confident":
 		{
 			"name":"Confiance en soi",
 			"source":"ArM5",
-			"page":76
+			"page":76,
+			"description":""
 		},
 		"Sense Holiness And Unholiness":
 		{
 			"name":"Perception de la sainteté et de la malignité",
 			"source":"ArM5",
-			"page":82
+			"page":82,
+			"description":""
 		},
 		"Shapeshifter":
 		{
 			"name":"Changeforme",
 			"source":"ArM5",
-			"page":74
+			"page":74,
+			"description":""
+		},
+		"Sharp ears":
+		{
+			"name":"Ouïe fine",
+			"source":"ArM5",
+			"page":82,
+			"description":""
 		},
 		"Side Effect":
 		{
 			"name":"Effet secondaire",
 			"source":"ArM5",
-			"page":77
+			"page":77,
+			"description":""
+		},
+		"Silent Magic":
+		{
+			"name":"Magie silencieuse",
+			"source":"ArM5",
+			"page":81,
+			"description":""
 		},
 		"Skilled Parens":
 		{
 			"name":"Parens compétent",
 			"source":"ArM5",
-			"page":82
+			"page":82,
+			"description":""
 		},
 		"Skinchanger":
 		{
 			"name":"Changepeau",
 			"source":"ArM5",
-			"page":74
+			"page":74,
+			"description":""
 		},
 		"Social Contacts":
 		{
 			"name":"Contacts sociaux",
 			"source":"ArM5",
-			"page":76
+			"page":76,
+			"description":""
 		},
 		"Special Circumstances":
 		{
 			"name":"Circonstances spéciales",
 			"source":"ArM5",
-			"page":74
-		},
-		"Strong Angelic Heritage":
-		{
-			"name":"Héritage angélique puissant",
-			"source":"RoP:D",
-			"page":35
+			"page":74,
+			"description":""
 		},
 		"Strong Faerie Blood":
 		{
 			"name":"Sang féerique saillant",
 			"source":"ArM5",
-			"page":86
+			"page":86,
+			"description":""
 		},
 		"Strong-willed":
 		{
 			"name":"Indépendance",
 			"source":"ArM5",
-			"page":80
+			"page":80,
+			"description":""
 		},
 		"Student Of (realm)":
 		{
 			"name":"Étudiant (dimension)",
 			"source":"ArM5",
-			"page":77
+			"page":77,
+			"description":""
 		},
 		"Study Bonus":
 		{
 			"name":"Bonus aux études",
 			"source":"ArM5",
-			"page":74
+			"page":74,
+			"description":""
 		},
 		"Subtle Magic":
 		{
 			"name":"Magie subtile",
 			"source":"ArM5",
-			"page":81
+			"page":81,
+			"description":""
 		},
 		"Temporal Influence":
 		{
 			"name":"Influence temporelle",
 			"source":"ArM5",
-			"page":80
+			"page":80,
+			"description":""
 		},
 		"The Enigma":
 		{
 			"name":"L’énigme",
 			"source":"ArM5",
-			"page":77
+			"page":77,
+			"description":""
 		},
 		"The Gift":
 		{
 			"name":"Le Don",
 			"source":"ArM5",
-			"page":76
+			"page":76,
+			"description":""
 		},
 		"Tough":
 		{
 			"name":"Vigueur",
 			"source":"ArM5",
-			"page":88
+			"page":88,
+			"description":""
 		},
 		"Troupe Upbringing":
 		{
 			"name":"Éducation bohémienne",
 			"source":"ArM5",
-			"page":76
+			"page":76,
+			"description":""
 		},
 		"True Faith":
 		{
 			"name":"Foi exaltée",
 			"source":"ArM5",
-			"page":78
+			"page":78,
+			"description":""
 		},
-		"Twilight Mastery":
+		"True Love (PC)":
 		{
-			"name":"Maîtrise du Crépuscule",
-			"source":"GotF",
-			"page":39
-		},
-		"Unaffected by the Gift":
-		{
-			"name":"Non affecté par le don",
-			"source":"RoP:M",
-			"page":47
+			"name":"Amour véritable (PJ)",
+			"source":"ArM5",
+			"page":73,
+			"description":""
 		},
 		"Unaging":
 		{
 			"name":"Verdeur",
 			"source":"ArM5",
-			"page":87
+			"page":87,
+			"description":""
 		},
 		"Venus's Blessing":
 		{
 			"name":"Bénédiction de Vénus",
 			"source":"ArM5",
-			"page":73
+			"page":73,
+			"description":""
 		},
 		"Verditius Magic":
 		{
 			"name":"Magie de Verditius",
 			"source":"ArM5",
-			"page":81
+			"page":81,
+			"description":""
 		},
 		"Wanderer":
 		{
 			"name":"Vagabond",
 			"source":"ArM5",
-			"page":87
+			"page":87,
+			"description":""
 		},
 		"Warrior":
 		{
 			"name":"Combattant",
 			"source":"ArM5",
-			"page":76
+			"page":76,
+			"description":""
 		},
 		"Ways Of The (land)":
 		{
 			"name":"Connaissance du (terrain)",
 			"source":"ArM5",
-			"page":76
+			"page":76,
+			"description":""
 		},
 		"Wealthy":
 		{
 			"name":"Richesse",
 			"source":"ArM5",
-			"page":85
+			"page":85,
+			"description":""
 		},
 		"Well-traveled":
 		{
 			"name":"Grand voyageur",
 			"source":"ArM5",
-			"page":79
+			"page":79,
+			"description":""
 		},
 		"Wilderness Sense":
 		{
 			"name":"Sens de la nature",
 			"source":"ArM5",
-			"page":87
+			"page":87,
+			"description":""
 		},
 		"Wise One":
 		{
 			"name":"Sage",
 			"source":"ArM5",
-			"page":85
+			"page":85,
+			"description":""
 		}
 	}
 }

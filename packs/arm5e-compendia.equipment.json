@@ -1,16 +1,16 @@
 {
-	"label": "Objets",
+	"label": "Equipements",
 	"mapping":
 	{
 		"source": "system.source",
 		"page": "system.page",
 		"description": "system.description"
 	},
-	"folders": 
+	"folders":
 	{
 		"Armor": "Armure",
 		"Weapons": "Armes",
-		"Melee": "Mélée",
+		"Melee": "Melee",
 		"Missile": "Distance"
 	},
 	"entries":

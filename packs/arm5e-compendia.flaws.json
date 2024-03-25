@@ -6,11 +6,11 @@
 		"page": "system.page",
 		"description": "system.description"
 	},
-	"folders": 
+	"folders":
 	{
-		"General": "Général",
-		"Hermetic": "Hermétique",
-		"Personality": "Personnalité",
+		"General": "General",
+		"Hermetic": "Hermetique",
+		"Personality": "Personnalite",
 		"Social Status": "Statut Social",
 		"Story": "Histoire",
 		"Supernatural": "Supernaturel",
@@ -108,12 +108,6 @@
 			"name":"Commérage",
 			"source":"ArM5",
 			"page":90
-		},
-		"Cabal Legacy":
-		{
-			"name":"Héritage de la Cabale",
-			"source":"",
-			"page":0
 		},
 		"Carefree":
 		{
@@ -355,12 +349,6 @@
 			"source":"RoP:F",
 			"page":115
 		},
-		"Failed Monk":
-		{
-			"name":"Moine défroqué",
-			"source":"RoP:D",
-			"page":93
-		},
 		"Favors":
 		{
 			"name":"Faveurs",
@@ -391,23 +379,17 @@
 			"source":"ArM5",
 			"page":92
 		},
+		"Fragile constitution":
+		{
+			"name":"Constitution fragile",
+			"source":"ArM5",
+			"page":90
+		},
 		"Fury":
 		{
 			"name":"Fureur",
 			"source":"ArM5",
 			"page":92
-		},
-		"Gender Nonconforming (Major)":
-		{
-			"name":"Genre non conforme (Majeur)",
-			"source":"",
-			"page":0
-		},
-		"Gender Nonconforming (Minor)":
-		{
-			"name":"Genre non conforme (Mineur)",
-			"source":"",
-			"page":0
 		},
 		"Generous (Major)":
 		{
@@ -523,9 +505,15 @@
 			"source":"ArM5",
 			"page":93
 		},
-		"Lecherous":
+		"Lecherous (Major)":
 		{
-			"name":"Luxure",
+			"name":"Luxure (Majeur)",
+			"source":"ArM5",
+			"page":94
+		},
+		"Lecherous (Minor)":
+		{
+			"name":"Luxure (Mineur)",
 			"source":"ArM5",
 			"page":94
 		},
@@ -600,12 +588,6 @@
 			"name":"Mentor",
 			"source":"ArM5",
 			"page":96
-		},
-		"Minor Magical Focus":
-		{
-			"name":"Expertise magique mineure",
-			"source":"ArM5",
-			"page":78
 		},
 		"Missing Ear":
 		{
@@ -697,27 +679,27 @@
 			"source":"ArM5",
 			"page":97
 		},
-		"Offensive To Animals (Major)":
+		"Offensive To Animals (surpernatural)":
 		{
-			"name":"Offensant pour les animaux (Majeur)",
-			"source":"",
+			"name":"Haï des animaux (Supernaturelle)",
+			"source":"Maison",
 			"page":0
 		},
-		"Offensive To Animals (Minor)":
+		"Offensive To Animals (hermetic)":
 		{
-			"name":"Offensant pour les animaux (Mineur)",
-			"source":"",
+			"name":"Haï des animaux (Hermétique)",
+			"source":"Maison",
 			"page":0
+		},
+		"Optimistic (Major)":
+		{
+			"name":"Optimisme (Majeur)",
+			"source":"ArM5",
+			"page":97
 		},
 		"Optimistic (Minor)":
 		{
 			"name":"Optimisme (Mineur)",
-			"source":"ArM5",
-			"page":97
-		},
-		"Optmistic (Major)":
-		{
-			"name":"Optimisme (Majeur)",
 			"source":"ArM5",
 			"page":97
 		},
@@ -984,6 +966,12 @@
 			"name":"Maître ennemi",
 			"source":"ArM5",
 			"page":96
+		},
+		"Transvestite":
+		{
+			"name":"Travesti",
+			"source":"ArM5",
+			"page":100
 		},
 		"True Love (Major)":
 		{
