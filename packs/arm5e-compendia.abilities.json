@@ -9,763 +9,875 @@
 	"folders":
 	{
 		"Academic": "Academiques",
-		"Animals": "Animals",
+		"Alternate Arts": "Arts alternatifs",
 		"General": "Generales",
 		"Martial": "Martiales",
 		"Mystery": "Mysteres",
 		"Arcane": "Mystiques",
-		"Surpernatural": "Surnaturelles"
+		"Supernatural": "Surnaturelles"
 	},
 	"entries":
 	{
-		"Academic ability (Topic's name)":
+		"Enchanting (Ability)*":
 		{
-			"name":"Compétence académique (Nom du sujet)",
-			"source":"Maison",
+			"name":"(Compétence) enchanteresse*",
+			"source":"ArM5",
 			"page":0,
-			"description":""
+			"description":"<p>Si le personnage le souhaite, il peut influencer les autres avec une Compétence artistique particulière. Pour un effet spécifique, il doit utiliser des mots que les gens peuvent comprendre. Il peut calmer les personnes en deuil avec de simples mélodies, mais il a besoin de paroles pour convaincre des paysans de se soulever contre le seigneur local. Les effets généraux fonctionnent sur les animaux, mais les effets spécifiques ne fonctionnent que sur les créatures qui peuvent comprendre les mots. Lorsqu'il utilise sa (Compétence) enchanteresse, il doit faire un jet de Tension ou simple, selon la situation avec sa Communication et sa Compétence. Un Facteur de Difficulté de 9 est suffisant pour calmer la colère, 12 permet de gagner l'amour de quelqu'un, 15 déclenche une émeute et 24 pourrait permettre de reprendre une âme au Prince des Ténèbres. En cas de Désastre, le personnage inspire une émotion indésirable.</p><p>Si la cible a une Résistance magique, sa Résistance magique doit être franchie (p. XX).</p><p>Le personnage doit aussi faire un jet pour la qualité de sa représentation, mais l'effet magique est indépendant de ce jet, à moins d'un Désastre. Dans ce cas, le personnage n'a pas réussi à se produire et la Compétence Surnaturelle échoue donc automatiquement.</p><p><b>Spécialisations :</b> une émotion particulière, une personne particulière.</p>"
 		},
-		"Aggressive":
+		"Heartbeast*":
 		{
-			"name":"Aggressif",
+			"name":"Animal de Cœur*",
 			"source":"ArM5",
-			"page":288,
-			"description":"<p>ajoutez 1 en Ruse / ajoutez Bagarre 5 (armes naturelles).</p>"
-		},
-		"Animal Handling":
-		{
-			"name":"Connaisance des animaux",
-			"source":"ArM5",
-			"page":105,
-			"description":"<p>Il s’agit de la capacité à utiliser les animaux et à en prendre soin, ce qui inclut la capacité à les dresser, à s’en occuper, à les toiletter et à les soigner.</p> <p>Spécialisations : fauconnerie, animaux spécifiques.</p>"
-		},
-		"Animal Ken*":
-		{
-			"name":"Empathie avec les animaux*",
-			"source":"ArM5",
-			"page":106,
-			"description":"<p>Le personnage peut communiquer avec les animaux comme s’ils étaient des êtres humains. Il traite sa valeur d’Empathie avec les animaux comme sa valeur dans une langue que l’animal parle couramment afin de déterminer s’il est en mesure de bien communiquer, et il peut utiliser Connaissance des animaux à la place de toute compétence sociale affectant les humains. Outre cela, cet avantage n’a aucun effet sur l’attitude des animaux envers le personnage, ni sur l’attitude du personnage envers eux. Les autres ne peuvent pas comprendre vos communications avec les animaux.</p><p>Spécialisations : un type particulier d’animal, un type particulier de communication.</p>"
-		},
-		"Arcane ability (Ability's name)":
-		{
-			"name":"Compétence mystique (Nom de la compétence)",
-			"source":"Maison",
 			"page":0,
-			"description":""
-		},
-		"Artes Liberales*":
-		{
-			"name":"Artes Liberales*",
-			"source":"ArM5",
-			"page":104,
-			"description":"<p>Les sept arts libéraux sont la base de l’éducation médiévale supérieure. Tout le monde les apprend à l’université avant de poursuivre ses études sur d’autres sujets. Il est très rare qu’un personnage ait une valeur dans une autre Compétence académique sans avoir une valeur d’au moins un dans celle-ci.</p><p>Les arts libéraux sont répartis en deux groupes : le trivium (grammaire, logique et rhétorique) et le quadrivium (arithmétique, géométrie, astronomie et musique). À cette époque, l’accent est mis sur le trivium, mais les deux groupes de matières sont enseignés.</p><p>La grammaire concerne les questions théoriques de la structure des langues davantage que la capacité à manier une langue spécifique (couverte par la capacité à parler). Les autorités en sont Priscien et Donat. La logique correspond à l’étude du syllogisme et à d’autres formes de raisonnement étudiées par Aristote. Aristote en est l’autorité avec sa logica vetus et sa logica nova. La rhétorique est l’étude de la théorie des formes rhétoriques : c’est la connaissance des astuces qu’un orateur peut utiliser plus que la capacité à les utiliser. L’autorité en est Cicéron, notamment son De Inventione.</p><p> L’arithmétique correspond à la capacité à additionner et à soustraire, à multiplier et à diviser. L’autorité en est le De arithmetica de Boèce. La géométrie s’intéresse à l’étude des figures planes et solides et l’autorité en est Euclide, avec ses Elemenla. Elle concerne également l’étude de la lumière dont l’autorité est incarnée par l’Optica d’Euclide. L’astronomie s’intéresse à la prévision des positions des étoiles et des planètes et le Libri Almagesti de Ptolémée en est l’autorité. La musique est purement théorique puisqu’elle étudie les proportions et la théorie musicale, non la capacité à chanter ou à jouer d’un instrument. L’autorité en est le De Musica de Boèce.</p><p>Les arts libéraux couvrent également la capacité à lire et à écrire. Pour chaque point dépensé dans la Compétence, le personnage peut lire et écrire un système d’écriture, à condition qu’il connaisse une langue utilisant normalement ce système : l’alphabet latin, l’alphabet grec, l’alphabet arabe,etc.</p><p>Spécialisations : grammaire, logique, rhétorique, arithmétique, géométrie, astronomie, musique, magie rituelle, incantation cérémonielle. (Académique)"
-		},
-		"Athletics":
-		{
-			"name":"Athlétisme",
-			"source":"ArM5",
-			"page":104,
-			"description":"<p>Ce sont les prouesses physiques générales. Cela inclut la capacité à se déplacer en douceur, avec confiance et avec grâce. L’utilisation d’Athlétisme améliore l’ensemble de la coordination des muscles larges.</p><p>Spécialisations : acrobaties, contorsions, grâce, saut, course.</p>"
-		},
-		"Awareness":
-		{
-			"name":"Attention",
-			"source":"ArM5",
-			"page":104,
-			"description":"<p>Il s’agit de la capacité à repérer les choses, que le personnage les cherche ou ne les attende pas. Cette Compétence sert également à jauger la vigilance du personnage dans les situations nécessitant d’être attentif.<p></p>Spécialisations : garde du corps, surveillance, vigilance, recherches.</p>"
-		},
-		"Bargain":
-		{
-			"name":"Marchandage",
-			"source":"ArM5",
-			"page":107,
-			"description":"<p>Il s’agit de la capacité à obtenir le meilleur d’un service ou d’un produit à moindre prix. Cela implique de savoir lire les intentions de la personne avec laquelle le personnage marchande, de connaître en gros la valeur des biens et de se présenter d’une certaine manière. Un bon marchandeur peut facilement passer la résistance d’un client inexpérimenté et déceler les tentatives de surévaluation de la plupart des marchandises.</p><p>Spécialisations : types spécifiques de produits, vente aggressive.</p>"
+			"description":"<p>Compétence partagée par tous les magi Bjornaer pour prendre la forme de leur Animal de Cœur (chapitre Magie Hermétique). Cette Compétence ne peut pas être apprise par les personnages non Bjornaer, même s'ils ont accès aux Compétences Mystiques.</p>"
 		},
 		"Bows":
 		{
 			"name":"Archerie",
 			"source":"ArM5",
-			"page":102,
-			"description":"<p>Il s’agit du maniement des arcs et des flèches.</p><p>Spécialisations : une arme au choix.</p>"
-		},
-		"Brawl":
-		{
-			"name":"Bagarre",
-			"source":"ArM5",
-			"page":104,
-			"description":"<p>Il s’agit de la capacité à se battre à mains nues, sans armes ou avec les armes improvisées qui tombent sous la main du personnage, y compris les couteaux. Bagarre est également la Compétence utilisée pour esquiver les attaques si le personnage n’a pas de Compétences martiales.</p><p>Spécialisations : coups de poing, lutte, couteaux, esquive.</p>"
-		},
-		"Carouse":
-		{
-			"name":"Ripaille",
-			"source":"ArM5",
-			"page":109,
-			"description":"<p>Il s’agit de la capacité à s’amuser sans souffrir des effets négatifs. Un personnage ayant cette compétence peut, par exemple, consommer de prodigieuses quantités d’alcool sans perdre connaissance. Cette compétence inclut également une certaine familiarité avec les comportements acceptables, équilibrant la jouissance et la modération. Avec cette Compétence, le personnage est capable de s’amuser et de se faire des amis dans pratiquement toutes les classes populaires, même de culture différente.</p><p>Spécialisations : beuverie, chansons à boire, jeux de hasard, sobriété</p>"
-		},
-		"Charm":
-		{
-			"name":"Charme",
-			"source":"ArM5",
-			"page":104,
-			"description":"<p>Il s’agit de la capacité à séduire, à captiver et à se faire apprécier des autres, mais seulement par soimême. Elle peut servir à s’attirer les faveurs de quelqu’un d’un point de vue émotionnel.</p><p>Spécialisations : amour courtois, premières impressions, badinerie.</p>"
-		},
-		"Chirurgy*":
-		{
-			"name":"Chirurgie*",
-			"source":"ArM5",
-			"page":104,
-			"description":"<p>Il s’agit de la chirurgie médiévale, utilisée pour aider les autres à recouvrir de leurs blessures physiques. Cela comprend la capacité à soigner et à panser les blessures de toutes sortes et la capacité brutale mais nécessaire à cautériser. Cf. « Les blessures » dont les règles commencent p. 263.</p><p>Spécialisations : cautérisation, diagnostic, pansage des plaies, fixation des os.</p>"
-		},
-		"Civil & Canon Law*":
-		{
-			"name":"Droit civil et canon*",
-			"source":"ArM5",
-			"page":106,
-			"description":"<p>Le droit civil est celui de l’Empire romain. La plupart des systèmes législatifs locaux s’appuient dessus (l’Angleterre étant une exception notable) et, quand on a besoin d’un système de lois pour gouverner les relations internationales, on fait appel au droit civil. L’autorité en est le Digeste de Justinien. Le droit canon est celui de l’Église. Il est important dans l’Europe Mythique puisqu’il s’applique à toutes les nations, gouvernant le fonctionnement de l’Église et de quelques autres domaines, comme le mariage. Il est important de noter que les membres du clergé ne sont sujets qu’au droit canon, pas au droit civil ni au droit coutumier. La plupart des grands hommes d’Église sont des canonistes compétents, pas des théologiens. Le droit canon se compose de bulles papales (des actes), mais l’autorité en est le Decretum de Gratien. Cette compétence inclut la connaissance des deux types de droit. Les autres religions, notamment le Judaïsme et l’Islam, ont leurs propres versions de cette Compétence, qui doivent être apprises indépendamment.</p><p>Spécialisations : lois et coutumes d’une région spécifique, lois pontificales.</p>"
-		},
-		"Code of Hermes*":
-		{
-			"name":"Droit hermétique*",
-			"source":"ArM5",
-			"page":106,
-			"description":"<p>Il s’agit de la capacité à juger les évènements en fonction du Droit hermétique et du Droit périphérique. En plus de la mémorisation de précédents importants, sa connaissance inclut le côté pratique de l’application du Droit hermétique — par exemple, savoir quand insister pour un vote ou comment présenter un argument.</p><p>Spécialisations : Marches des magiciens, apprentis, relations vulgaires, procédures des tribunaux, intrigues politiques.</p>"
-		},
-		"Common Law*":
-		{
-			"name":"Droit commun*",
-			"source":"ArM5",
-			"page":106,
-			"description":"<p>Il s’agit de la connaissance des lois de l’Angleterre. Il n’existe aucune autorité pour cette Compétence et elle n’est enseignée qu’en Angleterre.</p><p>Spécialisations : lois locales, lois de l’Échiquier.</p>"
-		},
-		"Concentration":
-		{
-			"name":"Concentration",
-			"source":"ArM5",
-			"page":104,
-			"description":"<p>Il s’agit de la capacité à concentrer ses facultés mentales sur une tâche, notamment pendant des périodes prolongées. Si le personnage réalise une prouesse qui nécessite toute son attention, ou s’il vient de rater une action et l’essaye à nouveau, le conteur peut lui demander de faire un test de Concentration avant qu’il ne réessaye. Cette Compétence est surtout importante pour les mages puisqu’elle les aide à maintenir leur concentration sur des sorts malgré les distractions.</p><p>Spécialisations : concentration magique, lecture, travail de laboratoire.</p>"
-		},
-		"Craft: (Type)":
-		{
-			"name":"Artisanat (Type)",
-			"source":"ArM5",
-			"page":102,
-			"description":"<p>Il s’agit d’un terme général couvrant d’innombrables compétences ayant toutes trait aux ouvrages manuels d’un certain type. En principe, les compétences Artisanat se distinguent par le matériau qui est travaillé, bien que le personnage puisse prendre une Compétence Artisanat lui permettant de travailler plusieurs matériaux d’une seule manière spécifique. Il peut acheter la Compétence plus d’une fois, en choisissant un Artisanat différent à chaque fois. Le talent dans une Compétence Artisanat n’implique pas le savoir-faire dans une autre.</p><p>Spécialisations : approprié à l’artisanat.</p>"
-		},
-		"Craft: Architecture":
-		{
-			"name":"Artisanat (Architecte)",
-			"source":"ArM5",
-			"page":102,
-			"description":""
-		},
-		"Craft: Armorer":
-		{
-			"name":"Artisanat (Armurier)",
-			"source":"ArM5",
-			"page":102,
-			"description":""
-		},
-		"Craft: Blacksmith":
-		{
-			"name":"Artisanat (Forgeron)",
-			"source":"ArM5",
-			"page":102,
-			"description":""
-		},
-		"Craft: Bookbinding":
-		{
-			"name":"Artisanat (Relieur)",
-			"source":"ArM5",
-			"page":102,
-			"description":""
-		},
-		"Craft: Bowmaking":
-		{
-			"name":"Artisanat (Archerie)",
-			"source":"ArM5",
-			"page":102,
-			"description":""
-		},
-		"Craft: Brewer":
-		{
-			"name":"Artisant (Brasseur)",
-			"source":"ArM5",
-			"page":102,
-			"description":""
-		},
-		"Craft: Carpentry":
-		{
-			"name":"Artisanat (Charpentier)",
-			"source":"ArM5",
-			"page":102,
-			"description":""
-		},
-		"Craft: Glassworking":
-		{
-			"name":"Artisanat (Souffleur de verre)",
-			"source":"ArM5",
-			"page":102,
-			"description":""
-		},
-		"Craft: Illumination":
-		{
-			"name":"Artisanat (Cirier)",
-			"source":"ArM5",
-			"page":102,
-			"description":""
-		},
-		"Craft: Jewelworking":
-		{
-			"name":"Artisanat (Joailler)",
-			"source":"ArM5",
-			"page":102,
-			"description":""
-		},
-		"Craft: Leathercraft":
-		{
-			"name":"Artisanat (Maroquinier)",
-			"source":"ArM5",
-			"page":102,
-			"description":""
-		},
-		"Craft: Masonry":
-		{
-			"name":"Artisanat (Maçon)",
-			"source":"ArM5",
-			"page":102,
-			"description":""
-		},
-		"Craft: Metalsmith":
-		{
-			"name":"Artisanat (Metalurgiste)",
-			"source":"ArM5",
-			"page":102,
-			"description":""
-		},
-		"Craft: Pottery":
-		{
-			"name":"Artisanat (Potier)",
-			"source":"ArM5",
-			"page":102,
-			"description":""
-		},
-		"Craft: Weaponry":
-		{
-			"name":"Artisanat (Facteur d'armes)",
-			"source":"ArM5",
-			"page":102,
-			"description":""
-		},
-		"Craft: Weaver":
-		{
-			"name":"Artisanat (Tisserand)",
-			"source":"ArM5",
-			"page":102,
-			"description":""
-		},
-		"Dead language (Language's name)":
-		{
-			"name":"Langue morte (Nom du langage)",
-			"source":"ArM5",
-			"page":107,
-			"description":"<p>Cette compétence est la même que toutes les autres Compétences Langue mais elle n’est accessible qu’aux personnages instruits. Elle permet de parler une langue qui n’est plus en usage comme langue natale. L’exemple le plus important en est le latin. Tous les personnages instruits de l’Occident connaissent le latin puisque sans cela ils ne peuvent apprendre aucune des Compétences académiques. C’est aussi la langue commune de l’Église et de l’Ordre d’Hermès. Dans les autres régions du monde, l’arabe, le grec et l’hébreu remplissent la même fonction, bien que seul l’hébreu soit une langue ancienne.</p><p>Spécialisations : usage académique, cérémonies religieuses, usage hermétique.</p>"
-		},
-		"Dominion Lore*":
-		{
-			"name":"Connaissance du divin*",
-			"source":"ArM5",
-			"page":105,
-			"description":"<p>Il s’agit de la connaissance des manifestations du pouvoir divin. Elle est différente de Connaissance de l’Église (sorte de Connaissance de [organisation]) puisqu’elle couvre les miracles davantage que la politique et elle est différente de Théologie puisqu’elle s’intéresse plus aux pouvoirs qu’aux doctrines.</p><p>Spécialisations : anges, saints, créatures divines.</p>"
-		},
-		"Dowsing*":
-		{
-			"name":"Sourcier*",
-			"source":"ArM5",
-			"page":110,
-			"description":"<p>Le personnage a la capacité de trouver les choses autour de lui en utilisant une baguette de sourcier (généralement un bâton fourchu) et son intuition. Il se concentre sur la chose qu’il cherche, tient sa baguette de sourcier face à lui et en suit les mouvements subtils jusqu’à la Cible. S’il recherche quelque chose de spécifique, il doit avoir un Lien sympathique approprié avec la chose cherchée (comme de l’eau d’un ruisseau mise en bouteille quand il cherche de l’eau courante). Avant de lancer les dés, le personnage désigne la zone dans laquelle il cherche. Si l’objet recherché n’est pas présent dans cette zone, il rate automatiquement. Le temps de recherche nécessaire dépend de la taille de la zone et doit être respecté, que le personnage réussisse ou non. Il faut environ un Diamètre (deux minutes ou vingt tours de combat) pour trouver quelque chose se trouvant dans un rayon de vingtcinq pas et le double de cette distance multiplie le temps par quatre. Pour trouver quelque chose de courant, comme de l’eau, dans un rayon de vingt-cinq pas, il faut avoir Perception + Sourcier à 9+. Augmenter la distance ou chercher des objets moins communs augmente la difficulté si bien que, par exemple, le Facteur de Difficulté pour trouver de l’or dans un rayon de cent pas est de 15.</p><p>Spécialisations : recherche d’un type d’objet spécifique (eau, or, etc.), recherche dans un type de lieu spécifique.</p>"
-		},
-		"Enchanting Music*":
-		{
-			"name":"Musique enchanteresse*",
-			"source":"ArM5",
-			"page":108,
-			"description":"<p>Lorsque le personnage se met en condition, il peut influencer les autres avec sa musique. Pour un effet spécifique, il doit chanter des paroles que les autres comprennent. Il peut apaiser le désespoir simplement avec des airs mais il lui faut des paroles pour convaincre les paysans de se soulever contre le seigneur local. Les effets généraux fonctionnent sur les animaux mais les effets spécifiques ne fonctionnent que sur les créatures comprenant les mots. Lorsqu’il utilise Musique enchanteresse, le personnage lance un dé (dé de tension ou dé simple, en fonction de la situation) et additionne Communication et Musique enchanteresse. Un Facteur de Difficulté de 9 ou plus apaisera les personnes bouleversées, un FD de 12 permettra de gagner l’amour d’une personne, un FD de 15 permettra d’inciter à la révolte et un FD de 24 permettra éventuellement de récupérer une âme des mains du Prince des ténèbres. Si le personnage fait un jet désastreux, il inspire une émotion non-recherchée. Si la Cible a une Résistance magique, le personnage doit passer cette résistance, cf. p. 269 pour les règles. Le personnage devrait également faire un jet pour déterminer la qualité de sa représentation musicale mais l’effet magique en est indépendant, à moins qu’il ne fasse un jet désastreux. Si son jet de Musique est désastreux, il ne parvient à produire aucune musique pour quelque raison que ce soit et sa Compétence surnaturelle échoue automatiquement.</p><p>Spécialisations : une émotion particulière, un genre de personnes en particulier.</p>"
-		},
-		"Enigmatic Wisdom*":
-		{
-			"name":"Sagesse énigmatique*",
-			"source":"ArM5",
-			"page":148,
-			"description":""
-		},
-		"Entrancement*":
-		{
-			"name":"Hypnotisme*",
-			"source":"ArM5",
-			"page":106,
-			"description":"<p>Le personnage a le pouvoir de contrôler la volonté d'un tiers. En fixant profondément son regard dans celui de la Cible pendant quelques secondes (ce qui est généralement impossible en combat), il peut oralement commander à cette personne d'exécuter une tâche particulière. Il fait un test de Présence + Hypnotisme contre le jet d'énergie de la Cible. La personne contrôlée peut bénéficier d'un bonus pour résister, sur accord du conteur, comme l'indique la table ci-dessous. Les mages hermétiques ont leur Résistance magique Mentem et ont droit à un jet d'énergie normal si l'effet les atteint. Les aveugles et les personnes ayant les yeux fermés sont immunisés (cf. p. 175 pour plus d'informations sur l'établissement des contacts visuels). Néanmoins, il n'est pas possible de détourner les yeux quand on est sous les effets d'Hypnotisme, à moins de remporter le jet en opposition.</p>\n<p> </p>\n<table><colgroup><col><col><col></colgroup>\n<tbody>\n<tr>\n<td><strong>Ordre</strong></td>\n<td><strong>Exemple</strong></td>\n<td><strong>Bonus de la victime</strong></td>\n</tr>\n<tr>\n<td>Innocent</td>\n<td>Parle-moi</td>\n<td>+3</td>\n</tr>\n<tr>\n<td>Douteux</td>\n<td>Retrouve-moi seul(e) cette nuit</td>\n<td>+6</td>\n</tr>\n<tr>\n<td>Dangeureux</td>\n<td>Débarrasse-toi de tes armes</td>\n<td>+9</td>\n</tr>\n<tr>\n<td>Haineux</td>\n<td>Tue tes compagnons</td>\n<td>+12</td>\n</tr>\n<tr>\n<td>Suicidaire</td>\n<td>Saute de la falaise</td>\n<td>+15</td>\n</tr>\n</tbody>\n</table>\n<p> </p>\n<p>Spécialisations : un type d'ordres spécifique, un type de personnes spécifique.</p>"
-		},
-		"Etiquette":
-		{
-			"name":"Etiquette",
-			"source":"ArM5",
-			"page":106,
-			"description":"<p>Le personnage est au fait des bonnes manières et de la façon de se comporter dans les différentes situations sociales. Étiquette diffère de Charme en cela que c’est une compétence concernant davantage la manière dont on se comporte plus que les comportements charmeurs. Le personnage ne peut pas séduire quelqu’un avec Étiquette mais il ne peut pas non plus réussir un entretien avec l’évêque avec sa seule compétence Charme.</p><p>Spécialisations : noblesse, cour, paysans, créatures féeriques, l’Église.</p>"
-		},
-		"Faerie Lore*":
-		{
-			"name":"Connaisance de la féérie*",
-			"source":"ArM5",
-			"page":105,
-			"description":"<p>Il s’agit de la connaissance des puissances féeriques, de leurs faiblesses, de leurs motivations et de leurs domaines.</p><p>Spécialisations : forêts féeriques, tertres féeriques, types spécifiques de créatures féeriques.</p>"
-		},
-		"Ferocity":
-		{
-			"name":"Férocité",
-			"source":"ArM5",
 			"page":0,
-			"description":""
-		},
-		"Finesse":
-		{
-			"name":"Finesse",
-			"source":"ArM5",
-			"page":106,
-			"description":"<p>Il s’agit de la capacité du personnage à manipuler ses sorts et à effectuer des prouesses particulières avec. Il utilise cette Compétence pour positionner des objets délicatement ou pour cibler des sorts.</p><p>Spécialisations : grâce, précision, une Forme.</p>"
-		},
-		"Folk Ken":
-		{
-			"name":"Connaissance des gens",
-			"source":"ArM5",
-			"page":105,
-			"description":"<p>Il s’agit de la capacité à comprendre l’historique, la personnalité et les motivations d’un tiers. Le conteur fait souvent un jet en secret quand cette Compétence est utilisée. Ainsi, le joueur ignore si son personnage a deviné juste ou s’il a échoué.</p><p>Spécialisations : paysans, citadins, nobles, clergé, mages, sexe opposé.</p>"
+			"description":"<p>Utiliser des arcs et des flèches.</p><p><b>Spécialisations :</b> une arme au choix.</p>"
 		},
 		"Great Weapon":
 		{
-			"name":"Armes à 2 mains",
-			"source":"ArM5",
-			"page":102,
-			"description":"<p>Il s’agit de la capacité à se battre avec une arme dont le maniement nécessite les deux mains.</p><p>Spécialisations : une arme.</p>"
-		},
-		"Guile":
-		{
-			"name":"Tromperie",
-			"source":"ArM5",
-			"page":110,
-			"description":"<p>Il s’agit de la capacité à raconter des mensonges convaincants ainsi qu’à feindre une émotion, une croyance ou un état d’esprit. Si le personnage comprend le personnage qu’il cherche à tromper (jet à 9 ou plus sur un test de Concentration + Connaissance des gens), il gagne un bonus de +1 à son jet de Tromperie. Cette compétence permet également de se déguiser et de se faire passer pour quelqu’un d’autre. On fait souvent un jet en opposition contre Perception + Connaissance des gens ou, pour se déguiser, contre Perception + Attention de la victime.</p><p>Spécialisations : types de tromperies particuliers, mentir à l’autorité, baratin.</p>"
-		},
-		"Hardy":
-		{
-			"name":"Robuste",
+			"name":"Armes à deux mains",
 			"source":"ArM5",
 			"page":0,
-			"description":""
-		},
-		"Heartbeast*":
-		{
-			"name":"Animal de coeur*",
-			"source":"HoH:MC",
-			"page":45,
-			"description":"<p>Seuls ceux qui sont passés par le Rituel des douze ans peuvent posséder cette Compétence. Elle représente la compréhension qu’un mage bjornaer a de son animal de coeur, que ce soit au niveau intellectuel ou instinctif. Il sait ce qu’être un animal de son espèce signifie, il sait comment survivre, quoi manger, comment prendre soin de lui-même, etc. Cette Compétence confère au personnage le Trait de personnalité assigné à son animal à un niveau équivalent à la moitié de son score dans cette Compétence. Dernière chose, et peut-être la plus importante, elle permet au mage de changer de forme. Cette Compétence ne peut pas être apprise grâce à un livre et, pour pouvoir l’enseigner, un mage doit avoir un animal de coeur d’un tempérament similaire à celui de l’animal de coeur de son élève.</p><p>Spécialités : retour à la forme humaine, Initiation.</p>"
-		},
-		"Hunt":
-		{
-			"name":"Chasse",
-			"source":"ArM5",
-			"page":104,
-			"description":"<p>Il s’agit de la capacité à poser des pièges, à choisir les terrains de chasse convenables et à suivre et identifier les empreintes de pas de tous les types de créatures. Cette Compétence permet également de couvrir ses propres traces ou de n’en laisser aucune.</p><p>Spécialisations : pistage, couvrir ses traces, chasse d’un animal spécifique.</p>"
-		},
-		"Infernal Lore*":
-		{
-			"name":"Connaissance de l'infernal*",
-			"source":"ArM5",
-			"page":105,
-			"description":"<p>Il s’agit de la compréhension et de la connaissance du côté sombre du monde, essentiellement de l’Infernal et de ses agents. Cela inclut la connaissance des démons et de leurs habitudes et faiblesses, des morts-vivants et de leurs habitudes et faiblesses et du pouvoir des malé- dictions.</p><p>Spécialisations : démons, morts-vivants, malédictions.</p>"
-		},
-		"Intrigue":
-		{
-			"name":"Intrigue",
-			"source":"ArM5",
-			"page":107,
-			"description":"<p>Il s’agit de la capacité à passer des accords et à comploter ainsi qu’à faire un usage subtil du pouvoir de manière non-conventionnelle pour servir ses propres objectifs. Intrigue ne doit pas forcément être utilisée de manière fourbe ou manipulatoire, elle peut également inclure les négociations et la connaissance des règles officielles et officieuses de conduite et de politesse. En outre, elle permet également au personnage d’entrer en possession d’informations importantes sur les personnes au pouvoir, distinguant les faits des commérages inutiles. Intrigue est un talent essentiel pour ceux qui fréquentent les cours ou un Tribunal hermétique.</p><p>Spécialisations : commérages, complots, diffusion de rumeurs, alliances.</p>"
-		},
-		"Keen Sense of Smell":
-		{
-			"name":"Sens aigue de l'odorat",
-			"source":"ArM5",
-			"page":0,
-			"description":""
-		},
-		"Language: (Type)*":
-		{
-			"name":"Langue (Type)*",
-			"source":"ArM5",
-			"page":107,
-			"description":"<p>Il s’agit de la capacité à parler couramment une langue particulière. Plutôt que d’accorder un modificateur au jet de dés, la valeur du personnage dans cette Connaissance mesure sa capacité à communiquer.</p> \n \n <table><colgroup><col><col></colgroup><tbody><tr><td>Valeur</td><td>Maîtrise de la langue</td></tr><tr><td>0</td><td>Indications et grognements. \n Avec un point d’expérience ou plus, le personnage sait dire « s’il vous plaît », « merci » et quelques autres mots.</td></tr><tr><td>1</td><td>Questions/réponses de base. \n « Où est l’église ? », « Vendezvous de la nourriture ? ». Les erreurs sont constantes, et l’accent du personnage est affreux. Les gens doivent parler lentement et souvent se répéter et le personnage ne peut pas tenir une conversation.</td></tr><tr><td>2</td><td>Conversation élémentaire. \n Le personnage peut tenir une conversation courte sur un sujet commun. Il fera de nombreuses erreurs et échouera souvent à saisir ce que disent les autres.</td></tr><tr><td>3</td><td>Fonctionnelle hésitante. \n Le personnage peut tenir une conversation sur des sujets de tous les jours mais il lui faut du temps, il fait de nombreuses erreurs et son accent est toujours mauvais.</td></tr><tr><td>4</td><td>Fonctionnelle. \n Le personnage peut tenir une conversation sur des sujets non-techniques et fait peu d’erreurs. Les gens n’ont en principe pas besoin de se répéter. Il s’agit du minimum requis pour étudier un livre.</td></tr><tr><td>5</td><td>Courante. \n Le personnage a toujours un accent s’il ne s’agit pas de sa langue natale mais il est peu marqué. Il parle aussi bien que la plupart des natifs de la langue. Il s’agit du minimum requis pour écrire un livre.</td></tr><tr><td>6</td><td>Élégante. \n Le personnage choisit bien ses mots et n’a pas d’accent du tout s’il ne s’agit pas de sa langue natale.</td></tr></tbody></table> \n \n <p>Lorsque deux personnes discutent, la valeur de Compétence la plus basse détermine la qualité de la communication. Les personnages qui parlent des langues apparentées peuvent communiquer avec un malus à leur valeur (défini par le conteur) qui dépend de la ressemblance entre les deux langues.</p> \n <p>Notez que le latin et l’hébreu ne sont pas des langues vivantes dans la majorité de l’Europe Mythique. Néanmoins, les personnages qui vivent dans des endroits où elles le sont (comme dans certaines alliances) peuvent apprendre cette Compétence sans avoir de Vertu particulière.</p> \n <p>Les personnages ayant cette Compétence sont illettrés à moins d’avoir également une valeur en Arts libéraux (p. 104).</p> \n <p>Cette Compétence permet également de réaliser des compositions artistiques dans la langue et de raconter des histoires existantes avec verve et passion. La connaissance des contes est couverte par les compétences Connaissance appropriées.</p><p>Spécialisations : poésie, prose, dialectes spécifiques, vocabulaire étendu, vocabulaire technique spécifique, argot, narration."
-		},
-		"Language: Arabic*":
-		{
-			"name":"Langue (Arabe)*",
-			"source":"ArM5",
-			"page":107,
-			"description":"<p>Cette compétence est la même que toutes les autres Compétences Langue mais elle n’est accessible qu’aux personnages instruits. Elle permet de parler une langue qui n’est plus en usage comme langue natale. L’exemple le plus important en est le latin. Tous les personnages instruits de l’Occident connaissent le latin puisque sans cela ils ne peuvent apprendre aucune des Compétences académiques. C’est aussi la langue commune de l’Église et de l’Ordre d’Hermès. Dans les autres régions du monde, l’arabe, le grec et l’hébreu remplissent la même fonction, bien que seul l’hébreu soit une langue ancienne.</p><p>Spécialisations : usage académique, cérémonies religieuses, usage hermétique.</p>"
-		},
-		"Language: Aramaic*":
-		{
-			"name":"Langue (Araméènne)*",
-			"source":"ArM5",
-			"page":107,
-			"description":"<p>Cette compétence est la même que toutes les autres Compétences Langue mais elle n’est accessible qu’aux personnages instruits. Elle permet de parler une langue qui n’est plus en usage comme langue natale. L’exemple le plus important en est le latin. Tous les personnages instruits de l’Occident connaissent le latin puisque sans cela ils ne peuvent apprendre aucune des Compétences académiques. C’est aussi la langue commune de l’Église et de l’Ordre d’Hermès. Dans les autres régions du monde, l’arabe, le grec et l’hébreu remplissent la même fonction, bien que seul l’hébreu soit une langue ancienne.</p><p>Spécialisations : usage académique, cérémonies religieuses, usage hermétique.</p>"
-		},
-		"Language: East German*":
-		{
-			"name":"Langue (Germanique)*",
-			"source":"ArM5",
-			"page":107,
-			"description":"<p>Cette compétence est la même que toutes les autres Compétences Langue mais elle n’est accessible qu’aux personnages instruits. Elle permet de parler une langue qui n’est plus en usage comme langue natale. L’exemple le plus important en est le latin. Tous les personnages instruits de l’Occident connaissent le latin puisque sans cela ils ne peuvent apprendre aucune des Compétences académiques. C’est aussi la langue commune de l’Église et de l’Ordre d’Hermès. Dans les autres régions du monde, l’arabe, le grec et l’hébreu remplissent la même fonction, bien que seul l’hébreu soit une langue ancienne.</p><p>Spécialisations : usage académique, cérémonies religieuses, usage hermétique.</p>"
-		},
-		"Language: Gothic*":
-		{
-			"name":"Langue morte (Goth)*",
-			"source":"HoH:MC",
-			"page":45,
-			"description":"<p>Cette langue est utilisé pour tous les rituels de la maison Bjornaer. Elle est essentielle à tout membre du clan Ilfetu. En tant que langue ancienne, elle est peu utilisée en dehors des rituels et de leur cérémonial.</p><p>Spécialités : Rituels, Interprétation.</p>"
-		},
-		"Language: Greek*":
-		{
-			"name":"Langue (Grec)",
-			"source":"ArM5",
-			"page":107,
-			"description":"<p>Cette compétence est la même que toutes les autres Compétences Langue mais elle n’est accessible qu’aux personnages instruits. Elle permet de parler une langue qui n’est plus en usage comme langue natale. L’exemple le plus important en est le latin. Tous les personnages instruits de l’Occident connaissent le latin puisque sans cela ils ne peuvent apprendre aucune des Compétences académiques. C’est aussi la langue commune de l’Église et de l’Ordre d’Hermès. Dans les autres régions du monde, l’arabe, le grec et l’hébreu remplissent la même fonction, bien que seul l’hébreu soit une langue ancienne.</p><p>Spécialisations : usage académique, cérémonies religieuses, usage hermétique.</p>"
-		},
-		"Language: Hebrew*":
-		{
-			"name":"Langue (Hébraique)*",
-			"source":"ArM5",
-			"page":107,
-			"description":"<p>Cette compétence est la même que toutes les autres Compétences Langue mais elle n’est accessible qu’aux personnages instruits. Elle permet de parler une langue qui n’est plus en usage comme langue natale. L’exemple le plus important en est le latin. Tous les personnages instruits de l’Occident connaissent le latin puisque sans cela ils ne peuvent apprendre aucune des Compétences académiques. C’est aussi la langue commune de l’Église et de l’Ordre d’Hermès. Dans les autres régions du monde, l’arabe, le grec et l’hébreu remplissent la même fonction, bien que seul l’hébreu soit une langue ancienne.</p><p>Spécialisations : usage académique, cérémonies religieuses, usage hermétique.</p>"
-		},
-		"Language: Latin*":
-		{
-			"name":"Langue morte (Latin)*",
-			"source":"ArM5",
-			"page":107,
-			"description":"<p>Cette compétence est la même que toutes les autres Compétences Langue mais elle n’est accessible qu’aux personnages instruits. Elle permet de parler une langue qui n’est plus en usage comme langue natale. L’exemple le plus important en est le latin. Tous les personnages instruits de l’Occident connaissent le latin puisque sans cela ils ne peuvent apprendre aucune des Compétences académiques. C’est aussi la langue commune de l’Église et de l’Ordre d’Hermès. Dans les autres régions du monde, l’arabe, le grec et l’hébreu remplissent la même fonction, bien que seul l’hébreu soit une langue ancienne.</p><p>Spécialisations : usage académique, cérémonies religieuses, usage hermétique.</p>"
-		},
-		"Law (legal forum)":
-		{
-			"name":"Droit (forme juridique)",
-			"source":"Maison",
-			"page":0,
-			"description":""
-		},
-		"Leadership":
-		{
-			"name":"Commandement",
-			"source":"ArM5",
-			"page":104,
-			"description":"<p>Il s’agit de la capacité à se faire obéir et à se faire suivre. Elle peut également servir à inspirer la peur aux autres, les poussant à se soumettre.</p><p>Spécialisations : intimidation, en combat, inspiration.</p>"
-		},
-		"Legerdemain*":
-		{
-			"name":"Doigt agile*",
-			"source":"ArM5",
-			"page":105,
-			"description":"<p>Il s’agit de la capacité à faire des tours de passe-passe et de la connaissance des jeux d’escrocs nécessitant une certaine dextérité. Cette compétence requiert d’avoir du doigté et une grande coordination œil-main. Doigts agiles comprend la capacité à voler des choses sur les étals de marchés, à dérober les bourses et à crocheter des serrures quand il y en a, ainsi que la supercherie « magique » souvent utilisée pour soutirer de l’argent aux gens crédules. La Cible de ce genre de tentatives fait un jet de Perception + Attention pour détecter les actions du personnage. Si elle a la compétence Doigts agiles, elle peut la substituer à Attention si elle le souhaite. Lors de mouvements particulièrement délicats, comme le fait de faire les poches, une personne cherchant à repérer le personnage utilisant Doigts agiles reçoit un bonus de +3.</p><p>Spécialisations : vol à l’étalage, pickpocket, tours de passe-passe.</p>"
-		},
-		"Lore, (Area)":
-		{
-			"name":"Connaissance (Région)",
-			"source":"ArM5",
-			"page":105,
-			"description":"<p>Il s’agit des connaissances sur une région, une alliance, voire un village en particulier. Cela inclut la connaissance de l’endroit où se trouvent les choses dans la zone immédiate, de l’histoire et du folklore local, ainsi que des centres de pouvoir de la région. Plus la région est petite, plus les connaissances du personnage sont précises.</p><p>Spécialisations : géographie, histoire, légendes, politique, personnalités.</p>"
-		},
-		"Lore, (Organisation)":
-		{
-			"name":"Connaissance (Organisation)",
-			"source":"ArM5",
-			"page":104,
-			"description":"<p>Il s’agit de la connaissance des légendes, de l’histoire, de la structure, des opérations et des objectifs des organisations spécifiées. Ces organisations peuvent être aussi vastes que l’Église ou aussi petites que la guilde des artisans du coin. Plus l’organisation est petite, plus les connaissances sont détaillées.</p><p>Spécialisations : personnalités, histoire, politique.</p>"
-		},
-		"Lore, Order of Hermes":
-		{
-			"name":"Connaissance de l'ordre d'Hermés",
-			"source":"ArM5",
-			"page":0,
-			"description":""
-		},
-		"Lore: (Mystery Cult)":
-		{
-			"name":"Connaissance (Culte des mystères)",
-			"source":"Maison",
-			"page":0,
-			"description":""
-		},
-		"Faery Magic":
-		{
-			"name":"Magie féériques",
-			"source":"Maison",
-			"page":0,
-			"description":""
-		},
-		"Magic Lore*":
-		{
-			"name":"Connaissance de la magie*",
-			"source":"ArM5",
-			"page":105,
-			"description":"<p>Il s’agit de la connaissance des créatures, des lieux et des traditions magiques.</p><p>Spécialisations : créatures, traditions magiques, regio.</p>"
-		},
-		"Magic Sensitivity*":
-		{
-			"name":"Sensibilité à la magie*",
-			"source":"ArM5",
-			"page":109,
-			"description":"<p>Le personnage est souvent capable d’identifier un endroit ou un objet comme magique. Néanmoins, sa sensibilité le rend plus susceptible aux effets magiques : il soustrait sa valeur de Sensibilité à la magie à tous ses jets de Résistance magique. Quand il cherche à percevoir la nature magique d’un endroit ou d’un objet, le conteur lui assigne un Facteur de Difficulté : il lance un dé simple + Perception + Sensibilité à la magie. La détection d’une aura magique devrait normalement avoir un Facteur de Difficulté égal à 12 – le niveau de l’aura, donc de 9 pour une aura de niveau 3 et de 6 pour une aura de niveau 6. Pour les sorts et les objets magiques, un Facteur de Difficulté égal à 21 – magnitude de l’effet, est un bon indicateur. Pour les objets magiques, utilisez la magnitude de l’effet le plus puissant de l’objet. Pour les créatures magiques, un Facteur de Difficulté de 15 – 1/5 de la Puissance magique de la créature semble approprié, donc pour une créature ayant une Puissance magique de 25, le Facteur de Difficulté sera de 10.</p><p>Spécialisations : auras, créatures magiques, objets magiques, sorts actifs.</p>"
-		},
-		"Magic Theory*":
-		{
-			"name":"Théorie de la magie*",
-			"source":"ArM5",
-			"page":110,
-			"description":"<p>Il s’agit de la connaissance de ce qu’est la magie et de la manière dont elle fonctionne, principalement utilisée en laboratoire. Théorie de la magie s’intéresse aux détails techniques de la magie hermétique, Connaissance de la magie concerne la connaissance des choses magiques en général. Tous les personnages peuvent apprendre Théorie de la magie du moment qu’ils ont accès à un professeur ou à un manuel (normalement représenté par une Vertu), mais elle n’est pas d’une grande utilité pour ceux qui n’ont pas le Don.</p><p>Spécialisations : invention de sorts, enchantement d’objets, un Art.</p>"
-		},
-		"Martial ability (Weapon's type)":
-		{
-			"name":"Compétence martiale (Type d’armes)",
-			"source":"Maison",
-			"page":0,
-			"description":""
-		},
-		"Medicine*":
-		{
-			"name":"Médecine*",
-			"source":"ArM5",
-			"page":107,
-			"description":"<p>La médecine est l’étude formelle du corps et de ses maladies. La pratique médicale se base sur la théorie des quatre humeurs : le sang, la lymphe, la bile jaune et la bile noire. On pense que les maladies sont le fait de déséquilibres entre ces humeurs, d’où ces pratiques, comme la saignée, destinées à restaurer l’équilibre. La médecine traite également les poisons et les résultats de la faim et autres privations mais elle ne traite pas des blessures (cf. « Chirurgie », plus haut). Les autorités en sont de nombreux travaux de Galien et d’Hippocrate.</p><p>Spécialisations : anatomie, apothicaire, physicien.</p>"
-		},
-		"Music":
-		{
-			"name":"Musique",
-			"source":"ArM5",
-			"page":107,
-			"description":"<p>Il s’agit de la capacité à chanter, à jouer d’un instrument et à composer de nouvelles musiques.</p><p>Spécialisations : chant, composition, un instrument.</p>"
-		},
-		"Mystery Cult (Cult's name) Lore":
-		{
-			"name":"Connaissance du culte des mystères (Nom du culte)",
-			"source":"Maison",
-			"page":0,
-			"description":""
-		},
-		"Pack Animal":
-		{
-			"name":"Animal de meute",
-			"source":"ArM5",
-			"page":0,
-			"description":""
-		},
-		"Parma Magica*":
-		{
-			"name":"Parma magica",
-			"source":"ArM5",
-			"page":108,
-			"description":"<p>Il s’agit de la protection contre la magie. C’est un rituel spécial (non un sort rituel) dont la réalisation demande environ deux minutes. Cela permet au personnage d’ajouter cinq fois sa valeur de Parma Magica à sa Résistance magique jusqu’au prochain lever ou coucher de soleil (ce qui arrive en premier). Le personnage peut annuler temporairement sa Parma Magica en se concentrant : ceci équivaut à maintenir un sort de Durée Concentration (cf. p. 133). Parma Magica ne nécessite pas de concentration lorsqu’elle est active.</p><p> Le personnage peut également protéger une personne supplémentaire, avec son consentement, par point qu’il a dans la Compétence. Il doit toucher chaque personne pour initier la protection et celle-ci dure tant qu’au moins un des personnages peut voir l’autre. Le mage peut annuler la protection à volonté, depuis n’importe quelle distance. Si un mage protège d’autres personnes, sa valeur réelle de Parma Magica est réduite de 3 points, tant pour lui-même que pour les personnes qu’il protège. Si le mage a une valeur de 3 ou moins en Parma Magica, celle-ci accorde à chaque personnage, y compris au mage, une Résistance magique de 0. Dans le cas du mage, cette valeur s’ajoute à sa résistance aux Formes et un mage protégé par la Parma Magica d’un autre mage peut également ajouter sa résistance aux Formes.</p><p><i>Parma Magica</i> ne peut être apprise que par les personnages ayant le Don, bien qu’ils l’apprennent en tant que Compétence mystique, non surnaturelle. Elle n’est connue que des mages hermétiques puisque l’Ordre impose le choix rigoureux « Rejoignez-nous ou mourez » à quiconque la connaît et déclare une Marche du magicien sur les mages qui l’enseignent. Parma Magica est la dernière chose qu’apprend un apprenti : on ne lui enseigne la clé ultime de la Compétence qu’après avoir prêté Serment.</p><p>Spécialisations : protection contre une Forme spécifique.</p>"
-		},
-		"Penetration":
-		{
-			"name":"Pénétration",
-			"source":"ArM5",
-			"page":108,
-			"description":"<p>Il s’agit de la capacité du personnage à faire passer ses sorts par-delà la Résistance magique de la Cible. Cf. p. 132 pour les règles détaillées de Pénétration.</p><p>Spécialisations : un Art.</p>"
-		},
-		"Philosophiae*":
-		{
-			"name":"Philosophie*",
-			"source":"ArM5",
-			"page":108,
-			"description":"<p>Il existe trois philosophies : la philosophie de la nature, la philosophie morale et la métaphysique. Aristote incarne l’autorité pour chacune d’elles, à travers différents ouvrages. La plupart des savants étudient les philosophies après les Arts mais avant de poursuive avec le Droit, la Théologie ou la Médecine. La philosophie de la nature est l’étude du monde sublunaire. Elle correspond en gros à la science d’aujourd’hui. Les textes principaux en sont la Physique, De Meteorologia et De historia animalium. La philosophie morale est l’étude du fonctionnement juste de la vie humaine. Elle inclut l’éthique, la politique et l’économie (et les textes en sont l’Ethica, le Politica et l’Economica). La métaphysique est la philosophie de la nature fondamentale du monde. Le texte principal en est la Métaphysique d’Aristote.</p><p>Spécialisations : philosophie de la nature, philosophie morale, métaphysique, magie rituelle, incantation cérémonielle.</p>"
-		},
-		"Premonitions*":
-		{
-			"name":"Prémonitions*",
-			"source":"ArM5",
-			"page":108,
-			"description":"<p>Le personnage sent intuitivement quand quelque chose ne va pas ou est sur le point de mal tourner. Cette Compétence peut être invoquée par le joueur ou le conteur, comme il convient, dès qu’il y a une chance d’éviter le danger. Faites un jet de Perception + Prémonitions contre un Facteur de Difficulté dépendant de la situation. Le Facteur de Difficulté débute à 3 pour les dangers mortels imminents et augmente à mesure que  la distance dans le temps augmente et que le niveau du danger diminue. Un danger mortel prévu pour une semaine dans le futur aurait un Facteur de Difficulté de 9, tandis qu’une gêne mineure imminente aurait un Facteur de Difficulté de 15 environ. Si le personnage bat le Facteur de Difficulté de 3 ou plus, il peut également sentir la nature du danger, avec plus de détails encore s’il fait un jet plus élevé.</p><p>Spécialisations : menace sur une personne ou un groupe de personnes en particulier, un type particulier de menaces.</p>"
-		},
-		"Profession: (Type)":
-		{
-			"name":"Profession (Type)",
-			"source":"ArM5",
-			"page":109,
-			"description":"<p>Il s’agit de la capacité à faire un métier n’impliquant pas de fabriquer quelque chose. Les exemples incluent jongleur, préfet, marin, intendant, charretier et blanchisseuse.</p><p>Les spécialisations dépendent de la profession.</p>"
-		},
-		"Profession: Herbalist":
-		{
-			"name":"Profession Herboriste",
-			"source":"ArM5",
-			"page":109,
-			"description":""
-		},
-		"Profession: Merchant":
-		{
-			"name":"Profession Marchand",
-			"source":"ArM5",
-			"page":109,
-			"description":""
-		},
-		"Profession: Sailor":
-		{
-			"name":"Profession Marin",
-			"source":"ArM5",
-			"page":109,
-			"description":""
-		},
-		"Profession: Scribe":
-		{
-			"name":"Profession Scribe",
-			"source":"ArM5",
-			"page":109,
-			"description":""
-		},
-		"Profession: Steward":
-		{
-			"name":"Profession Intendant",
-			"source":"ArM5",
-			"page":109,
-			"description":""
-		},
-		"Profession: Teamster":
-		{
-			"name":"Profession Routier",
-			"source":"ArM5",
-			"page":109,
-			"description":""
-		},
-		"Pursuit Predator":
-		{
-			"name":"Prédateur à l'affut",
-			"source":"ArM5",
-			"page":0,
-			"description":""
-		},
-		"Ride":
-		{
-			"name":"Equitation",
-			"source":"ArM5",
-			"page":106,
-			"description":"<p>Il s’agit de la capacité à monter et à contrôler un cheval, notamment sous pression.</p><p>Spécialisations : bataille, vitesse, tours.</p>"
-		},
-		"Second Sight*":
-		{
-			"name":"Double vue",
-			"source":"ArM5",
-			"page":105,
-			"description":"<p>Le personnage est capable de voir au travers des camouflages et des déguisements illusoires, ce qui inclut l’invisibilité, et peut naturellement voir les choses invisibles telles que les esprits et les frontières entre les niveaux de regio. Le Facteur de Difficulté pour voir au travers des illusions est normalement égal à 6 + la magnitude de la puissance de la créature responsable de l’effet ou à 6 + la magnitude du sort hermétique. En général, cette Compétence permet au personnage de voir au travers des illusions hermétiques d’Imaginem mais pas des autres types. La Résistance magique de la créature dissimulée, si elle en a une, n’interfère pas avec la Double vue du personnage. Si une chose a été véritablement transformée, par exemple au moyen d’un sort MuCo, le personnage ne peut pas en déterminer la vraie forme. Le Facteur de Difficulté pour voir une chose naturellement invisible est normalement de 9 et le Facteur de Difficulté pour voir les niveaux de regio est pré- cisé à la p. 276. Tous les jets de Double vue se font avec Perception + Double vue.</p><p>Spécialisations : regio, choses invisibles, déguisements illusoires, fées, fantômes.</p>"
-		},
-		"Sense Holiness & Unholiness*":
-		{
-			"name":"Perception de la sainteté et de la malignité",
-			"source":"ArM5",
-			"page":108,
-			"description":"<p>Le personnage peut sentir la présence du bien et du mal. Un jet de Perception + Perception de la sainteté et de la malignité contre un Facteur de Difficulté de 9 permet au personnage de percevoir la sainteté et la malignité dans une zone générale et, contre un Facteur de Difficulté de 15, dans une personne ou un objet. Les démons essayant généralement de cacher leur nature, le personnage doit en principe passer leur Résistance magique avec son jet. Néanmoins, il ne lui faut battre leur valeur que d’un point puisque les démons sont extrêmement mauvais. Les émissaires du paradis cherchent rarement à dissimuler leur nature, mais si tel est le cas, le personnage doit passer leur Résistance magique (cf. p. 269). Dans les auras d’influence divine ou infernale particulièrement fortes, la sensibilité du personnage peut être mise à vif. Cette Compétence lui est accordée par la Dimension divine, non par les Dimensions magique ou féerique, et de ce fait elle utilise la colonne Divine de la table d’Interaction entre les Dimensions (cf. p. 269).</p><p>Spécialisations : bien ou mal.</p>"
-		},
-		"Shapeshifter*":
-		{
-			"name":"Changeforme",
-			"source":"ArM5",
-			"page":104,
-			"description":"<p>Le personnage peut changer de forme pour prendre celle d’un animal vulgaire allant de la taille du rouge-gorge (-5) à celle de l’ours (+2). Il lui faut quelques secondes (un tour) de concentration et un jet d’Énergie + Changeforme contre un Facteur de Difficulté de 9. Pour reprendre sa forme humaine, il lui faut la même concentration et le même jet. Le personnage a un répertoire limité de formes, une pour chaque point qu’il a dans la compétence Changeforme. Chaque fois qu’il augmente sa Compétence d’un point, il peut choisir une nouvelle forme.</p><p>Spécialisations : une des formes du personnage, conditions particulières pour le changement de forme.</p>"
-		},
-		"Sharp Ears":
-		{
-			"name":"Oreilles pointues",
-			"source":"ArM5",
-			"page":0,
-			"description":""
+			"description":"<p>Combat avec une arme dont l'utilisation nécessite les deux mains.</p><p><b>Spécialisations :</b> type d'arme spécifique.</p>"
 		},
 		"Single Weapon":
 		{
-			"name":"Armes à 1 main",
-			"source":"ArM5",
-			"page":102,
-			"description":"<p>Il s’agit de la capacité à se battre avec une arme dans une main et, éventuellement, un bouclier dans l’autre. Ceci inclut les lances maniées à dos de cheval.</p><p>Spécialisations : une arme ou bouclier, ce qui comprend l’utilisation de cette arme avec ou sans bouclier et de ce bouclier avec n’importe quelle arme.</p>"
-		},
-		"Stealth":
-		{
-			"name":"Discrétion",
-			"source":"ArM5",
-			"page":105,
-			"description":"<p>Il s’agit de la capacité à se faufiler sans être vu ou entendu et à se cacher dans un endroit. Cette compétence inclut la capacité à suivre les gens sans qu’ils le sachent, ce qui nécessite un jet en opposition contre la Perception de la Cible.</p><p>Spécialisations : se cacher, déplacement silencieux, espionnage, milieux urbains, milieux naturels.</p>"
-		},
-		"Supernatural ability: Ability's name":
-		{
-			"name":"Compétences surnaturelles : Nom de la compétence",
-			"source":"Maison",
-			"page":0,
-			"description":""
-		},
-		"Survival":
-		{
-			"name":"Survie",
-			"source":"ArM5",
-			"page":110,
-			"description":"<p>Il s’agit de la capacité à trouver de la nourriture, de l’eau, un abri, une route directe et une sécurité relative dans la nature (milieu très dangereux dans l’Europe Mythique). Cette Compétence permet d’effectuer des tâches vulgaires comme faire un feu et à manger sans outils.</p><p>Spécialisations : régions spécifiques.</p>"
-		},
-		"Swim":
-		{
-			"name":"Natation",
-			"source":"ArM5",
-			"page":108,
-			"description":"<p>Il s’agit de la capacité à se déplacer dans l’eau rapidement et efficacement.</p><p>Spécialisations : longues distances, plongeon, déplacement sous l’eau.</p>"
-		},
-		"Teaching":
-		{
-			"name":"Enseignement",
-			"source":"ArM5",
-			"page":106,
-			"description":"<p>Il s’agit de la capacité à enseigner une Compétence à un tiers.</p><p>Spécialisations : une Compétence particulière, un type d’étudiants en particulier.</p>"
-		},
-		"Theology*":
-		{
-			"name":"Théologie",
-			"source":"ArM5",
-			"page":110,
-			"description":"<p>La Théologie est l’étude de Dieu et de son œuvre dans le monde. Les autorités en sont la Bible et les Sententiae de Pierre Lombard, la Bible ayant la primauté théorique du fait de son infaillibilité et les Sentences étant les plus étudiées. Les spéculations théologiques sont très absconses et beaucoup de théologiens se voient accusés d’hérésie. Il arrive parfois que des accusés se rétractent et il arrive parfois qu’ils convainquent l’Église qu’ils avaient finalement raison. Théologie peut également être achetée (en tant que Compétence indépendante) pour d’autres religions telles que l’Islam et le Judaïsme.</p><p>Spécialisations : connaissances bibliques, hérésie, histoire.</p>"
-		},
-		"Thick Fur":
-		{
-			"name":"Fourrure épaisse",
+			"name":"Armes à une main",
 			"source":"ArM5",
 			"page":0,
-			"description":""
+			"description":"<p>Combat avec une arme utilisée d'une main, éventuellement en conjonction avec un bouclier. Cela inclut les lances utilisées à cheval.</p><p><b>Spécialisations :</b> type d'arme spécifique (permet d'utiliser l'arme définie avec ou sans bouclier), bouclier (permet d'utiliser le bouclier avec n'importe quelle arme).</p>"
 		},
 		"Thrown Weapon":
 		{
 			"name":"Armes de jet",
 			"source":"ArM5",
-			"page":102,
-			"description":"<p>Il s’agit de la capacité à se battre avec des armes qu’on lance.</p><p>Spécialisations : une arme au choix.</p>"
+			"page":0,
+			"description":"<p>Combat à distance à l'aide d'armes de jet.</p><p><b>Spécialisations :</b> type d'arme spécifique.</p>"
+		},
+		"Art of Memory":
+		{
+			"name":"Art mémoriel*",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Cette Compétence permet la création de palais de la mémoire, une mnémotechnique dans laquelle on visualise un certain nombre de loci (singulier : locus) où l'érudit mémorise une représentation symbolique d'un fait à retenir.</p><p>Pour mémoriser une scène, une image ou un écrit (équivalant d'une longue lettre, mais pas aussi important qu'un ouvrage entier), le personnage doit réussir un jet de :</p><p><b>Dé de Tension + Intelligence + Art mémoriel contre Facteur de Difficulté de 9 (ou plus)</b></p><p>Le Facteur de Difficulté peut être plus élevé selon la durée ou la complexité de l'élément à mémoriser. Si le personnage réussit, il peut se souvenir de l'élément dans ses moindres détails et à volonté, même si l'exploration d'un locus mémoriel peut prendre du temps.</p><p>Un personnage ne possédant pas Art mémoriel peut mémoriser des éléments similaires en effectuant un jet de Tension + Intelligence (avec 3 dés Désastre supplémentaires) contre le même Facteur de Difficulté, mais il doit aussi refaire ce jet pour se remémorer parfaitement le souvenir. Chaque jet raté introduit des erreurs dans le souvenir qui se répètent à chaque fois que le personnage se le remémore. Ceux qui ne possèdent pas Art mémoriel ne disposent pas non plus du système de localisation bien défini des loci.</p><p><b>Spécialisations :</b> un domaine de connaissance.</p><p><b>Facteur de Difficulté de mémorisation</b><table><tr><th style=\"min-width: 125px;\">Niveau de difficulté</th><th>Description</th></tr><tr><td>9 (moyenne)</td><td> Mémoriser mot pour mot une lettre d'une page, une conversation de 5 minutes maximum, une pièce vue d'un seul angle, ou la disposition (mais pas le contenu) d'un château.</td></tr><tr><td>12 (Difficile)</td><td> Mémoriser une lettre de 12 pages maximum, une heure de conversation, de conférence ou de débat, une pièce explorée et vue de plusieurs angles, une demeure entière vue d'un seul, ou le contenu (mais pas les détails) d'un château.</td></tr><tr><td>18 (Impressionnant)</td><td>Mémoriser une longue missive pouvant atteindre 100 pages, une journée de conférence ou de débat (comme une journée au Tribunal), une demeure entière en détail, ou le contenu d'un château.</td></tr></table></p><p>Tout élément plus important que ceux décrits doit être divisé en sections et mémorisé en tant que loci séparés. Si le sujet est très technique, ajouter de 3 à 6 au Facteur de Difficulté. Si le sujet est technique et relève d'une Compétence que l'utilisateur possède, il peut utiliser cette Compétence à la place d'Art mémoriel (mais il doit toujours effectuer un jet pour se souvenir et mémoriser) : par exemple, un avocat utilisant Droit civil et canon pour mémoriser des procédures judiciaires, ou un magus utilisant Théorie de la magie pour se souvenir d'une conférence d'un expert de Bonisagus.</p>"
+		},
+		"Craft: Architecture":
+		{
+			"name":"Artisanat : Architecture",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Un terme général pour d'innombrables compétences, toutes liées à un certain type de travail manuel. En général, les compétences d'artisanat sont distinguées par le matériau avec lequel elles travaillent, bien que vous puissiez également acquérir une compétence d'artisanat qui permet au personnage de travailler avec plusieurs matériaux de manière spécifique. Vous pouvez acheter la compétence d'artisanat plusieurs fois, en choisissant une différente à chaque fois. La maîtrise d'un artisanat n'implique pas la maîtrise d'un autre. L'ouvrage Cité et Guilde contient des informations plus détaillées sur les compétences d'artisanat et leur utilisation, dans le chapitre 4.</p><p><b>Spécialisations :</b> selon l'artisanat concerné.</p>"
+		},
+		"Craft: Weaponry":
+		{
+			"name":"Artisanat : Armurerie",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Un terme général pour d'innombrables compétences, toutes liées à un certain type de travail manuel. En général, les compétences d'artisanat sont distinguées par le matériau avec lequel elles travaillent, bien que vous puissiez également acquérir une compétence d'artisanat qui permet au personnage de travailler avec plusieurs matériaux de manière spécifique. Vous pouvez acheter la compétence d'artisanat plusieurs fois, en choisissant une différente à chaque fois. La maîtrise d'un artisanat n'implique pas la maîtrise d'un autre. L'ouvrage Cité et Guilde contient des informations plus détaillées sur les compétences d'artisanat et leur utilisation, dans le chapitre 4.</p><p><b>Spécialisations :</b> selon l'artisanat concerné.</p>"
+		},
+		"Craft: Armorer":
+		{
+			"name":"Artisanat : Armurier",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Un terme général pour d'innombrables compétences, toutes liées à un certain type de travail manuel. En général, les compétences d'artisanat sont distinguées par le matériau avec lequel elles travaillent, bien que vous puissiez également acquérir une compétence d'artisanat qui permet au personnage de travailler avec plusieurs matériaux de manière spécifique. Vous pouvez acheter la compétence d'artisanat plusieurs fois, en choisissant une différente à chaque fois. La maîtrise d'un artisanat n'implique pas la maîtrise d'un autre. L'ouvrage Cité et Guilde contient des informations plus détaillées sur les compétences d'artisanat et leur utilisation, dans le chapitre 4.</p><p><b>Spécialisations :</b> selon l'artisanat concerné.</p>"
+		},
+		"Craft: Brewer":
+		{
+			"name":"Artisanat : Brasseur",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Un terme général pour d'innombrables compétences, toutes liées à un certain type de travail manuel. En général, les compétences d'artisanat sont distinguées par le matériau avec lequel elles travaillent, bien que vous puissiez également acquérir une compétence d'artisanat qui permet au personnage de travailler avec plusieurs matériaux de manière spécifique. Vous pouvez acheter la compétence d'artisanat plusieurs fois, en choisissant une différente à chaque fois. La maîtrise d'un artisanat n'implique pas la maîtrise d'un autre. L'ouvrage Cité et Guilde contient des informations plus détaillées sur les compétences d'artisanat et leur utilisation, dans le chapitre 4.</p><p><b>Spécialisations :</b> selon l'artisanat concerné.</p>"
+		},
+		"Craft: Illumination":
+		{
+			"name":"Artisanat : Enluminure",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Un terme général pour d'innombrables compétences, toutes liées à un certain type de travail manuel. En général, les compétences d'artisanat sont distinguées par le matériau avec lequel elles travaillent, bien que vous puissiez également acquérir une compétence d'artisanat qui permet au personnage de travailler avec plusieurs matériaux de manière spécifique. Vous pouvez acheter la compétence d'artisanat plusieurs fois, en choisissant une différente à chaque fois. La maîtrise d'un artisanat n'implique pas la maîtrise d'un autre. L'ouvrage Cité et Guilde contient des informations plus détaillées sur les compétences d'artisanat et leur utilisation, dans le chapitre 4.</p><p><b>Spécialisations :</b> selon l'artisanat concerné.</p>"
+		},
+		"Craft: Bowmaking":
+		{
+			"name":"Artisanat : Fabricant d’arcs",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Un terme général pour d'innombrables compétences, toutes liées à un certain type de travail manuel. En général, les compétences d'artisanat sont distinguées par le matériau avec lequel elles travaillent, bien que vous puissiez également acquérir une compétence d'artisanat qui permet au personnage de travailler avec plusieurs matériaux de manière spécifique. Vous pouvez acheter la compétence d'artisanat plusieurs fois, en choisissant une différente à chaque fois. La maîtrise d'un artisanat n'implique pas la maîtrise d'un autre. L'ouvrage Cité et Guilde contient des informations plus détaillées sur les compétences d'artisanat et leur utilisation, dans le chapitre 4.</p><p><b>Spécialisations :</b> selon l'artisanat concerné.</p>"
+		},
+		"Craft: Blacksmith":
+		{
+			"name":"Artisanat : Forgeron",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Un terme général pour d'innombrables compétences, toutes liées à un certain type de travail manuel. En général, les compétences d'artisanat sont distinguées par le matériau avec lequel elles travaillent, bien que vous puissiez également acquérir une compétence d'artisanat qui permet au personnage de travailler avec plusieurs matériaux de manière spécifique. Vous pouvez acheter la compétence d'artisanat plusieurs fois, en choisissant une différente à chaque fois. La maîtrise d'un artisanat n'implique pas la maîtrise d'un autre. L'ouvrage Cité et Guilde contient des informations plus détaillées sur les compétences d'artisanat et leur utilisation, dans le chapitre 4.</p><p><b>Spécialisations :</b> selon l'artisanat concerné.</p>"
+		},
+		"Craft: Jewelworking":
+		{
+			"name":"Artisanat : Joaillerie",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Un terme général pour d'innombrables compétences, toutes liées à un certain type de travail manuel. En général, les compétences d'artisanat sont distinguées par le matériau avec lequel elles travaillent, bien que vous puissiez également acquérir une compétence d'artisanat qui permet au personnage de travailler avec plusieurs matériaux de manière spécifique. Vous pouvez acheter la compétence d'artisanat plusieurs fois, en choisissant une différente à chaque fois. La maîtrise d'un artisanat n'implique pas la maîtrise d'un autre. L'ouvrage Cité et Guilde contient des informations plus détaillées sur les compétences d'artisanat et leur utilisation, dans le chapitre 4.</p><p><b>Spécialisations :</b> selon l'artisanat concerné.</p>"
+		},
+		"Craft: Masonry":
+		{
+			"name":"Artisanat : Maçonnerie",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Un terme général pour d'innombrables compétences, toutes liées à un certain type de travail manuel. En général, les compétences d'artisanat sont distinguées par le matériau avec lequel elles travaillent, bien que vous puissiez également acquérir une compétence d'artisanat qui permet au personnage de travailler avec plusieurs matériaux de manière spécifique. Vous pouvez acheter la compétence d'artisanat plusieurs fois, en choisissant une différente à chaque fois. La maîtrise d'un artisanat n'implique pas la maîtrise d'un autre. L'ouvrage Cité et Guilde contient des informations plus détaillées sur les compétences d'artisanat et leur utilisation, dans le chapitre 4.</p><p><b>Spécialisations :</b> selon l'artisanat concerné.</p>"
+		},
+		"Craft: Carpentry":
+		{
+			"name":"Artisanat : Menuiserie",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Un terme général pour d'innombrables compétences, toutes liées à un certain type de travail manuel. En général, les compétences d'artisanat sont distinguées par le matériau avec lequel elles travaillent, bien que vous puissiez également acquérir une compétence d'artisanat qui permet au personnage de travailler avec plusieurs matériaux de manière spécifique. Vous pouvez acheter la compétence d'artisanat plusieurs fois, en choisissant une différente à chaque fois. La maîtrise d'un artisanat n'implique pas la maîtrise d'un autre. L'ouvrage Cité et Guilde contient des informations plus détaillées sur les compétences d'artisanat et leur utilisation, dans le chapitre 4.</p><p><b>Spécialisations :</b> selon l'artisanat concerné.</p>"
+		},
+		"Craft: Metalsmith":
+		{
+			"name":"Artisanat : Métallurgie",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Un terme général pour d'innombrables compétences, toutes liées à un certain type de travail manuel. En général, les compétences d'artisanat sont distinguées par le matériau avec lequel elles travaillent, bien que vous puissiez également acquérir une compétence d'artisanat qui permet au personnage de travailler avec plusieurs matériaux de manière spécifique. Vous pouvez acheter la compétence d'artisanat plusieurs fois, en choisissant une différente à chaque fois. La maîtrise d'un artisanat n'implique pas la maîtrise d'un autre. L'ouvrage Cité et Guilde contient des informations plus détaillées sur les compétences d'artisanat et leur utilisation, dans le chapitre 4.</p><p><b>Spécialisations :</b> selon l'artisanat concerné.</p>"
+		},
+		"Craft: Pottery":
+		{
+			"name":"Artisanat : Poterie",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Un terme général pour d'innombrables compétences, toutes liées à un certain type de travail manuel. En général, les compétences d'artisanat sont distinguées par le matériau avec lequel elles travaillent, bien que vous puissiez également acquérir une compétence d'artisanat qui permet au personnage de travailler avec plusieurs matériaux de manière spécifique. Vous pouvez acheter la compétence d'artisanat plusieurs fois, en choisissant une différente à chaque fois. La maîtrise d'un artisanat n'implique pas la maîtrise d'un autre. L'ouvrage Cité et Guilde contient des informations plus détaillées sur les compétences d'artisanat et leur utilisation, dans le chapitre 4.</p><p><b>Spécialisations :</b> selon l'artisanat concerné.</p>"
+		},
+		"Craft: Bookbinding":
+		{
+			"name":"Artisanat : Reliure",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Un terme général pour d'innombrables compétences, toutes liées à un certain type de travail manuel. En général, les compétences d'artisanat sont distinguées par le matériau avec lequel elles travaillent, bien que vous puissiez également acquérir une compétence d'artisanat qui permet au personnage de travailler avec plusieurs matériaux de manière spécifique. Vous pouvez acheter la compétence d'artisanat plusieurs fois, en choisissant une différente à chaque fois. La maîtrise d'un artisanat n'implique pas la maîtrise d'un autre. L'ouvrage Cité et Guilde contient des informations plus détaillées sur les compétences d'artisanat et leur utilisation, dans le chapitre 4.</p><p><b>Spécialisations :</b> selon l'artisanat concerné.</p>"
+		},
+		"Craft Stonemason":
+		{
+			"name":"Artisanat : Tailleur de pierre",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Un terme général pour d'innombrables compétences, toutes liées à un certain type de travail manuel. En général, les compétences d'artisanat sont distinguées par le matériau avec lequel elles travaillent, bien que vous puissiez également acquérir une compétence d'artisanat qui permet au personnage de travailler avec plusieurs matériaux de manière spécifique. Vous pouvez acheter la compétence d'artisanat plusieurs fois, en choisissant une différente à chaque fois. La maîtrise d'un artisanat n'implique pas la maîtrise d'un autre. L'ouvrage Cité et Guilde contient des informations plus détaillées sur les compétences d'artisanat et leur utilisation, dans le chapitre 4.</p><p><b>Spécialisations :</b> selon l'artisanat concerné.</p>"
+		},
+		"Craft: Weaver":
+		{
+			"name":"Artisanat : Tisserand",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Un terme général pour d'innombrables compétences, toutes liées à un certain type de travail manuel. En général, les compétences d'artisanat sont distinguées par le matériau avec lequel elles travaillent, bien que vous puissiez également acquérir une compétence d'artisanat qui permet au personnage de travailler avec plusieurs matériaux de manière spécifique. Vous pouvez acheter la compétence d'artisanat plusieurs fois, en choisissant une différente à chaque fois. La maîtrise d'un artisanat n'implique pas la maîtrise d'un autre. L'ouvrage Cité et Guilde contient des informations plus détaillées sur les compétences d'artisanat et leur utilisation, dans le chapitre 4.</p><p><b>Spécialisations :</b> selon l'artisanat concerné.</p>"
+		},
+		"Craft: Leathercraft":
+		{
+			"name":"Artisanat : Travail du cuir",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Un terme général pour d'innombrables compétences, toutes liées à un certain type de travail manuel. En général, les compétences d'artisanat sont distinguées par le matériau avec lequel elles travaillent, bien que vous puissiez également acquérir une compétence d'artisanat qui permet au personnage de travailler avec plusieurs matériaux de manière spécifique. Vous pouvez acheter la compétence d'artisanat plusieurs fois, en choisissant une différente à chaque fois. La maîtrise d'un artisanat n'implique pas la maîtrise d'un autre. L'ouvrage Cité et Guilde contient des informations plus détaillées sur les compétences d'artisanat et leur utilisation, dans le chapitre 4.</p><p><b>Spécialisations :</b> selon l'artisanat concerné.</p>"
+		},
+		"Craft: Glassworking":
+		{
+			"name":"Artisanat : Verrier",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Un terme général pour d'innombrables compétences, toutes liées à un certain type de travail manuel. En général, les compétences d'artisanat sont distinguées par le matériau avec lequel elles travaillent, bien que vous puissiez également acquérir une compétence d'artisanat qui permet au personnage de travailler avec plusieurs matériaux de manière spécifique. Vous pouvez acheter la compétence d'artisanat plusieurs fois, en choisissant une différente à chaque fois. La maîtrise d'un artisanat n'implique pas la maîtrise d'un autre. L'ouvrage Cité et Guilde contient des informations plus détaillées sur les compétences d'artisanat et leur utilisation, dans le chapitre 4.</p><p><b>Spécialisations :</b> selon l'artisanat concerné.</p>"
+		},
+		"Craft: (Type)":
+		{
+			"name":"Artisanat (type)",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Un terme général pour d'innombrables compétences, toutes liées à un certain type de travail manuel. En général, les compétences d'artisanat sont distinguées par le matériau avec lequel elles travaillent, bien que vous puissiez également acquérir une compétence d'artisanat qui permet au personnage de travailler avec plusieurs matériaux de manière spécifique. Vous pouvez acheter la compétence d'artisanat plusieurs fois, en choisissant une différente à chaque fois. La maîtrise d'un artisanat n'implique pas la maîtrise d'un autre. L'ouvrage Cité et Guilde contient des informations plus détaillées sur les compétences d'artisanat et leur utilisation, dans le chapitre 4.</p><p><b>Spécialisations :</b> selon l'artisanat concerné.</p>"
+		},
+		"Artes Liberales*":
+		{
+			"name":"Arts Libéraux*",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Les sept artes liberales, ou Arts Libéraux, sont la base de l'enseignement supérieur médiéval. Tout le monde les apprend dans les universités avant de passer à l'étude d'autres sujets. Il est très rare qu'un personnage ayant une valeur dans une connaissance académique ne possède pas une valeur d'au moins 1 en Arts Libéraux.</p><p>Les Arts Libéraux sont divisés en deux groupes : le Trivium (grammaire, logique et rhétorique) et le Quadrivium (arithmétique, géométrie, astronomie et musique). À cette époque, l'accent est mis sur le Trivium, mais les deux sont enseignés. Les Arts Libéraux dans leur ensemble constituent une seule Compétence et non sept distinctes.</p><p>La grammaire concerne les questions théoriques de la structure des langues, plutôt que la Compétence à utiliser une langue spécifique (qui est couverte par les Compétences Langue). Les auctores de cette discipline sont Priscien et Donatus. La logique est l'étude du syllogisme et d'autres formes de raisonnement abordées par Aristote. C'est l'Art Libéral le plus important de cette période. Aristote en est l'auctor, dans ses Logica vetus et Logica nova. La rhétorique est l'étude de la théorie des formes rhétoriques : la connaissance du type d'astuces qu'un orateur peut utiliser, plutôt que la Compétence à les employer. L'auctor en est Cicéron, en particulier dans son De Inventione.</p><p>L'arithmétique est la capacité d'additionner et de soustraire, de multiplier et de diviser. L'auctor en est Boèce avec son De arithmetica. La géométrie concerne l'étude des figures planes et solides et l'auctor en est Euclide, avec son Elementa. Elle traite aussi de l'étude de la lumière et l'Optica d'Euclide qui fait autorité en la matière. L'astronomie consiste à prédire la position des étoiles et des planètes, et l'auctor en est Ptolémée avec son Libri Almagiti. La musique, abordé en tant qu'Art Libéral de façon purement théorique englobe l'étude de la théorie musicale et non la capacité à chanter ou à jouer d'un instrument. L'auctor en est Boèce avec son De Musica.</p><p>Les Arts Libéraux couvrent aussi l'aptitude à lire et à écrire. Par point dans la Compétence, le personnage peut lire et écrire un système d'écriture, à condition de connaître une langue qui utilise normalement ce système : l'alphabet latin, l'alphabet grec, l'alphabet arabe, etc.</p><p><b>Spécialisations :</b> grammaire, logique, rhétorique, arithmétique, géométrie, astronomie, musique, magie rituelle, magie cérémonielle.</p>"
+		},
+		"Athletics":
+		{
+			"name":"Athlétisme",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Capacité physique générale du personnage qui inclut l'aptitude à se déplacer avec aisance, confiance et grâce. Athlétisme améliore la coordination musculaire.</p><p><b>Spécialisations :</b> acrobatie, contorsion, grâce, saut, course.</p>"
+		},
+		"Awareness":
+		{
+			"name":"Attention",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Aptitude à remarquer les choses, qu'il s'agisse de celles que l'on recherche volontairement ou de celles qui sont inattendues. Attention sert aussi à évaluer la vigilance dans des circonstances qui exigent d'être attentif.</p><p><b>Spécialisations :</b> garde du corps, surveillance, vigilance, recherche.</p>"
+		},
+		"Brawl":
+		{
+			"name":"Bagarre",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Se battre au corps à corps sans armes, ou avec des armes improvisées, y compris des couteaux. Bagarre est aussi la Compétence utilisée pour esquiver les attaques si le personnage n'a pas de Compétences Martiales.</p><p><b>Spécialisations :</b> coups de poing, prises, couteaux, esquive.</p>"
+		},
+		"Supernatural ability: Ability's name":
+		{
+			"name":"Capacité surnaturelle (nom)",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Les personnages ne peuvent acquérir des capacités surnaturelles que lors de la création du personnage s'ils possèdent la vertu accordant cette capacité. Les personnages dotés du Don qui ne sont pas des magi peuvent apprendre une seule capacité surnaturelle lors de la création du personnage.</p><p>La plupart de ces capacités surnaturelles sont accordées par les royaumes de la Magie ou des Fées, et utilisent la colonne pertinente du tableau d'interaction des royaumes. La plupart peuvent également être accordées par le royaume Infernal, mais prendre une telle capacité suggère une sorte de pacte avec les pouvoirs infernaux. La capacité à sentir la sainteté et le caractère sacré en est l'exception principale, en tant que pouvoir divin. Si vous n'avez aucune raison de choisir autrement, votre capacité est accordée par le royaume de la Magie, ce qui vous rend immunisé contre la distorsion due aux puissantes auras magiques. Une capacité accordée par un autre royaume vous rend immunisé contre la distorsion due aux puissantes auras associées à ce royaume, à la place.</p><p>Le Don permet aux personnages d'apprendre des capacités surnaturelles en cours de jeu. Cependant, le Don est associé au Royaume de la Magie, et ne permet donc aux personnages d'apprendre que les capacités surnaturelles associées à ce royaume.</p>"
+		},
+		"Shapeshifter*":
+		{
+			"name":"Changeforme*",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Capacité de prendre la forme d'un animal vulgaire, d'une Taille allant de celle d'un rouge-gorge (-10) à celle d'un ours (+2). Cela demande un tour de concentration et un jet d'Énergie + Changeforme contre un Facteur de Difficulté de 9. Reprendre forme humaine demande la même concentration et le même jet. L'utilisateur dispose d'une forme par point dans la Compétence Changeforme. Chaque fois que la Compétence augmente d'un point, l'utilisateur peut choisir une nouvelle forme.</p><p><b>Spécialisations :</b> une forme, conditions particulières pour le changement.</p>"
+		},
+		"Charm":
+		{
+			"name":"Charme",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Capacité personnelle à séduire, fasciner et attirer les autres. Cette Compétence peut servir à conquérir quelqu'un sur le plan émotionnel, en particulier sur le plan romantique.</p><p><b>Spécialisations :</b> amour courtois, première impression, spirituel.</p>"
+		},
+		"Hunt":
+		{
+			"name":"Chasse",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Poser des collets, choisir des lieux de chasse appropriés, suivre et identifier les traces de créatures de toutes sortes. Cette Compétence vous permet aussi de couvrir vos traces ou de ne pas en laisser.</p><p><b>Spécialisations :</b> pistage, couvrir ses traces, chasser un animal spécifique.</p>"
+		},
+		"Chirurgy*":
+		{
+			"name":"Chirurgie*",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Chirurgie médiévale, utilisée pour aider les autres à se remettre de dégâts physiques. Elle englobe les capacités à bander et soigner toutes sortes de blessures, ainsi que la technique brutale mais nécessaire de la cautérisation : reportez-vous à la p. XX et suivantes pour les règles correspondantes.</p><p><b>Spécialisations :</b> cautérisation, diagnostic, pansement des plaies, soins des fractures.</p>"
+		},
+		"Leadership":
+		{
+			"name":"Commandement",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Faire en sorte que les gens obéissent aux ordres et suivent le personnage. Peut aussi être utilisé pour inspirer la peur aux autres et les soumettre.</p><p><b>Spécialisations :</b> intimidation, en combat, inspiration.</p>"
+		},
+		"Academic ability (Topic's name)":
+		{
+			"name":"Compétence académique (nom) ",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Les capacités académiques nécessitent une formation. Les personnages débutants ne peuvent acheter des capacités académiques que s'ils y sont spécifiquement autorisés par l'achat d'une Vertu, ou s'ils sont des magi. Les magi sans Vertu spécifique ne peuvent acheter des capacités académiques que pendant ou après leur apprentissage. De plus, l'apprentissage d'une connaissance académique nécessite une maîtrise du Latin, du Grec, de l'Hébreu ou de l'Arabe d'au moins 3, selon la région d'Europe dont vous êtes originaire. Pour la plupart des personnages, un niveau de Latin 3 est requis.</p><p>L'étude médiévale est basée sur les ‘auctores’, ou autorités, dans chaque domaine. Ces ‘auctores’ ne sont pas considérés comme infaillibles ou comme ayant tout dit sur un sujet. Ils sont cependant supposés avoir saisi les éléments essentiels et avoir divisé le sujet avec précision en catégories. Ainsi, un érudit médiéval pourrait suggérer qu'Aristote avait tort à propos d'un certain type de sophisme logique, mais il ne suggérerait pas qu'Aristote avait complètement tort à propos de la logique ou qu'il existait des sophismes qui ne tombaient sous aucune de ses classifications.</p>"
+		},
+		"Martial ability (Weapon's type)":
+		{
+			"name":"Compétence martiale (type d’arme)",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Les personnages ne peuvent acquérir des compétences martiales que lors de la création du personnage, et seulement si une Vertu ou un Défaut particulier le leur permet, ou s'ils sont des magi. Les magi sans Vertu ou Défaut pertinent ne peuvent prendre des compétences martiales que pendant ou après leur apprentissage.</p>"
+		},
+		"Arcane ability (Ability's name)":
+		{
+			"name":"Compétence surnaturelle (nom)",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Un personnage ne peut acquérir ces compétences que lors de la création du personnage, et seulement si une Vertu le lui permet ou s'il est un mage. Certaines Vertus permettent à un personnage de prendre une compétence surnaturelle particulière, mais pas les autres, tandis que d'autres Vertus permettent à un personnage de prendre n'importe quelle compétence surnaturelle. Toute Vertu donnant à un personnage une capacité surnaturelle qui peut nécessiter de Pénétrer la Résistance Magique permet également au personnage de prendre la capacité de Pénétration. Les magi sans Vertu pertinente ne peuvent prendre des compétences surnaturelles que pendant ou après leur apprentissage.</p>"
+		},
+		"Concentration":
+		{
+			"name":"Concentration",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Aptitude à focaliser ses facultés mentales sur une tâche, en particulier durant de longues périodes. Si un personnage tente d'accomplir quelque chose qui demande une attention soutenue, ou s'il renouvelle une action qu'il vient de rater, le conteur peut demander un jet de Concentration avant d'autoriser la tentative. Cette Compétence est très importante pour les magi car elle leur permet de rester concentrés sur leurs sorts malgré les distractions.</p><p><b>Spécialisations :</b> concentration sur les sorts, lecture, travail en laboratoire.</p>"
+		},
+		"Lore: (Mystery Cult)":
+		{
+			"name":"Connaissance (Culte des Mystères)*",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Cette Compétence est la variante de Connaissance d'une organisation, appliqué à un Culte des Mystères particulier. Elle permet de connaître les légendes, l'histoire, la structure, le fonctionnement et les objectifs du Cultes des Mystères en question.</p><p>Elle comprend la connaissance des magies, des rites, des mots de passe secrets et du symbolisme du culte, la façon de signaler secrètement son appartenance et comment évaluer l'appartenance ou la non-appartenance d'un autre magus à ce culte. Deux magi ayant une valeur dans cette Compétence pour le même Cultes des Mystères peuvent tenir une conversation apparemment anodine sans que les non-initiés ne comprennent la véritable signification ou le sens de leurs paroles. De nombreux livres spécialisés dans les Cultes du Mystère requièrent aussi une valeur dans cette Compétence pour décoder leur symbolisme ; cette méthode est utilisée pour empêcher les non initiés de découvrir les secrets du Mystère.</p><p>Connaissance du Culte des Mystères couvre aussi les cérémonies du culte concerné et employées lorsqu'il se réunit officiellement. C'est une connaissance essentielle aux rites d'initiation menés par un Mystagogue, afin de guider un initié aux travers des Tribulations, des cérémonies et de la méditation, pour qu'il acquière de nouvelles Vertus.</p><p>La Connaissance du Culte des Mystères se transmet du Mystagogue à Initié et d'un Mystae à un autre, maintenant une chaîne constante de secrets. Certains cultes rédigent aussi des ouvrages sur leurs connaissances secrètes, car cela codifie le Mystère et permet à d'autres de partager la même vision du culte. D'autres préfèrent le secret de la Tradition orale. Les petits cultes peuvent disparaître par manque de membres, surtout s'ils sont persécutés à un moment donné : mais s'ils ont couché par écrit une partie de leur savoir, le culte peut renaître grâce à ceux qui découvrent et comprennent ces textes. Certains cultes prennent le risque de se révéler pour cette raison, afin que leurs secrets et leurs rites magiques ne soient pas perdus à jamais. Certains magi recherchent des textes perdus, contenant des connaissances secrètes des Anciens, dans l'espoir de reconstituer les rites et les rituels qui ont conduit les Anciens au pouvoir.</p><p>En jeu, les points d'expérience en Connaissance du Culte des Mystères s'acquièrent comme toute autre connaissance, y compris via l'Enseignement, les Livres, la Pratique et l'Exposition. Apprendre la Connaissance du Culte des Mystères auprès d'un maître garantit que lui et son élève partagent les mêmes rites ; apprendre seul implique généralement que le personnage a conçu ses propres variantes (parfois déviantes) de rites et de rituels. De tels désaccords peuvent provoquer des schismes et briser et fragmenter un culte.</p><p>Un magus peut développer cette Compétence même sans instruction, mais cela signifie qu'il a conçu son propre culte et il doit traiter sa Connaissance du Culte des Mystères comme une Compétence spécifique et nouvelle.</p>"
+		},
+		"Church Lore":
+		{
+			"name":"Connaissance de l’église",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Connaissance des légendes, de l'histoire, de la structure, du fonctionnement et des objectifs de l'église.</p><p><b>Spécialisations :</b> personnalités, histoire, politique.</p>"
+		},
+		"Infernal Lore*":
+		{
+			"name":"Connaissance de l'Infernal*",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Compréhension et familiarité avec l'Infernal et ses agents. Englobe la connaissance des démons, de leurs habitudes et faiblesses, des morts-vivants, de leurs habitudes et faiblesses, ainsi que le pouvoir des malédictions.</p><p><b>Spécialisations :</b> démons, morts-vivants, malédictions.</p>"
+		},
+		"Order of Hermes Lore":
+		{
+			"name":"Connaissance de l’Ordre d’Hermès",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Connaissance des légendes, de l'histoire, de la structure, du fonctionnement et des objectifs de l'Ordre d'Hermès. La connaissance de l'Ordre d'Hermès est particulièrement importante pour la plupart des magi.</p><p><b>Spécialisations :</b> personnalités, histoire, politique.</p>"
+		},
+		"Lore, (Organisation)":
+		{
+			"name":"Connaissance de l'organisation (nom)*",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Connaissance des légendes, de l'histoire, de la structure, du fonctionnement et des objectifs de l'organisation spécifiée. Les organisations peuvent être aussi étendues que l'Église, ou aussi restreintes qu'une guilde d'artisans locale. Plus l'organisation est petite, plus les connaissances sont détaillées. Connaissance de l'Ordre d'Hermès est une Compétence très importante pour la plupart des magi.</p><p><b>Spécialisations :</b> personnalités, histoire, politique.</p>"
+		},
+		"Faerie Lore*":
+		{
+			"name":"Connaissance de la Féérie*",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Le personnage est familiarisé avec les pouvoirs, les faiblesses, les motivations des fées et les regios féeriques.</p><p><b>Spécialisations :</b> forêts des fées, monticules des fées, types spécifiques de fées.</p>"
+		},
+		"Magic Lore*":
+		{
+			"name":"Connaissance de la Magie*",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Compréhension et familiarité avec les créatures, les regios et des traditions magiques.</p><p><b>Spécialisations :</b> créatures, traditions magiques, regios.</p>"
+		},
+		"(Area) Lore":
+		{
+			"name":"Connaissance de la région (nom)*",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Connaissance d'une région, d'une alliance ou même d'un village en particulier. Elle permet de savoir ce qui s'y trouve, son histoire, ses légendes locales et ses centres de pouvoir. Plus la région choisie est petite, plus les connaissances sont détaillées.</p><p><b>Spécialisations :</b> géographie, histoire, légendes, politique, personnalités.</p>"
+		},
+		"Folk Ken":
+		{
+			"name":"Connaissance des gens",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Comprendre l'histoire, la personnalité et les motivations d'une autre personne. Le conteur peut effectuer des jets secrets lorsque cette Compétence est employée. Ainsi, il est difficile de dire si le personnage a deviné correctement, ou si ses conclusions sont Désastreuses.</p><p><b>Spécialisations :</b> paysans, citadins, nobles, clergé, magi, sexe opposé.</p>"
+		},
+		"Mystery Cult (Cult's name) Lore":
+		{
+			"name":"Connaissance du Culte des Mystères (nom)*",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Cette Compétence est la variante de Connaissance d'une organisation, appliqué à un Culte des Mystères particulier. Elle permet de connaître les légendes, l'histoire, la structure, le fonctionnement et les objectifs du Cultes des Mystères en question.</p><p>Elle comprend la connaissance des magies, des rites, des mots de passe secrets et du symbolisme du culte, la façon de signaler secrètement son appartenance et comment évaluer l'appartenance ou la non-appartenance d'un autre magus à ce culte. Deux magi ayant une valeur dans cette Compétence pour le même Cultes des Mystères peuvent tenir une conversation apparemment anodine sans que les non-initiés ne comprennent la véritable signification ou le sens de leurs paroles. De nombreux livres spécialisés dans les Cultes du Mystère requièrent aussi une valeur dans cette Compétence pour décoder leur symbolisme ; cette méthode est utilisée pour empêcher les non initiés de découvrir les secrets du Mystère.</p><p>Connaissance du Culte des Mystères couvre aussi les cérémonies du culte concerné et employées lorsqu'il se réunit officiellement. C'est une connaissance essentielle aux rites d'initiation menés par un Mystagogue, afin de guider un initié aux travers des Tribulations, des cérémonies et de la méditation, pour qu'il acquière de nouvelles Vertus.</p><p>La Connaissance du Culte des Mystères se transmet du Mystagogue à Initié et d'un Mystae à un autre, maintenant une chaîne constante de secrets. Certains cultes rédigent aussi des ouvrages sur leurs connaissances secrètes, car cela codifie le Mystère et permet à d'autres de partager la même vision du culte. D'autres préfèrent le secret de la Tradition orale. Les petits cultes peuvent disparaître par manque de membres, surtout s'ils sont persécutés à un moment donné : mais s'ils ont couché par écrit une partie de leur savoir, le culte peut renaître grâce à ceux qui découvrent et comprennent ces textes. Certains cultes prennent le risque de se révéler pour cette raison, afin que leurs secrets et leurs rites magiques ne soient pas perdus à jamais. Certains magi recherchent des textes perdus, contenant des connaissances secrètes des Anciens, dans l'espoir de reconstituer les rites et les rituels qui ont conduit les Anciens au pouvoir.</p><p>En jeu, les points d'expérience en Connaissance du Culte des Mystères s'acquièrent comme toute autre connaissance, y compris via l'Enseignement, les Livres, la Pratique et l'Exposition. Apprendre la Connaissance du Culte des Mystères auprès d'un maître garantit que lui et son élève partagent les mêmes rites ; apprendre seul implique généralement que le personnage a conçu ses propres variantes (parfois déviantes) de rites et de rituels. De tels désaccords peuvent provoquer des schismes et briser et fragmenter un culte.</p><p>Un magus peut développer cette Compétence même sans instruction, mais cela signifie qu'il a conçu son propre culte et il doit traiter sa Connaissance du Culte des Mystères comme une Compétence spécifique et nouvelle.</p>"
+		},
+		"Dominion Lore*":
+		{
+			"name":"Connaissance du Divin*",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Compréhension et familiarité avec les manifestations du pouvoir Divin. Cette Compétence diffère de la Connaissance de l'Église (qui est une Connaissance de l'Organisation éponyme) car elle couvre les miracles plutôt que la politique et se distingue de Théologie car elle s'intéresse à la puissance surnaturelle plutôt qu'à la doctrine.</p><p><b>Spécialisations :</b> anges, saints, créatures divines.</p>"
+		},
+		"Judaic Lore":
+		{
+			"name":"Connaissance du Judaïsme",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Connaissance des pratiques culturelles juives par opposition aux détails strictement religieux. Cela inclut la poésie, le folklore, les chansons, etc. Tous les personnages juifs possèdent une valeur en Connaissance du Judaïsme à un certain degré et les points d'expérience dépensés dans cette Compétence à la création du personnage peuvent faire partie de ceux de leurs Compétences d'enfance.</p><p><b>Spécialisations :</b> folklore, musique, poésie, chansons.</p>"
+		},
+		"Summon Animals":
+		{
+			"name":"Convocation d'animaux*",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Cette capacité permet au personnage d'invoquer des animaux ordinaires potentiellement depuis de longues distances. Pour utiliser cette capacité, le personnage doit être capable de faire un appel audible aux créatures qu'il souhaite invoquer et doit se trouver à une journée de voyage d'un habitat où l'on trouve les espèces requises. Le nombre d'animaux qui répondent à son appel est déterminé par le score du personnage dans cette capacité ; voir le tableau ci-dessous. Il doit ensuite faire un jet de Communication + Convocation d'animaux contre un facteur de difficulté de 9. Si le jet est réussi, les animaux arrivent dans l'heure qui suit l'appel du personnage, bien que dépasser le facteur de difficulté de 3 les fasse venir en 2 minutes, et le dépasser de 6 les invoque en un seul tour.</p><p>Le personnage ne peut pas communiquer directement avec les animaux à moins d'avoir une autre capacité qui lui permet de le faire (comme Empathie avec les animaux), et ils partent naturellement comme déterminé par le conteur. Même si le personnage manque de la capacité de communiquer avec les animaux, ceux-ci agissent comme s'ils étaient amicaux envers lui, et s'ils sont naturellement agressifs, ils peuvent se battre pour le défendre.</p><p><table><tr><th style=\"min-width: 125px;\">Score de capacité</th><th>Nombre d'animaux arrivant</th></tr><tr><td>1</td><td>1 animal de taille –2, ou masse équivalente (2 de taille –3, 5 de taille –4, 10 de taille –5, 20 de taille –6, etc.)</td></tr><tr><td>2</td><td>2 animaux de taille –2, ou masse équivalente (1 de taille –1, 5 de taille –3, 10 de taille –4, 20 de taille –5, etc.)</td></tr><tr><td>3</td><td>5 animaux de taille –2, ou masse équivalente (1 de taille 0, 2 de taille –1, 10 de taille –3, 20 de taille –4, etc.)</td></tr><tr><td>4</td><td>10 animaux de taille –2, ou masse équivalente (1 de taille +1, 2 de taille 0, 5 de taille –1, 20 de taille –3, etc.)</td></tr><tr><td>5</td><td>20 animaux de taille –2, ou masse équivalente (1 de taille +2, 2 de taille +1, 5 de taille 0, 10 de taille –1, etc.)</td></tr></table></p><p><b>Spécialisations :</b> un type particulier d'animal</p>"
+		},
+		"Stealth":
+		{
+			"name":"Discrétion",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Aptitude à se faufiler sans être vu ou entendu, ou se cacher à un endroit. Cela inclut le fait de suivre quelqu'un sans qu'il s'en aperçoive, ce qui demande un jet contre sa Perception.</p><p><b>Spécialisations :</b> se cacher, se faufiler, se tapir dans l'ombre, zones urbaines, zones naturelles.</p>"
+		},
+		"Legerdemain*":
+		{
+			"name":"Doigts agiles*",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Aptitude à faire des tours de passe-passe et connaissance des jeux d'escroc nécessitant une certaine dextérité. Cette Compétence exige d'avoir du doigté et une excellente coordination œil-main. Doigts agiles englobe le vol à la tire, le coupage de bourse et le crochetage, ainsi que les tours de passe-passe utilisés pour collecter de l'argent auprès de personnes crédules. La cible doit effectuer un jet de Perception + Attention pour détecter ce genre d'action à son encontre. Si elle possède la Compétence Doigts agiles, elle peut la substituer à Attention. Lors d'actions délicates, comme faire les poches, la personne qui tente de repérer le personnage utilisant Doigts agiles bénéficie d'un bonus de +3.</p><p><b>Spécialisations :</b> voler, faire les poches, tours de passe-passe.</p>"
+		},
+		"Second Sight*":
+		{
+			"name":"Double vue*",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Capacité de voir à travers les illusions et les déguisements, y compris l'invisibilité et les choses naturellement invisibles telles que les esprits et les frontières entre les niveaux de regio (p. XX). Le Facteur de Difficulté pour voir à travers une illusion est normalement égal à 6 + la magnitude de la Puissance de la créature responsable de l'effet, ou 6 + la magnitude d'un sort Hermétique. En général, cette Vertu permet de voir à travers la dissimulation Hermétique effectuée avec Imaginem, mais pas les autres Formes. La Résistance magique, s'il y en a une, de la créature dissimulée n'interfère pas avec la Double vue. Si quelque chose est réellement transformé, par exemple par un sort de MuCo, il est impossible de déceler sa forme réelle. Le Facteur de Difficulté pour voir une chose naturellement invisible est normalement de 9. Le Facteur de Difficulté pour voir les niveaux de regio est spécifié à la p. XX. Tous les jets de Double vue sont des jets de Perception + Double vue et ce sont presque toujours des jets simples.</p><p><b>Spécialisations :</b> regios, choses invisibles, déguisements illusoires, fées, fantômes.</p>"
+		},
+		"Civil & Canon Law*":
+		{
+			"name":"Droit civil et canon*",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Le Droit civil est hérité de l'Empire romain. La plupart des systèmes juridiques occidentaux sont basés sur ce Droit (à l'exception de l'Angleterre). Lorsqu'une loi est nécessaire pour régir les relations internationales, c'est au Droit civil qu'il est fait appel. L'autorité en la matière est le Digeste de Justinien. Le Droit canonique est le droit de l'Église. Il est important en Europe Mythique car il s'applique à toutes les nations, régissant le fonctionnement de l'Église et certaines autres institutions, comme le mariage. Les membres du clergé ne sont soumis qu'au Droit canon, pas au Droit civil ou coutumier. La plupart des ecclésiastiques de haut rang sont des experts du Droit canon plus que des théologiens. Le Droit canon est établi par les bulles papales (déclarations), mais l'auctor en est Gratien, dans son Decretum. Cette Compétence couvre la connaissance des deux Droits. Les autres religions, en particulier le judaïsme et l'islam, ont leurs propres versions de cette Compétence, qui doivent être apprises séparément.</p><p><b>Spécialisations :</b> lois et coutumes d'une région spécifique, lois papales.</p>"
+		},
+		"Common Law*":
+		{
+			"name":"Droit commun*",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Connaissance des lois de l'Angleterre. Il n'y a pas d'autorité pour cette Compétence, et elle n'est enseignée qu'en Angleterre.</p><p><b>Spécialisations :</b> lois locales, lois de l'échiquier.</p>"
+		},
+		"Code of Hermes*":
+		{
+			"name":"Droit Hermétique*",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Délivrer un jugement sur des événements en fonction du Droit Hermétique et du Droit Périphérique. En plus de connaître la jurisprudence importante, cette Compétence englobe l'aspect pratique de l'application du Droit Hermétique, comme savoir quand demander un vote ou comment présenter un argument.</p><p><b>Spécialisations :</b> Marches des Magiciens, apprentis, relations avec les vulgaires, procédures du Tribunal, intrigues politiques.</p>"
+		},
+		"Islamic Law":
+		{
+			"name":"Droit musulman*",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Cette Compétence est la version musulmane de Droit civil et canon. Les sources majeures du droit islamique sont le Coran et la Sunna.</p><p><b>Spécialisations :</b> une source du droit islamique, un sujet particulier, coutumes d'une région particulière.</p>"
+		},
+		"Rabbinic Law":
+		{
+			"name":"Droit rabbinique*",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Version juive de Droit civil et canon. Les sources majeures du droit rabbinique sont le Talmud, la Torah orale et les Responsa des Geonim.</p><p><b>Spécialisations :</b> une des sources du Droit rabbinique, lois alimentaires, sujets particuliers, précédents dans un domaine spécifique.</p>"
+		},
+		"Animal Ken*":
+		{
+			"name":"Empathie avec les animaux*",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Le personnage peut communiquer avec les animaux comme s'il s'agissait d'êtres humains. Il traite sa valeur en Compétence Empathie avec les animaux comme sa valeur dans une langue que l'animal parle couramment pour déterminer sa capacité à communiquer et il peut utiliser Soins des animaux comme substitut à toutes les Compétences sociales affectant les humains. Cette Compétence n'a pas d'effet sur l'attitude des animaux envers le personnage, ni sur celle que lui a à leur égard. Les autres personnes ne peuvent pas comprendre sa communication avec les animaux.</p><p><b>Spécialisations :</b> un type d'animal particulier, un type de communication particulier.</p>"
+		},
+		"Embitterment":
+		{
+			"name":"Enfieller*",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Enfieller est une capacité surnaturelle majeure qui permet à l'orateur de rendre un auditeur hostile à une cible de son choix. Cette hostilité peut aller d'une simple antagonisme à un désir de meurtre. Par une simple conversation, l'orateur peut faire en sorte que l'auditeur n'aime pas, ressente du ressentiment ou haïsse une personne autrefois considérée comme un ami. La conversation n'a pas besoin d'être longue ; un tour est suffisant pour que cet effet se produise.</p><p>Pour aigrir une cible, le joueur précise exactement comment la cible agira contre la victime visée. Il lance ensuite un dé pour le score de Communication + Enfieller du personnage + un dé de stress et compare le résultat à un facteur de difficulté variable, qui dépend du niveau d'agressivité qu'il souhaite instiller et du niveau de loyauté entre la cible et l'ancien allié. Comme il s'agit d'une capacité surnaturelle, le jet utilise toujours un dé de stress. Le pouvoir d'Enfieller des Nemthengacha est un pouvoir magique pour déterminer son interaction avec les autres royaumes de pouvoir ; il semble probable qu'une version infernale existe également.</p><p><b>Jet d'Enfiellement : Communication + Enfiellement + dé de stress</b></p><p>Consultez le tableau suivant pour déterminer le facteur de facilité.</p><p><table><tr><th style=\"min-width: 125px;\">Facteur de difficulté</th><th>Effet désiré</th></tr><tr><td>6</td><td>Retourner un homme contre son voisin, son associé commercial ou son collègue de travail</td></tr><tr><td>9</td><td>Retourner un homme contre sa femme, son ami ou son cousin (parenté éloignée)</td></tr><tr><td>12</td><td>Retourner un homme contre sa famille proche (père, frère, famille proche)</td></tr><tr><td>15</td><td>Retourner un homme contre son seigneur</td></tr><tr><td>18</td><td>Retourner un homme contre son roi</td></tr></table></p><p>L'effet de base fait en sorte que la victime n'aime pas la cible, conduisant à des calomnies, du ressentiment et un refus de coopérer avec elle. Augmenter cette animosité à de la haine ajoute +3 au facteur de difficulté. Les victimes poussées à haïr la cible désignée souhaitent lui faire du mal, mais s'arrêtent avant de la tuer. Une telle personne pourrait détruire les champs de quelqu'un, ruiner une opportunité commerciale, saboter un mariage, ou peut-être blesser la personne en duel. Augmenter la haine à de la détestation ajoute un autre +3 au facteur de difficulté (+6 au total), et pousse la victime à essayer de tuer la cible visée. Par exemple, le facteur de difficulté est de 18 pour aigrir un homme au point de commettre un parricide (base 12 + 6), et de 24 pour commettre un régicide (base 18 + 6).</p><p>La portée d'Enfieller est la voix et la cible est toujours individuelle. La durée est d'un jour, bien que cela puisse être augmenté à un mois en augmentant le facteur de difficulté de +3. Parce qu'Enfieller agit par la conversation, le lanceur doit parler une langue que la cible comprend.</p><p>Un personnage ainsi aigri ne peut pas désobéir à l'ordre. Il n'est pas autorisé à faire un jet de loyauté pour voir s'il peut ignorer l'appel émotionnel, ou d'autres tergiversations basées sur les traits de personnalité du personnage. La magie hermétique peut annuler l'Enfiellement avec un sort Perdo Vim. La magie Rego Mentem peut remplacer les sentiments d'animosité par des sentiments de loyauté ou de compassion, Creo Mentem peut créer des sentiments de loyauté qui priment sur l'effet, et Perdo Mentem pourrait effacer les sentiments d'animosité. Pour déterminer la puissance nécessaire d'un sort hermétique, considérez le niveau d'Enfieller comme étant égal au score du Nemthenga en Enfieller multiplié par cinq.</p>"
+		},
+		"Teaching":
+		{
+			"name":"Enseignement",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Capacité d'enseigner une Compétence à quelqu'un d'autre.</p><p><b>Spécialisations :</b> une Compétence particulière, des types d'étudiants particuliers.</p>"
+		},
+		"Ride":
+		{
+			"name":"Équitation",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Aptitude à monter en selle et contrôler un animal de monte, en particulier en situation de stress.</p><p><b>Spécialisations :</b> combat, vitesse, manœuvres.</p>"
+		},
+		"Etiquette":
+		{
+			"name":"Étiquette",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Le personnage connaît les bonnes manières et sait comment se comporter dans différentes situations. Étiquette diffère de Charme car elle couvre plutôt le fait de bien se tenir plutôt que d'agir de façon courtoise ou séduisante. Il est impossible de séduire quelqu'un avec Étiquette, tout comme il est impossible d'obtenir une audience avec un évêque grâce à la seule Compétence Charme.</p><p><b>Spécialisations :</b> noblesse, cour, paysans, fées, Église.</p>"
+		},
+		"Finesse":
+		{
+			"name":"Finesse",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Capacité à manipuler les sorts et réaliser des exploits spéciaux avec eux. Cette Compétence est utilisée pour positionner délicatement des objets avec un sort ou pour atteindre des cibles spécifiques.</p><p><b>Spécialisations :</b> grâce, précision, Forme au choix.</p>"
+		},
+		"Alternate form":
+		{
+			"name":"Forme alternative",
+			"source":"ArM5",
+			"page":0,
+			"description":""
+		},
+		"Crafter’s Healing":
+		{
+			"name":"Guérison de l'artisan*",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Permet de soigner des Blessures. Chaque Blessure, quelle que soit sa gravité, ne peut être traitée qu'une seule fois par cette Compétence. Effectuez un jet de Tension de Présence + Guérison de l'artisan + dé contre un Facteur de Difficulté égal au Facteur de rétablissement déterminé par la Table de Récupération des Blessures (p. XX). Soigner une Blessure coûte un niveau de Fatigue à long terme. En cas de réussite, la Blessure est soignée d'un niveau : les Blessures graves deviennent moyennes, les Blessures moyennes deviennent légères et les Blessures légères guérissent totalement. Si le jet est raté, il ne se passe rien en dehors de la perte de Fatigue. Si le jet est un Désastre, le soigneur subit immédiatement une Blessure similaire. La personne blessée gagne un point de Distorsion à chaque fois que cette Compétence est utilisée sur elle, quelle que soit la réussite.</p><p><b>Spécialisations :</b> certains types de Blessures.</p>"
+		},
+		"Entrancement*":
+		{
+			"name":"Hypnotisme*",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Le personnage est capable de contrôler la volonté d'autrui. En fixant profondément le regard d'autrui pendant plusieurs secondes (ce qui est généralement impossible en combat), il peut lui ordonner verbalement d'accomplir une certaine tâche. Faites un jet de Présence + Hypnotisme contre le jet d'Énergie de la cible. La personne contrôlée peut obtenir un bonus de résistance au choix du conteur, selon la table suivante. Les magi Hermétiques bénéficient de leur Résistance magique Mentem normale et peuvent faire le jet d'Énergie normalement si l'effet franchit leur Résistance. Les aveugles et les personnes avec les yeux fermés sont immunisés. Consultez la page XX pour plus de directives sur le contact visuel. Il est impossible de détourner le regard pendant l'Hypnotisme, à moins de remporter le jet opposé.</p><p><table><tr><th style=\"min-width: 125px;\">Ordre</th><th>Exemple</th><th>Bonus de la victime</th></tr><tr><td>Inoffensif</td><td>Parle-moi</td><td>+3</td></tr><tr><td>Douteux</td><td>Retrouve-moi seul(e) à la nuit tombée</td><td>+6</td></tr><tr><td>Dangereux</td><td>Range tes armes</td><td>+9</td></tr><tr><td>Haineux</td><td>Tue tes semblables</td><td>+12</td></tr><tr><td>Suicidaire</td><td>Saute de la falaise</td><td>+15</td></tr></table></p><p><b>Spécialisations :</b> un type d'ordre spécifique, un type de personne spécifique.</p>"
+		},
+		"Intrigue":
+		{
+			"name":"Intrigue",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>C’est l’art des manigances et des complots, qui inclut l'utilisation subtile de la puissance de manière non conflictuelle, pour parvenir à ses fins. L’utilisation de l’Intrigue n'est pas nécessairement sournoise ou manipulatrice : elle couvre aussi les négociations et la connaissance des règles de conduite et de politesse formelles et informelles. En outre, elle permet aussi à un personnage de recueillir des informations importantes sur les personnes au pouvoir, en séparant les faits des ragots inutiles. Intrigue est un talent vital pour ceux qui fréquentent une cour ou un Tribunal Hermétique.</p><p><b>Spécialisations :</b> Ragots, complots, rumeurs, alliances.</p>"
+		},
+		"Language: Arabic*":
+		{
+			"name":"Langue : Arabe*",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Maîtrise d'une langue vivante particulière. Plutôt qu'un modificateur de jet de dé, votre valeur dans cette Compétence mesure votre capacité à communiquer.</p><p><table><tr><th style=\"min-width: 125px;\">Valeur</th><th>Fluidité de la communication</th></tr><tr><td>0</td><td>Expressions par onomatopées. Le personnage sait dire s'il vous plaît, merci et quelques autres mots.</td></tr><tr><td>1</td><td>Questions et réponses de base : Où est l'église ?, Vendez-vous de la nourriture ?. Des erreurs constantes et un accent atroce. Les gens doivent parler lentement et répéter souvent et il est impossible d'avoir une conversation.</td></tr><tr><td>2</td><td>Conversation de base. Le personnage peut avoir une courte conversation sur un sujet courant. Il fait encore beaucoup d'erreurs et ne saisit pas toujours ce que les autres disent.</td></tr><tr><td>3</td><td>Communication par intermittence. Le personnage peut avoir une conversation sur des sujets quotidiens, mais cela prend du temps, il fait beaucoup d'erreurs et son accent est encore mauvais.</td></tr><tr><td>4</td><td>Communication fonctionnelle. Le personnage peut avoir une conversation sur des sujets non techniques et fait peu d'erreurs. Les gens n'ont normalement pas besoin de se répéter. C'est le niveau minimum requis pour étudier à partir d'un livre.</td></tr><tr><td>5</td><td>Communication courante. Le personnage a encore un faible accent si ce n'est pas sa langue maternelle. Il parle aussi bien que la plupart des natifs. C'est le niveau minimum requis pour écrire un livre.</td></tr><tr><td>6</td><td>Communication élégante. Le personnage choisit bien ses mots et n'a pas d'accent si ce n'est pas sa langue maternelle.</td></tr></table></p><p>Lorsque deux personnes s'adressent l'une à l'autre, c'est la valeur de Compétence la plus faible qui détermine la fluidité de la communication. Les personnages qui parlent des langues apparentées peuvent communiquer avec une pénalité sur leurs valeurs (attribuée par le conteur) en fonction de la proximité des deux langues. Deux dialectes d'une même langue ont généralement une pénalité de -1. Si le personnage n'est pas spécialisé dans un dialecte, il subit la pénalité lorsqu'il converse avec des personnes qui parlent un dialecte différent. S'il parle une version standard de la langue, il s'agit d'un dialecte qui diffère de tous les autres dialectes.</p><p>Le latin et l'hébreu ne sont pas des langues vivantes dans la majeure partie de l'Europe Mythique. Cependant, les personnages qui vivent dans des endroits où elles le sont (comme certaines alliances) peuvent apprendre ces Compétences sans Vertu particulière. Il en va de même pour toutes les langues qui sont apprises comme des langues mortes dans une région, mais qui restent des langues vivantes dans une autre.</p><p>Les personnages dotés de cette Compétence sont analphabètes, sauf s'ils ont aussi une valeur en Arts Libéraux (p. XX).</p><p>Cette Compétence couvre aussi les compositions artistiques dans la langue et le fait de conter des histoires avec verve et passion. La connaissance des contes est couverte par les Compétences de Connaissance appropriées.</p><p><b>Spécialisations :</b> poésie, prose, dialecte spécifique, vocabulaire étendu, vocabulaire technique spécifique, argot, art du conte.</p>"
+		},
+		"Language: Aramaic*":
+		{
+			"name":"Langue : Araméen*",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Cette Compétence est similaire aux Compétences Langue vivante (nom), mais elle n'est accessible qu'aux personnages éduqués. Elle confère la capacité de parler une langue qui n'est plus utilisée comme langue maternelle dans les régions où le personnage a vécu. L'exemple le plus important est Langue morte (latin). Tous les personnages éduqués occidentaux connaissent le latin, car sans lui, il est impossible d'apprendre des connaissances académiques. C'est aussi la langue commune de l'Église et de l'Ordre d'Hermès. Dans d'autres régions du monde, l'arabe, le grec et l'hébreu remplissent des fonctions similaires, bien que seul l'hébreu soit une langue morte.</p><p><table><tr><th style=\"min-width: 125px;\">Valeur</th><th>Fluidité de la communication</th></tr><tr><td>0</td><td>Expressions par onomatopées. Le personnage sait dire s'il vous plaît, merci et quelques autres mots.</td></tr><tr><td>1</td><td>Questions et réponses de base : Où est l'église ?, Vendez-vous de la nourriture ?. Des erreurs constantes et un accent atroce. Les gens doivent parler lentement et répéter souvent et il est impossible d'avoir une conversation.</td></tr><tr><td>2</td><td>Conversation de base. Le personnage peut avoir une courte conversation sur un sujet courant. Il fait encore beaucoup d'erreurs et ne saisit pas toujours ce que les autres disent.</td></tr><tr><td>3</td><td>Communication par intermittence. Le personnage peut avoir une conversation sur des sujets quotidiens, mais cela prend du temps, il fait beaucoup d'erreurs et son accent est encore mauvais.</td></tr><tr><td>4</td><td>Communication fonctionnelle. Le personnage peut avoir une conversation sur des sujets non techniques et fait peu d'erreurs. Les gens n'ont normalement pas besoin de se répéter. C'est le niveau minimum requis pour étudier à partir d'un livre.</td></tr><tr><td>5</td><td>Communication courante. Le personnage a encore un faible accent si ce n'est pas sa langue maternelle. Il parle aussi bien que la plupart des natifs. C'est le niveau minimum requis pour écrire un livre.</td></tr><tr><td>6</td><td>Communication élégante. Le personnage choisit bien ses mots et n'a pas d'accent si ce n'est pas sa langue maternelle.</td></tr></table></p><p><b>Spécialisations :</b> usage académique, cérémonies de l'Église, usage Hermétique.</p>"
+		},
+		"Language: Gothic*":
+		{
+			"name":"Langue : Goth*",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Cette Compétence est similaire aux Compétences Langue vivante (nom), mais elle n'est accessible qu'aux personnages éduqués. Elle confère la capacité de parler une langue qui n'est plus utilisée comme langue maternelle dans les régions où le personnage a vécu. L'exemple le plus important est Langue morte (latin). Tous les personnages éduqués occidentaux connaissent le latin, car sans lui, il est impossible d'apprendre des connaissances académiques. C'est aussi la langue commune de l'Église et de l'Ordre d'Hermès. Dans d'autres régions du monde, l'arabe, le grec et l'hébreu remplissent des fonctions similaires, bien que seul l'hébreu soit une langue morte.</p><p><table><tr><th style=\"min-width: 125px;\">Valeur</th><th>Fluidité de la communication</th></tr><tr><td>0</td><td>Expressions par onomatopées. Le personnage sait dire s'il vous plaît, merci et quelques autres mots.</td></tr><tr><td>1</td><td>Questions et réponses de base : Où est l'église ?, Vendez-vous de la nourriture ?. Des erreurs constantes et un accent atroce. Les gens doivent parler lentement et répéter souvent et il est impossible d'avoir une conversation.</td></tr><tr><td>2</td><td>Conversation de base. Le personnage peut avoir une courte conversation sur un sujet courant. Il fait encore beaucoup d'erreurs et ne saisit pas toujours ce que les autres disent.</td></tr><tr><td>3</td><td>Communication par intermittence. Le personnage peut avoir une conversation sur des sujets quotidiens, mais cela prend du temps, il fait beaucoup d'erreurs et son accent est encore mauvais.</td></tr><tr><td>4</td><td>Communication fonctionnelle. Le personnage peut avoir une conversation sur des sujets non techniques et fait peu d'erreurs. Les gens n'ont normalement pas besoin de se répéter. C'est le niveau minimum requis pour étudier à partir d'un livre.</td></tr><tr><td>5</td><td>Communication courante. Le personnage a encore un faible accent si ce n'est pas sa langue maternelle. Il parle aussi bien que la plupart des natifs. C'est le niveau minimum requis pour écrire un livre.</td></tr><tr><td>6</td><td>Communication élégante. Le personnage choisit bien ses mots et n'a pas d'accent si ce n'est pas sa langue maternelle.</td></tr></table></p><p><b>Spécialisations :</b> usage académique, cérémonies de l'Église, usage Hermétique.</p>"
+		},
+		"Language: Greek*":
+		{
+			"name":"Langue : Grec*",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Cette Compétence est similaire aux Compétences Langue vivante (nom), mais elle n'est accessible qu'aux personnages éduqués. Elle confère la capacité de parler une langue qui n'est plus utilisée comme langue maternelle dans les régions où le personnage a vécu. L'exemple le plus important est Langue morte (latin). Tous les personnages éduqués occidentaux connaissent le latin, car sans lui, il est impossible d'apprendre des connaissances académiques. C'est aussi la langue commune de l'Église et de l'Ordre d'Hermès. Dans d'autres régions du monde, l'arabe, le grec et l'hébreu remplissent des fonctions similaires, bien que seul l'hébreu soit une langue morte.</p><p><table><tr><th style=\"min-width: 125px;\">Valeur</th><th>Fluidité de la communication</th></tr><tr><td>0</td><td>Expressions par onomatopées. Le personnage sait dire s'il vous plaît, merci et quelques autres mots.</td></tr><tr><td>1</td><td>Questions et réponses de base : Où est l'église ?, Vendez-vous de la nourriture ?. Des erreurs constantes et un accent atroce. Les gens doivent parler lentement et répéter souvent et il est impossible d'avoir une conversation.</td></tr><tr><td>2</td><td>Conversation de base. Le personnage peut avoir une courte conversation sur un sujet courant. Il fait encore beaucoup d'erreurs et ne saisit pas toujours ce que les autres disent.</td></tr><tr><td>3</td><td>Communication par intermittence. Le personnage peut avoir une conversation sur des sujets quotidiens, mais cela prend du temps, il fait beaucoup d'erreurs et son accent est encore mauvais.</td></tr><tr><td>4</td><td>Communication fonctionnelle. Le personnage peut avoir une conversation sur des sujets non techniques et fait peu d'erreurs. Les gens n'ont normalement pas besoin de se répéter. C'est le niveau minimum requis pour étudier à partir d'un livre.</td></tr><tr><td>5</td><td>Communication courante. Le personnage a encore un faible accent si ce n'est pas sa langue maternelle. Il parle aussi bien que la plupart des natifs. C'est le niveau minimum requis pour écrire un livre.</td></tr><tr><td>6</td><td>Communication élégante. Le personnage choisit bien ses mots et n'a pas d'accent si ce n'est pas sa langue maternelle.</td></tr></table></p><p><b>Spécialisations :</b> usage académique, cérémonies de l'Église, usage Hermétique.</p>"
+		},
+		"Language: Hebrew*":
+		{
+			"name":"Langue : Hébreu*",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Cette Compétence est similaire aux Compétences Langue vivante (nom), mais elle n'est accessible qu'aux personnages éduqués. Elle confère la capacité de parler une langue qui n'est plus utilisée comme langue maternelle dans les régions où le personnage a vécu. L'exemple le plus important est Langue morte (latin). Tous les personnages éduqués occidentaux connaissent le latin, car sans lui, il est impossible d'apprendre des connaissances académiques. C'est aussi la langue commune de l'Église et de l'Ordre d'Hermès. Dans d'autres régions du monde, l'arabe, le grec et l'hébreu remplissent des fonctions similaires, bien que seul l'hébreu soit une langue morte.</p><p><table><tr><th style=\"min-width: 125px;\">Valeur</th><th>Fluidité de la communication</th></tr><tr><td>0</td><td>Expressions par onomatopées. Le personnage sait dire s'il vous plaît, merci et quelques autres mots.</td></tr><tr><td>1</td><td>Questions et réponses de base : Où est l'église ?, Vendez-vous de la nourriture ?. Des erreurs constantes et un accent atroce. Les gens doivent parler lentement et répéter souvent et il est impossible d'avoir une conversation.</td></tr><tr><td>2</td><td>Conversation de base. Le personnage peut avoir une courte conversation sur un sujet courant. Il fait encore beaucoup d'erreurs et ne saisit pas toujours ce que les autres disent.</td></tr><tr><td>3</td><td>Communication par intermittence. Le personnage peut avoir une conversation sur des sujets quotidiens, mais cela prend du temps, il fait beaucoup d'erreurs et son accent est encore mauvais.</td></tr><tr><td>4</td><td>Communication fonctionnelle. Le personnage peut avoir une conversation sur des sujets non techniques et fait peu d'erreurs. Les gens n'ont normalement pas besoin de se répéter. C'est le niveau minimum requis pour étudier à partir d'un livre.</td></tr><tr><td>5</td><td>Communication courante. Le personnage a encore un faible accent si ce n'est pas sa langue maternelle. Il parle aussi bien que la plupart des natifs. C'est le niveau minimum requis pour écrire un livre.</td></tr><tr><td>6</td><td>Communication élégante. Le personnage choisit bien ses mots et n'a pas d'accent si ce n'est pas sa langue maternelle.</td></tr></table></p><p><b>Spécialisations :</b> usage académique, cérémonies de l'Église, usage Hermétique.</p>"
+		},
+		"Language: Latin*":
+		{
+			"name":"Langue : Latin*",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Cette Compétence est similaire aux Compétences Langue vivante (nom), mais elle n'est accessible qu'aux personnages éduqués. Elle confère la capacité de parler une langue qui n'est plus utilisée comme langue maternelle dans les régions où le personnage a vécu. L'exemple le plus important est Langue morte (latin). Tous les personnages éduqués occidentaux connaissent le latin, car sans lui, il est impossible d'apprendre des connaissances académiques. C'est aussi la langue commune de l'Église et de l'Ordre d'Hermès. Dans d'autres régions du monde, l'arabe, le grec et l'hébreu remplissent des fonctions similaires, bien que seul l'hébreu soit une langue morte.</p><p><table><tr><th style=\"min-width: 125px;\">Valeur</th><th>Fluidité de la communication</th></tr><tr><td>0</td><td>Expressions par onomatopées. Le personnage sait dire s'il vous plaît, merci et quelques autres mots.</td></tr><tr><td>1</td><td>Questions et réponses de base : Où est l'église ?, Vendez-vous de la nourriture ?. Des erreurs constantes et un accent atroce. Les gens doivent parler lentement et répéter souvent et il est impossible d'avoir une conversation.</td></tr><tr><td>2</td><td>Conversation de base. Le personnage peut avoir une courte conversation sur un sujet courant. Il fait encore beaucoup d'erreurs et ne saisit pas toujours ce que les autres disent.</td></tr><tr><td>3</td><td>Communication par intermittence. Le personnage peut avoir une conversation sur des sujets quotidiens, mais cela prend du temps, il fait beaucoup d'erreurs et son accent est encore mauvais.</td></tr><tr><td>4</td><td>Communication fonctionnelle. Le personnage peut avoir une conversation sur des sujets non techniques et fait peu d'erreurs. Les gens n'ont normalement pas besoin de se répéter. C'est le niveau minimum requis pour étudier à partir d'un livre.</td></tr><tr><td>5</td><td>Communication courante. Le personnage a encore un faible accent si ce n'est pas sa langue maternelle. Il parle aussi bien que la plupart des natifs. C'est le niveau minimum requis pour écrire un livre.</td></tr><tr><td>6</td><td>Communication élégante. Le personnage choisit bien ses mots et n'a pas d'accent si ce n'est pas sa langue maternelle.</td></tr></table></p><p><b>Spécialisations :</b> usage académique, cérémonies de l'Église, usage Hermétique.</p>"
+		},
+		"Language: East German*":
+		{
+			"name":"Langue : Vieil Allemand*",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Maîtrise d'une langue vivante particulière. Plutôt qu'un modificateur de jet de dé, votre valeur dans cette Compétence mesure votre capacité à communiquer.</p><p><table><tr><th style=\"min-width: 125px;\">Valeur</th><th>Fluidité de la communication</th></tr><tr><td>0</td><td>Expressions par onomatopées. Le personnage sait dire s'il vous plaît, merci et quelques autres mots.</td></tr><tr><td>1</td><td>Questions et réponses de base : Où est l'église ?, Vendez-vous de la nourriture ?. Des erreurs constantes et un accent atroce. Les gens doivent parler lentement et répéter souvent et il est impossible d'avoir une conversation.</td></tr><tr><td>2</td><td>Conversation de base. Le personnage peut avoir une courte conversation sur un sujet courant. Il fait encore beaucoup d'erreurs et ne saisit pas toujours ce que les autres disent.</td></tr><tr><td>3</td><td>Communication par intermittence. Le personnage peut avoir une conversation sur des sujets quotidiens, mais cela prend du temps, il fait beaucoup d'erreurs et son accent est encore mauvais.</td></tr><tr><td>4</td><td>Communication fonctionnelle. Le personnage peut avoir une conversation sur des sujets non techniques et fait peu d'erreurs. Les gens n'ont normalement pas besoin de se répéter. C'est le niveau minimum requis pour étudier à partir d'un livre.</td></tr><tr><td>5</td><td>Communication courante. Le personnage a encore un faible accent si ce n'est pas sa langue maternelle. Il parle aussi bien que la plupart des natifs. C'est le niveau minimum requis pour écrire un livre.</td></tr><tr><td>6</td><td>Communication élégante. Le personnage choisit bien ses mots et n'a pas d'accent si ce n'est pas sa langue maternelle.</td></tr></table></p><p>Lorsque deux personnes s'adressent l'une à l'autre, c'est la valeur de Compétence la plus faible qui détermine la fluidité de la communication. Les personnages qui parlent des langues apparentées peuvent communiquer avec une pénalité sur leurs valeurs (attribuée par le conteur) en fonction de la proximité des deux langues. Deux dialectes d'une même langue ont généralement une pénalité de -1. Si le personnage n'est pas spécialisé dans un dialecte, il subit la pénalité lorsqu'il converse avec des personnes qui parlent un dialecte différent. S'il parle une version standard de la langue, il s'agit d'un dialecte qui diffère de tous les autres dialectes.</p><p>Le latin et l'hébreu ne sont pas des langues vivantes dans la majeure partie de l'Europe Mythique. Cependant, les personnages qui vivent dans des endroits où elles le sont (comme certaines alliances) peuvent apprendre ces Compétences sans Vertu particulière. Il en va de même pour toutes les langues qui sont apprises comme des langues mortes dans une région, mais qui restent des langues vivantes dans une autre.</p><p>Les personnages dotés de cette Compétence sont analphabètes, sauf s'ils ont aussi une valeur en Arts Libéraux (p. XX).</p><p>Cette Compétence couvre aussi les compositions artistiques dans la langue et le fait de conter des histoires avec verve et passion. La connaissance des contes est couverte par les Compétences de Connaissance appropriées.</p><p><b>Spécialisations :</b> poésie, prose, dialecte spécifique, vocabulaire étendu, vocabulaire technique spécifique, argot, art du conte.</p>"
+		},
+		"Dead language (Language's name)*":
+		{
+			"name":"Langue morte (nom)*",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Cette Compétence est similaire aux Compétences Langue vivante (nom), mais elle n'est accessible qu'aux personnages éduqués. Elle confère la capacité de parler une langue qui n'est plus utilisée comme langue maternelle dans les régions où le personnage a vécu. L'exemple le plus important est Langue morte (latin). Tous les personnages éduqués occidentaux connaissent le latin, car sans lui, il est impossible d'apprendre des connaissances académiques. C'est aussi la langue commune de l'Église et de l'Ordre d'Hermès. Dans d'autres régions du monde, l'arabe, le grec et l'hébreu remplissent des fonctions similaires, bien que seul l'hébreu soit une langue morte.</p><p><table><tr><th style=\"min-width: 125px;\">Valeur</th><th>Fluidité de la communication</th></tr><tr><td>0</td><td>Expressions par onomatopées. Le personnage sait dire s'il vous plaît, merci et quelques autres mots.</td></tr><tr><td>1</td><td>Questions et réponses de base : Où est l'église ?, Vendez-vous de la nourriture ?. Des erreurs constantes et un accent atroce. Les gens doivent parler lentement et répéter souvent et il est impossible d'avoir une conversation.</td></tr><tr><td>2</td><td>Conversation de base. Le personnage peut avoir une courte conversation sur un sujet courant. Il fait encore beaucoup d'erreurs et ne saisit pas toujours ce que les autres disent.</td></tr><tr><td>3</td><td>Communication par intermittence. Le personnage peut avoir une conversation sur des sujets quotidiens, mais cela prend du temps, il fait beaucoup d'erreurs et son accent est encore mauvais.</td></tr><tr><td>4</td><td>Communication fonctionnelle. Le personnage peut avoir une conversation sur des sujets non techniques et fait peu d'erreurs. Les gens n'ont normalement pas besoin de se répéter. C'est le niveau minimum requis pour étudier à partir d'un livre.</td></tr><tr><td>5</td><td>Communication courante. Le personnage a encore un faible accent si ce n'est pas sa langue maternelle. Il parle aussi bien que la plupart des natifs. C'est le niveau minimum requis pour écrire un livre.</td></tr><tr><td>6</td><td>Communication élégante. Le personnage choisit bien ses mots et n'a pas d'accent si ce n'est pas sa langue maternelle.</td></tr></table></p><p><b>Spécialisations :</b> usage académique, cérémonies de l'Église, usage Hermétique.</p>"
+		},
+		"Language: (Type)*":
+		{
+			"name":"Langue vivante (nom)*",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Maîtrise d'une langue vivante particulière. Plutôt qu'un modificateur de jet de dé, votre valeur dans cette Compétence mesure votre capacité à communiquer.</p><p><table><tr><th style=\"min-width: 125px;\">Valeur</th><th>Fluidité de la communication</th></tr><tr><td>0</td><td>Expressions par onomatopées. Le personnage sait dire s'il vous plaît, merci et quelques autres mots.</td></tr><tr><td>1</td><td>Questions et réponses de base : Où est l'église ?, Vendez-vous de la nourriture ?. Des erreurs constantes et un accent atroce. Les gens doivent parler lentement et répéter souvent et il est impossible d'avoir une conversation.</td></tr><tr><td>2</td><td>Conversation de base. Le personnage peut avoir une courte conversation sur un sujet courant. Il fait encore beaucoup d'erreurs et ne saisit pas toujours ce que les autres disent.</td></tr><tr><td>3</td><td>Communication par intermittence. Le personnage peut avoir une conversation sur des sujets quotidiens, mais cela prend du temps, il fait beaucoup d'erreurs et son accent est encore mauvais.</td></tr><tr><td>4</td><td>Communication fonctionnelle. Le personnage peut avoir une conversation sur des sujets non techniques et fait peu d'erreurs. Les gens n'ont normalement pas besoin de se répéter. C'est le niveau minimum requis pour étudier à partir d'un livre.</td></tr><tr><td>5</td><td>Communication courante. Le personnage a encore un faible accent si ce n'est pas sa langue maternelle. Il parle aussi bien que la plupart des natifs. C'est le niveau minimum requis pour écrire un livre.</td></tr><tr><td>6</td><td>Communication élégante. Le personnage choisit bien ses mots et n'a pas d'accent si ce n'est pas sa langue maternelle.</td></tr></table></p><p>Lorsque deux personnes s'adressent l'une à l'autre, c'est la valeur de Compétence la plus faible qui détermine la fluidité de la communication. Les personnages qui parlent des langues apparentées peuvent communiquer avec une pénalité sur leurs valeurs (attribuée par le conteur) en fonction de la proximité des deux langues. Deux dialectes d'une même langue ont généralement une pénalité de -1. Si le personnage n'est pas spécialisé dans un dialecte, il subit la pénalité lorsqu'il converse avec des personnes qui parlent un dialecte différent. S'il parle une version standard de la langue, il s'agit d'un dialecte qui diffère de tous les autres dialectes.</p><p>Le latin et l'hébreu ne sont pas des langues vivantes dans la majeure partie de l'Europe Mythique. Cependant, les personnages qui vivent dans des endroits où elles le sont (comme certaines alliances) peuvent apprendre ces Compétences sans Vertu particulière. Il en va de même pour toutes les langues qui sont apprises comme des langues mortes dans une région, mais qui restent des langues vivantes dans une autre.</p><p>Les personnages dotés de cette Compétence sont analphabètes, sauf s'ils ont aussi une valeur en Arts Libéraux (p. XX).</p><p>Cette Compétence couvre aussi les compositions artistiques dans la langue et le fait de conter des histoires avec verve et passion. La connaissance des contes est couverte par les Compétences de Connaissance appropriées.</p><p><b>Spécialisations :</b> poésie, prose, dialecte spécifique, vocabulaire étendu, vocabulaire technique spécifique, argot, art du conte.</p>"
 		},
 		"Verditius Magic":
 		{
 			"name":"Magie de Verditius",
-			"source":"Maison",
-			"page":0,
-			"description":""
-		},
-		"Vocal":
-		{
-			"name":"Vocal",
 			"source":"ArM5",
 			"page":0,
-			"description":""
+			"description":"<p>Il s'agit de la connaissance de la maison Verditius. Cela fournit des informations sur les légendes, l'histoire, la structure, le fonctionnement et les objectifs de cette maison.</p><p>Cela inclut la connaissance des magies, des rites, des mots de passe secrets et du symbolisme du culte, la manière de signaler discrètement son appartenance, et la manière d'évaluer l'appartenance ou la non-appartenance d'un autre mage à votre culte. Deux magi ayant un score dans cette compétence peuvent tenir une conversation en apparence anodine sans que les autres comprennent la véritable signification de leurs mots. De nombreux livres spécialisés sur les cultes mystérieux nécessitent également un score dans cette compétence pour décoder leur symbolisme lourd ; cette méthode est utilisée pour empêcher les non initiés d'apprendre les secrets du mystère.</p><p>La connaissance du culte mystérieux couvre également les cérémonies du culte, fréquemment mises en scène chaque fois que le culte se réunit formellement. C'est aussi une connaissance clé pour la performance des rites d'initiation par un mystagogue, afin de guider l'initié à travers le chemin des épreuves, des cérémonies et de la méditation, pour acquérir de nouvelles vertus.</p><p>Le savoir du culte est transmis du mystagogue à l'initié, des mystes aux mystes dans une chaîne de secrets vivants. Certains cultes écrivent également leurs savoirs secrets, car cela codifie le mystère et permet à d'autres de partager la même vision du culte — d'autres préfèrent le secret de la tradition orale. Les petits cultes peuvent disparaître par manque de membres, surtout s'ils sont persécutés à un moment donné — mais s'ils ont consigné une partie de leur savoir par écrit, le culte peut renaître de ceux qui découvrent et comprennent les textes. Certains cultes risquent la perte du secret pour cette raison même — que leurs secrets et rites magiques ne soient pas perdus à jamais. Certains magi recherchent des textes perdus, contenant des savoirs secrets des Anciens, espérant réenactiver les rites et rituels qui ont conduit les Anciens au pouvoir.</p><p>En termes de jeu, les points d'expérience dans le savoir du culte sont acquis comme toute autre connaissance — y compris par l'enseignement, les livres, la pratique et l'exposition. Apprendre le savoir du culte d'un autre garantit que le maître et l'élève partagent les mêmes rites ; apprendre par soi-même implique généralement que l'on a conçu ses propres variantes (même 'déviantes') de rites et rituels — c'est de tels désaccords que naissent les schismes et que les cultes peuvent se briser et se fragmenter.</p><p>Un mage peut construire la connaissance à partir de zéro, même sans instruction — mais cela signifie qu'il a conçu son propre culte et doit traiter son savoir comme un nouveau savoir.</p>"
+		},
+		"Corpse Magic":
+		{
+			"name":"Magie des cadavres*",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Le personnage peut utiliser Magie des cadavres pour ranimer temporairement un cadavre. La cible de cette Compétence Surnaturelle ne doit pas avoir reçu de rites funéraires d'une religion liée au Divin et le cadavre doit être relativement intact, ayant au minimum une colonne vertébrale, un crâne et plus de la moitié de ses os longs. Il n’est pas nécessaire qu’il reste de la chair. Les chants permettant de réveiller le mort demandent 15 minutes.</p><p><b>Total d'Incantation : Communication + Magie des cadavres + modificateur d'aura + dé de Tension</b></p><p><b>Jet de commandement : Communication + Commandement + dé de Tension ; la valeur de Commandement peut être limitée par une Compétence Langue</b></p><p>Comparez le résultat aux Facteurs de Difficulté suivants pour déterminer la réussite :</p><p><table><tr><th>Facteur de Difficulté</th><th style=\"min-width: 125px;\">Résultat</th></tr><tr><td>9</td><td>Communication avec un cadavre : il n'est pas obligé de répondre franchement ou directement, mais peut le faire s'il le souhaite.</td></tr><tr><td>12</td><td>Communication avec un cadavre : il est obligé de répondre franchement.</p><p>Protéger un cadavre pour qu'il ne soit pas affecté par d'autres Magie des cadavres. Toute tentative en ce sens voit sa Facteur de Difficulté augmentée de la valeur de Magie des cadavres du personnage.</td></tr><tr><td>15</td><td>Animer un cadavre. Les ordres sont suivis au mieux des Compétences du cadavre, mais le personnage doit rester en vue du cadavre, sinon il cesse tout mouvement jusqu'à ce que le personnage revienne</p><p>Prendre le contrôle d'un cadavre animé. Le jet de Commandement doit être supérieur à celui de l'animateur d'origine (s'il y en a un), sinon le cadavre continue de suivre ses ordres précédents.</td></tr><tr><td>18</td><td>Animer un cadavre et le placer sous le contrôle mental direct du personnage ; s'il peut voir le cadavre, il peut lui donner des ordres. Il peut ne pas rester en présence du cadavre et celui-ci continuera d'accomplir ses ordres, puis une fois ceux-ci terminés, il s’immobilise en attendant que son créateur lui donne un autre ordre.</td></tr></table></p><p>Le cadavre s'anime et s'assoit, permettant au personnage de converser directement avec lui. Un personnage très doué peut faire sortir le cadavre de sa tombe et le faire marcher. Le personnage pose des questions ou donne des ordres en effectuant un jet de Communication + Commandement ; un cadavre ne fait rien sauf s'il reçoit un ordre à l'aide d'un tel jet. Les ordres d'un seul mot ont un Facteur de Difficulté de 6, les questions ou ordres simples nécessitent un 9 et les instructions ou questions plus complexes nécessitent un 12 ou plus. Le personnage doit connaître la langue que le cadavre parlait de son vivant pour lui poser des questions ou lui donner des ordres. Si le personnage ne parle pas couramment cette langue (valeur de 5 ou plus), son Commandement est limité par sa Compétence linguistique. Lorsque le personnage échoue à 3 jets de Commandement, le cadavre s'enfonce dans sa tombe ou cesse de se déplacer et ne peut plus être soumis à Magie des Cadavres jusqu'à ce que la lune se lève. Un cadavre cesse aussi d'être actif si sa tête est retirée de son corps.</p><p>Les cadavres ambulants ont généralement une Puissance Magique de 9 (Royaume de pouvoir : magie, chapitre 6). Le Total de Pénétration de Magie des cadavres doit dépasser cette Puissance pour forcer un cadavre à quitter sa tombe, sans quoi il reste confiné en terre.</p><p><b>Spécialisations :</b> rois, soldats, vérité incontournable, animation des morts.</p>"
+		},
+		"Faerie Magic":
+		{
+			"name":"Magie féerique*",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Reflète la connexion avec le Royaume de la Féerie de tous les magi de Merinita. Cette Compétence ne peut être apprise par les autres personnages, même s'ils ont accès aux Compétences Mystiques. Elle est décrite dans le chapitre Magie Hermétique (p. XX).</p>"
+		},
+		"Hex":
+		{
+			"name":"Maléfice*",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Le personnage peut causer du tort ou attirer la ruine de ses Ennemis. Il y a trois façons d'activer ce pouvoir : en établissant un contact visuel avec la victime et en proclamant son but suffisamment fort pour qu'elle l'entende, en traçant sur sa cible des signes et symboles occultes temporaires qui indiquent le sombre destin qui l'attend, ou en acquérant un Lien mystique avec sa cible et en façonnant une représentation reconnaissable qui peut canaliser l'effet par le biais de la magie sympathique.</p><p>Pour jeter un Maléfice à une cible, le personnage doit en exprimer clairement la volonté : il doit déclarer à haute voix ce qu'il souhaite à la victime, ou indiquer les spécificités du maléfice par écrit sur la cible ou tout près d'elle, ou encore imiter ou mimer ce qu'il veut voir arriver à la cible. Le maléfice comporte toujours une composante physique (les pratiques courantes consistent à faire des nœuds sur une ligne, à cracher ou à donner le mauvais œil à la cible).</p><p>Une durée doit être indiquée pour le maléfice, allant d'un effet qui se produit immédiatement à un maléfice qui affectera la troisième génération des descendants de la victime. En règle générale, plus l'effet se manifeste rapidement, moins il sera puissant ; et plus le maléfice tarde à se manifester, plus il pourra être puissant. Le modificateur de délai (voir tableau) doit toujours être ajouté au total du Maléfice.</p><p><table><tr><th>Modificateurs de délai de Maléfice</th></tr><tr><td>Retard</td><td>Modificateur</td></tr><tr><td>Instantané</td><td>-12</td></tr><tr><td>Heure</td><td>-9</td></tr><tr><td>Jour</td><td>-6</td></tr><tr><td>Semaine</td><td>-3</td></tr><tr><td>Mois</td><td>0</td></tr><tr><td>Saison</td><td>+3</td></tr><tr><td>Année</td><td>+6</td></tr><tr><td>Génération</td><td>+9</td></tr><tr><td>Toute la vie</td><td>+12</td></tr></table></p><p>Lorsque le maléfice est défini de manière appropriée, faites un jet Intelligence + Maléfice + bonus d'aura + modificateur de délai et comparez son résultat au Facteur de Difficulté sur le Effets du Maléfice. La gravité de ces effets est comparable aux effets d'un jet de Désastre ayant obtenu un certain nombre de 0, comme indiqué dans le tableau. En cas de Désastre sur le jet de Maléfice, le maléfice peut tout de même se produire, mais avec des résultats imprévisibles et inattendus, affectant peut-être le personnage ou un de ses proches à la place. Il se peut aussi qu'il subisse des points de Distorsion, une perte de Fatigue ou d'autres effets malheureux.</p><p><b>Maléfice : dé de Tension + Intelligence + Maléfice + bonus d'aura + modificateurs</b></p><p><table><tr><th>Effets du Maléfice</th></tr><tr><td>Facteur de Difficulté</td><td>Sévérité</td><td>Exemple</td></tr><tr><td>6+</td><td>Mineur (1 Désastre)</td><td>Échec automatique à une tâche importante</td></tr><tr><td>12+</td><td>Grave (2 Désastres)</td><td>Aveuglement</td></tr><tr><td>18+</td><td>Majeur (3 Désastre)</td><td>Maladie débilitante</td></tr><tr><td>24+</td><td>Critique (4 Désastres)</td><td>Réduction de 3 de toutes les Caractéristiques</td></tr><tr><td>30+</td><td>Fatal (5 Désastres)</td><td>Mort subite</td></tr></table></p><p>Une victime potentielle peut éviter les effets d'un maléfice en recherchant une protection surnaturelle quelconque, généralement auprès du Divin. Si un personnage reçoit l'absolution lors d'une cérémonie religieuse, tous les maléfices qui l'ont pris pour cible sont définitivement annulés. Les personnages peuvent aussi faire disparaître le maléfice grâce à d'autres effets surnaturels, tels qu'un sort Perdo Vim, une bénédiction des fées ou un miracle. Traitez le maléfice comme ayant un niveau de sort égal à son nombre de dés de Désastre multiplié par 10 : ainsi, un maléfice grave est un effet de niveau 20 et un maléfice critique un effet de niveau 40.</p><p>Maléfice est souvent un Pouvoir Trompeur (p. XX) associé aux Royaumes de la Magie ou de la Féerie. Il utilise donc la colonne Magie ou Féerie de la Table d'interaction des Royaumes, mais apparaît comme un pouvoir impie lorsqu'il est soumis aux pouvoirs d'investigation du Divin ou de l'Infernal. Il existe aussi des versions purement Infernales de ce pouvoir, ainsi que des versions Magiques ou Féeriques qui ne sont pas souillées par l'Infernal. De telles versions 'pures' de Maléfice sont cependant rares, car les démons adorent souiller ce Pouvoir.</p><p><b>Spécialisations :</b> durée spécifique, méthode de Maléfice, un effet particulier.</p>"
+		},
+		"Bargain":
+		{
+			"name":"Marchandage",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Savoir-faire permettant d'obtenir le meilleur rendement pour un service ou un produit, tout en payant le moins possible. Cela implique de cerner la personne avec qui on marchande, d'avoir une connaissance générale de la valeur des marchandises et de se présenter d'une certaine manière. Un bon marchand peut facilement vaincre la résistance d'un client inexpérimenté et déjouer la plupart des tentatives de surévaluation de marchandises.</p><p><b>Spécialisations :</b> types de produits spécifiques, vente forcée.</p>"
+		},
+		"Medicine*":
+		{
+			"name":"Médecine*",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Étude formelle du corps et de ses maladies. La pratique médicale est basée sur la théorie des quatre humeurs : le sang, la phlegme, la bile jaune et la bile noire. Les maladies sont souvent causées par des déséquilibres entre ces humeurs, d'où des pratiques telles que les saignées, destinées à rétablir l'équilibre. Médecine englobe aussi le traitement des poisons et des conséquences de la famine, mais pas du traitement des Blessures (voir Chirurgie, p. XX). Les auctores sont Galien et Hippocrate, dans de nombreux ouvrages. Il est important de noter que la théorie médicale médiévale est fondamentalement vraie en Europe Mythique.</p><p><b>Spécialisations :</b> anatomie, herboristerie, traitement spécifique.</p>"
+		},
+		"Music":
+		{
+			"name":"Musique",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Capacité à chanter, jouer d'un instrument de musique et composer de la musique.</p><p><b>Spécialisations :</b> chant, composition, jouer d'un instrument au choix.</p>"
+		},
+		"Enchanting Music*":
+		{
+			"name":"Musique enchanteresse*",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Lorsque vous vous y mettez, vous pouvez influencer les autres avec votre musique. Pour un effet spécifique, vous devez utiliser des mots que les gens peuvent comprendre. Vous pouvez calmer avec des mélodies seules, mais vous avez besoin de paroles pour convaincre les paysans de se soulever contre le seigneur local. Les effets généraux fonctionnent sur les animaux, mais les effets spécifiques ne fonctionnent que sur les créatures capables de comprendre les mots. Lorsque vous utilisez la musique enchanteresse, lancez un dé (stress ou simple, selon la situation) et ajoutez la Communication et la valeur dans votre compétence musique enchanteresse. Un facteur de difficulté de 9 calmera les personnes perturbées, 12 gagnera l'amour de quelqu'un, 15 incitera à une émeute, et 24 pourrait regagner une âme au Prince des Ténèbres. Si vous échouez lamentablement, vous inspirez une émotion indésirable.</p><p>Si la cible a une résistance magique, vous devez pénétrer sa résistance ; voir les règles.</p><p>Vous devriez également lancer un dé pour la qualité de la performance, mais l'effet magique est indépendant, sauf si vous échouez lamentablement. Si vous échouez lamentablement au jet de compétence, vous n'avez pas réussi à produire la performance pour une raison quelconque, et donc la compétence surnaturelle échoue automatiquement.</p><p><b>Spécialisations :</b> une émotion particulière, un type particulier de personne.</p>"
+		},
+		"Swim":
+		{
+			"name":"Natation",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Capacité à se mouvoir dans l'eau rapidement et efficacement.</p><p><b>Spécialisations :</b> longues distances, plongée, manœuvres sous-marines.</p>"
+		},
+		"Parma Magica*":
+		{
+			"name":"Parma Magica*",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Protection contre la magie. C'est un rituel spécial (mais pas un sort rituel) dont l'exécution prend environ deux minutes. Il permet d'ajouter 5 fois la valeur de Parma Magica à la Résistance magique jusqu'au prochain lever ou coucher de soleil. Un personnage peut suspendre temporairement sa Parma Magica en se concentrant ; cela équivaut à soutenir un sort de durée Concentration (p. XX). La Parma Magica ne nécessite pas de concentration tant qu'elle est active.</p><p>L'utilisateur peut aussi protéger une personne supplémentaire par point de Parma Magica, avec son consentement. Il doit toucher chaque personne pour étendre la protection et celle-ci dure tant qu'au moins un personnage peut voir l'autre. Le magus peut annuler la protection à volonté, à n'importe quelle distance. Lorsqu'un magus protège d'autres personnes, sa valeur effective de Parma Magica est réduite de 3 points, à la fois pour lui-même et pour les autres bénéficiaires. Si le magus a une valeur de Parma Magica inférieure ou égale à 3, sa Parma Magica confère à chaque personnage, y compris lui-même, une Résistance magique de 0. Dans le cas du magus, celle-ci s'ajoute à sa Résistance dérivant d'une Forme et un magus protégé par la Parma Magica d'un autre magus peut aussi ajouter sa Résistance de Forme.</p><p>Tout personnage protégé par une Parma Magica, que ce soit la sienne ou celle de quelqu'un d'autre, n'est pas affecté par les pénalités sociales du Don. Si un personnage protégé possède le Don, celui-ci impose toujours des pénalités sociales aux autres, à moins que ces derniers ne soient aussi protégés par une Parma Magica, ou qu'ils soient insensibles au Don pour une autre raison.</p><p>La Parma Magica ne peut être apprise que par les personnages ayant le Don. Ils l'apprennent comme une Compétence Mystique normale, pas comme une Compétence Surnaturelle. Elle n'est connue que des magi Hermétiques. L'Ordre impose rigoureusement le choix de 'Rejoindre l'Ordre ou mourir' à quiconque la connaît et déclare une Marche des Magiciens sur le magus qui l'a enseignée. La Parma Magica est la dernière chose qu'un apprenti apprend, la dernière clé de la Compétence lui étant enseignée après qu'il ait prêté serment.</p><p><b>Spécialisations :</b> protection contre une Forme spécifique.</p>"
+		},
+		"Penetration":
+		{
+			"name":"Pénétration",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Capacité à faire passer des sorts à travers la Résistance magique de la cible. Consultez la p. XX et suivantes pour les règles complètes de Pénétration.</p><p><b>Spécialisations :</b> n'importe quel Art.</p>"
+		},
+		"Sense Holiness & Unholiness*":
+		{
+			"name":"Perception de la sainteté et de la malignité*",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Le personnage peut sentir la présence du bien et du mal. Un jet de Perception + Sens de la sainteté et de la malignité contre un Facteur de Difficulté de 9 permet de sentir la sainteté ou la malignité dans une zone générale. Contre un Facteur de Difficulté de 15, ce jet permet de la déceler chez une personne ou un objet. La Facteur de Difficulté pour détecter un démon est de 0, mais le personnage doit pénétrer sa Résistance magique. Si un ange cache sa nature divine, ce qui est inhabituel, le Facteur de Difficulté est de 15 et le personnage doit pénétrer sa Résistance. Si l'ange ne cache pas sa nature divine, le jet est automatiquement réussi. Dans les auras d'influence divine ou infernale très forte, la sensibilité de cette Compétence peut submerger le personnage. Cette Compétence est accordée par le Royaume du Divin, pas par les Royaumes de la Magie ou de la Féerie : il utilise donc la colonne Divin sur la Table d'interaction des Royaumes.</p><p><b>Spécialisations :</b> bien, mal.</p>"
+		},
+		"Sense Passions":
+		{
+			"name":"Perception des passions*",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Capacité à sentir la personnalité et les désirs d'un être intelligent en identifiant les nuances de ternissure de son âme. Un jet de Perception + Perception des passions contre un Facteur de Difficulté de 9 permet de sentir l'émotion la plus puissante actuellement ressentie par la cible. Un jet contre un Facteur de Difficulté de 15 permet d'identifier son Trait de Personnalité dominant. L'effet doit pénétrer la Résistance magique de la cible si elle dispose d'une quelconque protection surnaturelle. Comme il s'agit d'une Compétence surnaturelle, elle est affectée par les auras.</p><p>Perception des passions : dé de Tension + Perception + Perception des passions + aura</p><p>Grâce à un examen minutieux, un personnage peut aussi reconnaître les passions des gens dans la zone générale, ce qui lui permet de se concentrer sur la source d'émotion la plus puissante à portée de vue, généralement la personne ayant la Personnalité la plus élevée (ou la moins élevée). Il faut pour cela obtenir un 12 ou plus sur le jet de Perception des passions.</p><p>L'utilisateur peut aussi savoir si une aura est ternie (Royaume de pouvoir : l’Infernal, Chapitre 1 : Aura ternie) ou tempérée (Royaume de Pouvoir : Le divin édition révisé, Chapitre 3 : Influence divine) et son ou ses types en surmontant un Facteur de Difficulté de 6.</p><p>En sentant les passions, le personnage peut souvent identifier des esprits immatériels. Il peut employer Perception des passions comme Double vue lorsqu'il essaye de déceler la présence d'êtres invisibles ou immatériels. Cependant, il ne peut pas voir à travers les illusions, même les illusions simulant des émotions fortes et il ne voit pas vraiment les esprits et ressent simplement leur présence à proximité.</p><p>Cette Compétence permet au personnage de percevoir la sainteté et de la malignité de façon limitée, comme la Compétence Perception de la sainteté et de la malignité. Il peut dire si quelque chose est saint ou impie, mais il est incapable de distinguer les deux. Le personnage ressent la présence émotionnelle associée au Divin ou à l'Infernal, mais ne peut pas déterminer l'origine surnaturelle. Ainsi, il peut confondre un démon de belle apparence avec un ange, ou un ange à l'allure effrayante avec un démon. En identifiant les émotions ou les désirs primaires de la cible, cependant, il peut se faire une bonne idée du Royaume auquel la cible est associée, en supposant qu'il soit capable de franchir sa Résistance magique.</p><p>Perception des passions découle d'un Pouvoir trompeur (voir le Vice correspondant), ou associé à l'Infernal. Cela signifie que le Pouvoir et son utilisation apparaissent toujours liés à l'Infernal s'ils sont soumis à une détection Divine ou Infernale. La présence de la Souillure Infernale permet à la capacité de Perception de la sainteté et de la malignité de fonctionner. Si la troupe autorise l'existence de Pouvoirs trompeurs Divins, il peut s'agir de la version fausse de Perception de la sainteté et de la malignité.</p><p><b>Spécialisations :</b> auras, émotions, Traits de Personnalité, domaine général.</p>"
+		},
+		"Persona":
+		{
+			"name":"Persona*",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Un personnage doté de cette Compétence peut modifier son apparence pour adopter une identité différente. Il peut modifier tous les aspects de son apparence : couleur des cheveux et des yeux, teint, forme du nez, corpulence et taille (dans les limites de sa Taille), âge apparent et sexe. Ces changements sont complets, à l'épreuve de l'examen vulgaire le plus intime, mais ils ne modifient pas la nature essentielle du personnage. Par conséquent, toutes ses valeurs de Caractéristique restent inchangées, ses Vertus et ses Vices sont transférés à toutes ses nouvelles identités et un personnage qui n'a normalement pas d'utérus ne peut pas tomber enceinte lorsqu'il adopte la Persona d'une personne qui en a un.</p><p>Adopter une nouvelle identité nécessite un tour de concentration et un jet d'Énergie + Persona contre un Facteur de Difficulté de 9. Reprendre sa forme naturelle nécessite la même concentration et le même jet. Chaque identité possède ses propres Traits de Personnalité et bizarreries comportementales et aucun jet de Déguisement n'est nécessaire pour convaincre les autres du rôle endossé ; ce n'est pas un déguisement mais une identité totalement différente.</p><p>Le personnage gagne une identité par point dans la Compétence Persona. Chaque fois que la Compétence augmente d'un point, le personnage doit concevoir une nouvelle identité.</p><p><b>Spécialisations :</b> prêtres, paysans, magi.</p>"
+		},
+		"Induction":
+		{
+			"name":"Persuasion illusoire*",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Capacité surnaturelle de créer des illusions dans l'esprit d'une personne. Seule la cible peut voir ces illusions. Chaque tentative de Persuasion illusoire nécessite que l'utilisateur parle avec la victime pendant au moins une minute. Les personnes qui ne peuvent pas entendre l'inducteur sont immunisées contre ses pouvoirs.</p><p>Les tentatives de Persuasion illusoire nécessitent un jet de Communication + Persuasion illusoire. L'emploi de Persuasion illusoire n'est pas rendu plus difficile par la complexité de l'illusion mais par l'ampleur du risque pris par la victime si elle croit à l'illusion. À un certain niveau, la victime reste consciente du monde réel et peut libérer de la Persuasion illusoire si elle est menacée.</p><p>Les Facteurs de Difficulté pour la Persuasion illusoire sont :</p><p>Inoffensif 3</p><p>Potentiellement honteux 6</p><p>Potentiellement dangereux pour autrui 9</p><p>Potentiellement dangereux pour soi-même 12</p><p>Potentiellement suicidaire 15</p><p><b>Modificateurs de jet (n'en choisissez qu'un)</b></p><p>La victime est ivre, droguée, épuisée ou gravement malade +3</p><p>La victime connaît le manipulateur et lui fait confiance +3</p><p>Le lieu de la Persuasion illusoire a été soigneusement préparé à l'avance avec des accessoires coûteux +3</p><p>Si le manipulateur a réussi à captiver une victime, il peut effectuer un nouveau jet pour tenter d'augmenter le degré de risque auquel la victime est exposée au niveau de risque suivant. Cela prend au moins quinze minutes et, au deuxième jet, le Facteur de Difficulté est réduit de 3. Pousser la victime jusqu'à une situation présentant un niveau de danger potentiellement suicidaire peut prendre beaucoup de temps et demander plusieurs jets.</p><p>À posteriori, la victime d'une Persuasion illusoire peut se rendre compte qu'elle a été affectée par la magie si le jet de Persuasion illusoire dont elle a été la cible n'a pas dépassé le Facteur de Difficulté de (6 - 1 par facteur de la liste suivante). Vous ne pouvez pas choisir plus de 3 de ces facteurs.</p><p><ul><li>Utilisation prudente des accessoires (vêtements tachés, souvenirs fournis)</li><li>La sortie de l'illusion se fond dans le réel (le personnage dans l'illusion renvoie le personnage chez lui, le personnage s'endort dans l'illusion et se réveille dans son lit</li><li>Pas de perte de temps (le personnage dans l'illusion explique que tout se passe en une nuit, aucun serviteur ne remarque que le personnage est parti)</li><li>Effets vérifiables sur le réel (les actions du personnage dans l'illusion semblent avoir modifié le monde réel de manière vérifiable)</li><li>Suite (le personnage a été convaincu que les illusions précédentes étaient réelles, et celle-ci s'inscrit dans une histoire plus vaste).</li></ul></p><p><b>Spécialisations :</b> types particuliers d'illusions.</p><table><tr><th>Hypnotisme et Persuasion illusoire</th></tr><tr><td>Hypnotisme et Persuasion illusoire semblent similaires, car leurs échelles de Facteur de Difficulté sont proches, mais elles diffèrent en pratique. Hypnotisme prend le contrôle d'un personnage et dicte ses actions, mais n'affecte pas ce qu'il croit ou ce qu'il vit. Persuasion illusoire fait sentir à un personnage des choses qui ne sont pas réelles et peut le convaincre de choses qui ne sont pas vraies, mais ne le force pas à agir.Il est possible d'avoir à la fois Hypnotisme et Persuasion illusoire et d'utiliser les deux pour les renforcer. Par exemple, Parle-moi est un ordre hypnotique inoffensif qui permet de faire entrer la cible dans une Persuasion illusoire. Une Persuasion illusoire qui convainc un personnage qu'une action est moins risqué ou plus nécessaire qu'elle ne l'est vraiment, modifient les Facteurs de Difficulté d'Hypnotisme.</td></tr></table></p>"
+		},
+		"Philosophiae*":
+		{
+			"name":"Philosophies*",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Il existe trois philosophies : la philosophie naturelle, la philosophie morale et la métaphysique. Aristote est l'auctor pour chacune d'elle, dans des ouvrages différents. La plupart des érudits étudient les philosophies après les Arts Libéraux, mais avant de passer au Droit, à la Théologie ou à la Médecine. La philosophie naturelle est l'étude du monde sublunaire. Elle correspond à peu près à la science d'aujourd'hui. Ses principaux textes sont la Physica, le De Meteorologia et le De historia animalium. La philosophie morale est l'étude de la meilleure manière de vivre en tant qu'homme. Elle couvre l'éthique, la politique et l'économie. Ses textes de référence sont l'Ethica, la Politica et l'Economica. La métaphysique est la philosophie de la nature fondamentale du monde. Le texte principal est la Metaphysica d'Aristote. Les théories constituant la Compétence Philosophies sont toutes fondamentalement correctes en Europe Mythique.</p><p><b>Spécialisations :</b> philosophie naturelle, philosophie morale, métaphysique, magie rituelle, magie cérémonielle.</p>"
+		},
+		"Premonitions*":
+		{
+			"name":"Prémonitions*",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Le personnage sent intuitivement dès que quelque chose ne va pas, ou risque de mal tourner bientôt. Cette Compétence peut être utilisée par le personnage ou le conteur, selon le cas, chaque fois qu'il y a une chance d'éviter un danger. Effectuez un jet de Perception + Prémonitions contre un Facteur de Difficulté dépendant de la situation. Un Facteur de Difficulté 3 correspond à un péril imminent et mortel et il augmente en fonction de l'importance et de la proximité temporelle de la menace. Un péril mortel dans une semaine aurait un Facteur de Difficulté de 9, tandis qu'un désagrément mineur imminent aurait un Facteur de Facteur de Difficulté d'environ 15. Si le Facteur de Difficulté est dépassé de 3 ou plus, le personnage obtient une idée de la nature du danger et accumule plus de détails si son jet dépasse davantage le Facteur de Difficulté.</p><p><b>Spécialisations :</b> menaces pesant sur une personne ou un groupe en particulier, types de menaces spécifiques.</p>"
+		},
+		"Profession: Farmer":
+		{
+			"name":"Profession : Agriculteur",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>La capacité d'exercer un métier qui ne consiste pas à fabriquer quelque chose. Les exemples incluent jongleur, intendant, marin, majordome, charretier et blanchisseuse.</p><p><b>Spécialisations :</b> dépendent de la profession.</p>"
+		},
+		"Profession: Teamster":
+		{
+			"name":"Profession : Charretier",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>La capacité d'exercer un métier qui ne consiste pas à fabriquer quelque chose. Les exemples incluent jongleur, intendant, marin, majordome, charretier et blanchisseuse.</p><p><b>Spécialisations :</b> dépendent de la profession.</p>"
+		},
+		"Profession: Herbalist":
+		{
+			"name":"Profession : Herboriste",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>La capacité d'exercer un métier qui ne consiste pas à fabriquer quelque chose. Les exemples incluent jongleur, intendant, marin, majordome, charretier et blanchisseuse.</p><p><b>Spécialisations :</b> dépendent de la profession.</p>"
+		},
+		"Profession: Steward":
+		{
+			"name":"Profession : Intendant",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>La capacité d'exercer un métier qui ne consiste pas à fabriquer quelque chose. Les exemples incluent jongleur, intendant, marin, majordome, charretier et blanchisseuse.</p><p><b>Spécialisations :</b> dépendent de la profession.</p>"
+		},
+		"Profession: Merchant":
+		{
+			"name":"Profession : Marchand",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>La capacité d'exercer un métier qui ne consiste pas à fabriquer quelque chose. Les exemples incluent jongleur, intendant, marin, majordome, charretier et blanchisseuse.</p><p><b>Spécialisations :</b> dépendent de la profession.</p>"
+		},
+		"Profession: Sailor":
+		{
+			"name":"Profession : Marin",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>La capacité d'exercer un métier qui ne consiste pas à fabriquer quelque chose. Les exemples incluent jongleur, intendant, marin, majordome, charretier et blanchisseuse.</p><p><b>Spécialisations :</b> dépendent de la profession.</p>"
+		},
+		"Profession: Scribe":
+		{
+			"name":"Profession : Scribe",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>La capacité d'exercer un métier qui ne consiste pas à fabriquer quelque chose. Les exemples incluent jongleur, intendant, marin, majordome, charretier et blanchisseuse.</p><p><b>Spécialisations :</b> dépendent de la profession.</p>"
+		},
+		"Profession: (Type)":
+		{
+			"name":"Profession (Type)",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Aptitude à effectuer un travail qui n'implique pas la fabrication de quelque chose, comme un jongleur, un maréchal, un préfet, un marin, un intendant ou une lavandière. Les spécialisations dépendent de la Profession.</p>"
+		},
+		"Font of Knowledge":
+		{
+			"name":"Puits de savoir*",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>En réussissant un test d'Intelligence + Puits de savoir + dé de Tension contre un Facteur de Difficulté de (6 plus (3 fois le nombre d'utilisations de Puits de savoir dans la journée)), l'utilisateur de cette Compétence peut tenter d'accomplir une tâche avec n'importe quelle Compétence qu'elle ne possède pas comme si elle avait une valeur de 2. Les jets ratés comptent dans le nombre d'utilisations quotidiennes.</p><p><b>Spécialisations :</b> un sujet particulier.</p>"
+		},
+		"(Form) Resistance":
+		{
+			"name":"Résistance (Forme)",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Seuls les personnages avec un score de Puissance Magique peuvent posséder cette Capacité.</p><p>Grâce à l'exposition à une Forme de magie particulière, le personnage a développé une résistance naturelle aux choses associées à cette Forme, de la même manière que les magi deviennent plus résistants en étudiant la magie de la Forme Hermétique associée. Vous pouvez ajouter le score du personnage dans cette Capacité comme bonus aux tentatives de résistance aux dommages causés par des choses de cette Forme. Par exemple, vous pouvez ajouter votre score en Résistance à Vim aux jets pour résister à l'Agitation et à votre total d'absorption contre les dommages infligés par vos propres pouvoirs magiques.</p><p>Comme les bonus de Forme pour les magi, cela augmente également la Résistance Magique d'un personnage magique contre les sorts de cette Forme, mais cela n'est compatible qu'avec la Puissance Magique ; cela ne s'accumule pas avec la Parma Magica.</p><p><b>Spécialisations :</b> une seule source de dommages infligés par cette Forme.</p>"
+		},
+		"Curse-Throwing":
+		{
+			"name":"Retrait de maléfice*",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Cette Compétence Surnaturelle est généralement alignée sur le Royaume de la Féerie, mais peut être alignée sur n'importe quel Royaume surnaturel. Elle permet au personnage de guérir les maladies, de lever les malédictions et de dissiper les effets magiques néfastes, mais uniquement en transférant (ou lançant) leurs effets à une autre personne. Retrait de maléfice ne peut pas affecter les Vices, en particulier les Vices Petite malédiction ou Grande malédiction, à moins qu'il ne s'agisse d'un Vice infligé par une fée ou un magicien et dont la durée est limitée. Toute autre maléfice imposé par une puissance surnaturelle est potentiellement du ressort de cette Compétence ; notez que les maléfices imposées directement par Dieu (comme la lèpre) sont normalement représentés par des Vices permanents et ne peuvent donc pas être affectés. Seuls les effets néfastes peuvent être transférés avec cette Compétence. Le conteur est l'arbitre dans les cas où les effets ne sont pas directement néfastes. La stérilité est une affliction courante traitée par cette Compétence ; si elle est transférée à un homme ou à un animal mâle, c'est l'impuissance qui est infligée à la place. Les autres maléfices transférés à des cibles inappropriées sont modifiés de la même manière.</p><p>Pour Retirer un maléfice, la personne affligée doit être physiquement présente et le destinataire doit être représenté soit en personne, soit par un Lien mystique. Les afflictions peuvent être transmises d'un humain à un animal ou vice versa, mais cela est plus difficile que le transfert au sein d'une même espèce. Les utilisateurs de Retrait de maléfice se transfèrent parfois le maléfice à eux-mêmes, mais un tel altruisme est rare. Pour Retirer un maléfice, le personnage doit accomplir un rituel élaboré qui implique la fabrication d'un charme qui transfère le maléfice. Ce charme est la combinaison d'un objet physique et d'un chant. L'objet est touché à plusieurs reprises par la cible et le destinataire (ou le Lien mystique), tandis que le chant est répété en boucle. Le rituel prend généralement une heure par tranche de 5 points (ou fraction) du Facteur de Difficulté (voir ci-après). À la fin de cette période, le personnage génère un Total d'Incantation, qui doit être supérieur ou égal au Facteur d'Incantation indiqué. Si celui qui subit le maléfice ou celui qui en est le destinataire a une Résistance magique, le Total de Pénétration doit la dépasser, sinon le maléfice continue d'affecter sa victime initiale. Un jet de Retrait de maléfice raté fait de l'utilisateur le récipiendaire du maléfice.</p><p><b>Total d'Incantation : Présence + Retrait de maléfice + aura + dé de tension</p><p>Total de Pénétration : Total d'Incantation - Facteur de Difficulté + Bonus de Pénétration.</b></p><p><table><tr><th style=\"min-width: 125px;\">Malédiction</th><th>Facteur de Difficulté</th></tr><tr><td>Maladie ou affliction mineure</td><td>9</td></tr><tr><td>Maladie ou affliction sérieuse</td><td>12</td></tr><tr><td>Maladie ou affliction majeure</td><td>15</td></tr><tr><td>Maladies critiques</td><td>18</td></tr><tr><td>Sort</td><td>12 + magnitude du sort</td></tr><tr><td>Compétence Surnaturelle</td><td>12 + valeur de Compétence</td></tr><tr><td>Pouvoir</td><td>12 + points de Puissance dépensés</td></tr></table></p><p>*une maladie mineure inflige une Blessure légère, une maladie sérieuse inflige une Blessure moyenne, une maladie majeure inflige une Blessure grave et une maladie Critique inflige une Blessure incapacitante (voir Art & Académie, chapitre 4, pour plus de détails). Les afflictions mineures incluent les furoncles et les verrues. Les afflictions graves sont équivalentes à un Vice Mineur en termes de magnitude, tandis que les afflictions majeures sont aussi graves qu'un Vice Majeur.</p><p><table><tr><th style=\"min-width: 125px;\">Situation</th><th>Modificateur au Total d'Incantation</th></tr><tr><td>Bénéficiaire présent en personne</td><td>0</td></tr><tr><td>Bénéficiaire représenté par un Lien mystique d'une durée Décennies ou plus</td><td>-1</td></tr><tr><td>Bénéficiaire représenté par un Lien mystique d'une durée Mois ou Années</td><td>-3</td></tr><tr><td>Bénéficiaire représenté par Lien mystique d'une durée Semaines ou moins</td><td>-6</td></tr><tr><td>Destinataire d'une espèce différente de la cible</td><td>-3</td></tr></table></p><p><b>Spécialisations :</b> maladies, malédictions des fées, bétail.</p><p><table><tr><th>Exemple de Malédiction</th></tr><tr><td>Une jeune femme n'ayant pas réussi à concevoir d'enfant malgré quatre ans de mariage se rend avec sa mère chez Aelfred, le Docte féerique locale. Il lui explique qu'il faut transférer sa stérilité à une autre personne et la mère se porte volontaire, puisqu'elle a déjà eu trois enfants. Le Facteur de Difficulté pour cette opération est de 12, la stérilité étant équivalente à un Vice Mineur. Le rituel dure trois heures, à l'issue desquelles Aelfred génère un Total d'Incantation de 14 : 2 (Présence) + 5 (Retrait de maléfice) + 5 (dé de tension) + 2 (aura féerique de la maison d'Aelfred). Cependant, à l'insu des personnages, la stérilité a été causée par la malédiction d'une sorcière locale. Sa Compétence Maléfice est de 5, donc le Facteur de Difficulté est en fait de 17 (12 + Maléfice 5). Comme le joueur d'Aelfred réussit un jet d'Intelligence + Connaissance de la Féérie, le conteur l'informe qu'Aelfred comprend que son Retrait de Maléfice aurait fonctionné si la stérilité était naturelle. Aelfred conseille à la mère et à la fille de vérifier si elles n'ont pas d'ennemis dotés de pouvoirs surnaturels.</td></tr></table></p>"
+		},
+		"Carouse":
+		{
+			"name":"Ripaille",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Compétence qui permet de s'amuser sans subir d'effets néfastes. Un personnage ayant cette Compétence peut, par exemple, consommer des quantités prodigieuses d'alcool sans s'évanouir. La Compétence couvre aussi la capacité à adopter une attitude familière mais acceptable, en équilibrant le plaisir et la modération. Grâce à cette Compétence, un personnage peut s'amuser et se faire des amis parmi les classes inférieures presque partout, même parmi celles d'une culture différente.</p><p><b>Spécialisations :</b> gros buveur, chansons à boire, jeux de hasard, rester sobre.</p>"
+		},
+		"Enigmatic Wisdom*":
+		{
+			"name":"Sagesse énigmatique*",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>La sagesse énigmatique se trouve au début de chaque chemin. Les apprentis Criamon apprennent à voir les événements et les objets de manières inhabituelles et intuitives, généralement en méditant sur 15 énigmes liées aux Arts. Cette formation les aide à trouver des connexions entre les concepts et à placer cette connaissance dans le contexte de l'Énigme. Cela permet à leur tour aux magi Criamon de comprendre la nature des humains, de l'univers et les liens entre eux de manières incompréhensibles pour les autres magi. Une fois qu'un mage a saisi les éléments fondamentaux de la sagesse, il peut développer une compréhension plus profonde en considérant les perspectives des autres, qui peuvent être transmises à travers des livres, des discussions ou des expériences mystiques.</p><p><b><u>Compréhension Symbolique</u></b></p><p>Un mage Criamon peut utiliser son score de Sagesse Énigmatique pour comprendre des symboles subtils. Cela permet aux magi d'interpréter des événements arcanes, des situations perplexes, des rêves et des visions.</p><p>Les magi Criamon peuvent comprendre quel type d'expérience de vie se cache derrière chacun des stigmates d'un autre mage avec un jet réussi d'Intelligence + Sagesse Énigmatique contre un Facteur de Facilité de 6. Ils peuvent dire si un personnage a été Déformé, et à quel point, avec un jet de Perception + Sagesse Énigmatique contre un Facteur de Facilité de six ou plus, et s'ils battent un Facteur de Facilité de 12, ils comprennent, en termes généraux, quel type d'expérience de vie a causé la Déformation.</p><p>Cette capacité aide également à interpréter les rêves et les visions. Elle ne confère pas de visions surnaturelles, mais beaucoup de Criamon ont également ce — séparé — Défaut.</p><p><b><u>Méditations du Labyrinthe</u></b></p>Les magi Criamon peuvent améliorer leur concentration en s'engageant dans des méditations en labyrinthe. Une méditation en labyrinthe est un rituel non magique pendant lequel le mage marche lentement à travers un labyrinthe tout en contemplant un problème. De nombreux labyrinthes de contemplation sont de simples rubans, avec un seul chemin menant à un centre, puis en ressortant. Des labyrinthes contemplatifs simples peuvent être créés avec des sorts de bas niveau.</p><p>L'état mental du mage reste concentré pendant une heure après avoir complété le labyrinthe. Cela permet un bonus sur un seul jet. Cela peut être utilisé pour démêler une seule énigme (un jet de Sagesse Énigmatique), rappeler un seul fait (un jet de Connaissance), ou effectuer une seule action physique. Les actions physiques ne doivent pas durer plus d'une minute (dix rounds de combat). Le bonus est égal à la moitié du score de Sagesse Énigmatique du mage.</p><p>Le mage doit avoir un score d'au moins un dans la capacité requise avant qu'elle ne puisse être assistée par les méditations de labyrinthe. Les méditations ajoutent de la grâce aux pensées et actions du mage, mais ne confèrent pas de compétence consciente. Un mage qui ne sait pas nager, par exemple, ne peut pas utiliser la clarté de pensée et d'action fournie par la méditation pour nager.</p><p>Les personnages avec un score de Sagesse Énigmatique de trois ou plus n'ont pas besoin d'un labyrinthe physique ; ils peuvent marcher en cercle pour le même effet. Ceux avec un score de six ou plus n'ont même pas besoin de marcher — ils peuvent imaginer le cercle. Les rituels de labyrinthe prennent seize heures pour les personnages avec un score de un en Sagesse Énigmatique. Le temps requis est divisé par deux pour chaque niveau qu'ils gagnent. Les personnages avec des temps de méditation courts ne peuvent cependant pas effectuer plusieurs méditations et cumuler les bonus.</p><p><b><u>Crépuscule</u></b></p><p>Les magi Criamon comprennent le Crépuscule mieux que les autres magi, et le comprennent donc plus sûrement. Cela est reflété dans les règles du Crépuscule données dans ArM5.</p>"
 		},
 		"Wilderness Sense*":
 		{
-			"name":"Sens de la nature",
+			"name":"Sens de la nature*",
 			"source":"ArM5",
-			"page":109,
-			"description":"<p>Le personnage est en harmonie mystique avec les voies de la nature. Un jet de Perception + Sens de la nature contre un Facteur de Difficulté de 9 lui permet de déterminer la direction du nord, les conditions météorologiques à venir ou la présence de dangers ou de ressources naturels. Un seul jet ne révèle qu’une seule information.</p><p>Spécialisations : direction, climat, danger, ressources.</p>"
+			"page":0,
+			"description":"<p>Le personnage est en harmonie avec la nature sauvage. Un jet de Perception + Sens de la nature contre un Facteur de Difficulté de 9 lui permet de déterminer où est le nord, le temps à venir, ou la présence de ressources ou de dangers naturels. Un jet ne révèle qu'une seule information.</p><p><b>Spécialisations :</b> direction, météo, dangers, ressources.</p>"
+		},
+		"Magic Sensitivity*":
+		{
+			"name":"Sensibilité à la magie*",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Le personnage peut identifier un lieu ou un objet comme étant magique. Cependant, sa sensibilité le rend plus vulnérable aux effets magiques : soustrayez sa valeur de Sensibilité à la magie de sa Résistance magique. Lorsqu'il tente de sentir la nature magique d'un lieu ou d'un objet, effectuez un jet simple de Perception + Sensibilité à la magie contre un Facteur de Difficulté déterminé par le conteur.</p><p>La détection d'une aura magique a normalement une Facteur de Difficulté égale à 12 - niveau de l'aura, soit 9 pour une aura de niveau 3 et 6 pour une aura de niveau 6.</p><p>Pour les sorts et les objets enchantés, un Facteur de Difficulté égal à 21 - magnitude de l'effet est un bon guide. Pour les objets enchantés, utilisez la magnitude de l'effet le plus puissant de l'objet.</p><p>Pour les créatures magiques, 15 - un cinquième de la Puissance magique de la créature est approprié, donc pour une créature avec une Puissance magique de 25, le Facteur de Difficulté serait de 10.</p><p><b>Spécialisations :</b> auras, créatures magiques, objets enchantés, sorts actifs.</p>"
+		},
+		"Whistle Up The Wind":
+		{
+			"name":"Sifflet du vent*",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Une personne dotée de cette capacité est en mesure de créer du vent, reproduisant les effets de tout sort de création de vent (Creo Auram) à portée de voix et cible individuelle ; des capacités surnaturelles similaires existent pour d'autres phénomènes météorologiques. Pour invoquer le vent, le personnage doit littéralement siffler et faire un jet d'Endurance + Sifflet du Vent, contre le facteur de difficulté listé dans le tableau ci-dessous. Si le jet est réussi, le vent commence immédiatement à souffler comme commandé par le personnage. Il continuera à souffler de la même manière même si le personnage arrête de siffler. Un personnage qui invoque un vent d'une certaine force peut changer ce vent pour un autre type de force similaire (comme passer des Vents Circulaires de Protection au Balai des Vents), le diminuer pour un effet plus faible (comme la Chambre des Brises Printanières), ou l'arrêter entièrement. Chacun de ces changements nécessite un jet de Communication + Musique, en utilisant les facteurs de difficulté pour le maintien de la concentration sur un sort. Siffler un nouvel air de cette manière ne peut pas augmenter la force du vent, ni rendre à un vent diminué son intensité précédente ; au lieu de cela, le personnage doit faire un nouveau jet de Sifflet du Vent. Tous les effets de cette capacité diminuent au niveau de force immédiatement inférieur une fois toutes les 24 heures, au coucher du soleil, jusqu'à ce qu'ils s'éteignent complètement.</p><p><table><tr><th style=\"min-width: 125px;\">Facteur de facilité</th><th>Force du vent</th></tr><tr><td>6</td><td>Légère brise, assez forte pour chasser une puanteur d'une pièce</td></tr><tr><td>9</td><td>Vent modéré, assez fort pour affecter la précision des flèches</td></tr><tr><td>12</td><td>Vent fort, assez puissant pour propulser un navire à voile</td></tr><tr><td>15</td><td>Vent de force de coup de vent, assez fort pour renverser quelqu'un</td></tr><tr><td>18</td><td>Vent de force d'ouragan, assez fort pour déraciner des arbres</td></tr></table></p><p><b>Spécialisations :</b> en mer, en montagne, pendant l'hiver</p>"
+		},
+		"Animal Handling":
+		{
+			"name":"Soins des animaux",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Soins et utilisation des animaux, y compris l'élevage, les soins, le toilettage et la guérison.</p><p><b>Spécialisations :</b> fauconnerie, animaux spécifiques.</p>"
+		},
+		"Dowsing*":
+		{
+			"name":"Sourcier*",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Le personnage est capable de trouver des choses à proximité grâce à l'utilisation d'une baguette de sourcier (généralement un bâton fourchu) et à son intuition. Il doit se concentrer sur la chose à trouver, tenir sa baguette devant lui et suivre ses mouvements subtils jusqu'à la cible. S'il cherche quelque chose de spécifique, il doit avoir un lien sympathique avec elle (comme de l'eau dans un contenant et provenant d'un ruisseau lorsqu'il cherche de l'eau courante). Avant d'effectuer le jet, désignez la zone dans laquelle le personnage effectue ses recherches : si l'objet recherché n'est pas présent dans cette zone, il échoue automatiquement. Le temps nécessaire à la recherche dépend de la taille de la zone et doit être investi, que le jet soit réussi ou pas. Il faut environ un Diamètre (2 minutes ou vingt tours de combat) pour localiser un objet dans un rayon de 25 pas : doubler cette distance quadruple le temps requis. Pour trouver quelque chose de commun, comme de l'eau, à moins de 25 pas, il faut obtenir un 9+ sur un jet de Perception + Sourcier. L'augmentation de la distance ou la recherche d'une chose moins commune augmente le Facteur de Difficulté. Par exemple, trouver de l'or à 100 pas aura un Facteur de Difficulté de 15.</p><p><b>Spécialisations :</b> recherche d'un type de chose particulier (eau, or, etc.), recherche dans un type d'endroit particulier.</p>"
+		},
+		"Survival":
+		{
+			"name":"Survie",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Capacité à trouver de la nourriture, de l'eau, un abri, un trajet direct et une sécurité relative dans la nature (un endroit très dangereux en Europe Mythique). Cette Compétence couvre des tâches aussi essentielles que faire du feu et cuire des aliments sans instruments.</p><p><b>Spécialisations :</b> lieux spécifiques.</p>"
+		},
+		"Alternate technique":
+		{
+			"name":"Technique alternative",
+			"source":"ArM5",
+			"page":0,
+			"description":""
+		},
+		"Theology - Christian":
+		{
+			"name":"Théologie - Christianisme",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Étude de Dieu et de son action dans le monde. Les auctores sont la Bible et les Sententiae de Pierre le Lombard, la Bible ayant la primauté théorique, car infaillible, et les Sententiae étant les plus étudiées. Les spéculations théologiques sont très complexes et de nombreux théologiens sont accusés d'hérésie. Parfois, les accusés se rétractent, parfois ils arrivent à convaincre l'Église qu'ils ont raison.</p><p><b>Spécialisations :</b> connaissances bibliques, hérésie, histoire.</p>"
+		},
+		"Theology - Islam":
+		{
+			"name":"Théologie - Islam",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Il s'agit de l'équivalent musulman de Théologie : christianisme. Les sources majeures de Théologie : Islam sont le Coran et la Sunna.</p><p><b>Spécialisations :</b> Coran, débats, Histoire, prophètes.</p>"
+		},
+		"Theology - Judaism":
+		{
+			"name":"Théologie - Judaisme",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Il s'agit de l'équivalent juif de Théologie : christianisme. Les sources majeures de Théologie : judaïsme sont la Torah, les Nevi'im et les Ketouvim.</p><p><b>Spécialisations :</b> Torah, la création, Histoire, prophéties</p>"
+		},
+		"Theology (religion)*":
+		{
+			"name":"Théologie (religion)",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>La théologie est l'étude de Dieu et de son œuvre dans le monde. Les autorités en la matière sont la Bible et les Sentences de Pierre Lombard, la Bible ayant une primauté théorique en tant qu'infaillible, et les Sentences étant les plus étudiées. Les spéculations théologiques sont très abstraites, et de nombreux théologiens sont accusés d'hérésie. Parfois, ceux qui sont accusés se rétractent, et parfois ils convainquent l'Église qu'ils avaient raison après tout. La théologie peut également être étudiée (en tant que compétence distincte) pour d'autres religions comme l'islam et le judaïsme.</p><p><b>Spécialisations :</b> connaissance biblique, hérésie, histoire.</p>"
+		},
+		"Magic Theory*":
+		{
+			"name":"Théorie de la magie*",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Connaissance de ce qu'est la magie et de son fonctionnement, utilisée principalement en laboratoire. La Théorie de la magie traite des détails techniques de la magie Hermétique ; Connaissance de la Magie couvre la connaissance des choses magiques en général. N'importe qui peut apprendre Théorie de la Magie, à condition d'avoir accès à un professeur ou à un livre (normalement représenté par un Vertu), mais elle est peu utile à ceux qui n'ont pas le Don.</p><p><b>Spécialisations :</b> inventer des sorts, enchanter des objets, un Art spécifique.</p>"
+		},
+		"Guile":
+		{
+			"name":"Tromperie",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Mentir de façon convaincante, feindre une émotion, une croyance ou un état d'esprit. Si le personnage comprend la personne qu'il essaye de tromper (jet de 9+ sur Perception + Connaissance des gens), il gagne un bonus de +1 à son jet de Tromperie. Cette Compétence permet aussi de se déguiser et de se faire passer pour ce que l'on n'est pas. Cette Compétence fait souvent l'objet d'un jet opposé contre Perception + Connaissance des gens de la victime ou, pour le déguisement, Perception + Attention.</p><p><b>Spécialisations :</b> forme spécifique de Tromperie, mentir aux autorités, baratin, mensonges élaborés.</p>"
+		},
+		"Law (legal forum)":
+		{
+			"name":"Droit (nom)",
+			"source":"ArM5",
+			"page":0,
+			"description":"<p>Tout autre système de droit non couvert par le droit civil et canon, la common law ou le code hermétique.</p><p><b>Spécialisations :</b> lois et coutumes d'une zone spécifique, lois de dirigeants spécifiques.</p>"
 		}
 	}
 }
