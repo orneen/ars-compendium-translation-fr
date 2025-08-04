@@ -1,33 +1,35 @@
 {
-	"id": "ars-compendium-translation-fr",
-	"title": "Traduction pour Ars Magica Foundry en français",
-	"description": "Traduction des compendium du système Ars Magica pour Foundry en français",
-	"authors": [
-	{
-		"name": "Orneen"
-	}],
-	"version": "3.1",
-	"compatibility": {
-		"minimum": "9",
-		"verified": "10"
-	},
-	"relationships.requires": [{
-			"id": "babele",
-			"type": "module",
-			"manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json",
-			"version": "2.3.4"
-		},
-		{
-			"id": "arm5e",
-			"type": "system",
-			"manifest": "https://raw.githubusercontent.com/xzotl42/arm5e/master/system.json",
-			"version": "2.2.0.0"
-		}
-	],	
-	"esmodules": [
-		"register-babele.js"
-    ],
-	"url": "https://github.com/orneen/ars-compendium-translation-fr",
-	"manifest": "https://raw.githubusercontent.com/orneen/ars-compendium-translation-fr/main/module.json",
-	"download": "https://github.com/orneen/ars-compendium-translation-fr/archive/refs/tags/v3.1.zip"
+  "id": "ars-compendium-translation-fr",
+  "title": "Traduction pour Ars Magica Foundry en français",
+  "description": "Traduction des compendium du système Ars Magica pour Foundry en français",
+  "authors": [
+    {
+      "name": "Orneen"
+    }
+  ],
+  "version": "3.2",
+  "compatibility": {
+    "minimum": "9",
+    "verified": "10"
+  },
+  "relationships.requires": [
+    {
+      "id": "babele",
+      "type": "module",
+      "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json",
+      "version": "2.3.4"
+    },
+    {
+      "id": "arm5e",
+      "type": "system",
+      "manifest": "https://raw.githubusercontent.com/xzotl42/arm5e/master/system.json",
+      "version": "2.2.0.0"
+    }
+  ],
+  "esmodules": [
+    "register-babele.js"
+  ],
+  "url": "https://github.com/orneen/ars-compendium-translation-fr",
+  "manifest": "https://raw.githubusercontent.com/orneen/ars-compendium-translation-fr/main/module.json",
+  "download": "https://github.com/orneen/ars-compendium-translation-fr/archive/refs/tags/v3.1.zip"
 }
