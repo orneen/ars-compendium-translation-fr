@@ -1,3 +1,32 @@
 {
-  "label": "Sorts"
+	"label": "Sorts",
+	"mapping":
+	{
+		"source": "system.source",
+		"page": "system.page",
+		"description": "system.description"
+	},
+	"folders":
+	{
+		"Spells - Animal": "Sorts - Animal",
+		"Spells - Aquam": "Sorts - Aquam",
+		"Spells - Auram": "Sorts - Auram",
+		"Spells - Corpus": "Sorts - Corpus",
+		"Spells - Herbam": "Sorts - Herbam",
+		"Spells - Ignem": "Sorts - Ignem",
+		"Spells - Imaginem": "Sorts - Imaginem",
+		"Spells - Mentem": "Sorts - Mentem",
+		"Spells - Terram": "Sorts - Terram",
+		"Spells - Vim": "Sorts - Vim",
+	},
+	"entries":
+	{
+		"A Day’s Worth of Spinning":
+		{
+			"name":"Sort modifié",
+			"source":"Maison",
+			"page":0,
+			"description":""
+		}
+	}
 }
