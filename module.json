@@ -13,20 +13,19 @@
     "verified": "10"
   },
   "relationships": {
+	  "systems": [
+		{"id": "arm5e"}
+	  ],
 	  "requires": [
 		{
-		  "id": "babele",
-		  "type": "module",
-		  "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json",
-		  "version": "2.3.4"
+			"id": "babele",
+			"type": "module"
 		},
 		{
-		  "id": "arm5e",
-		  "type": "system",
-		  "manifest": "https://raw.githubusercontent.com/xzotl42/arm5e/master/system.json",
-		  "version": "2.2.0.0"
-		}
-		]
+			"id": "lib-wrapper",
+			"type": "module"
+        }
+	  ]
   },
   "esmodules": [
     "register-babele.js"
