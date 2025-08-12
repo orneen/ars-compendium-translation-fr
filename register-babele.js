@@ -1,6 +1,6 @@
 Hooks.once('ready', () => {
-  if (typeof Babele !== 'undefined') {
-    Babele.get().register({
+  if (game.babele) {
+    game.babele.register({
       module: 'ars-compendium-translation-fr',
       lang: 'fr',
       dir: 'packs'

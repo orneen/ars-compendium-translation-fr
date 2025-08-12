@@ -1,0 +1,167 @@
+{
+	"label": "Personnages",
+	"mapping":
+	{
+		"source": "system.source",
+		"page": "system.page",
+		"description": "system.description"
+	},
+	"folders":
+	{
+		"Characters templates": "Exemple de personnages",
+		"Companions": "Compagnons",
+		"Grogs": "Servants",
+		"Magi": "Magi",
+		"NPCs": "PNJs",
+		"hermetic magi": "Magi hermétique",
+		"Magis users": "Utilisateurs de magie",
+		"Mundane": "Vulgaire"
+	},
+	"entries":
+	{
+		"The Priest":
+		{
+			"name":"Prêtre",
+			"source":"ArM5Def",
+			"page":0
+		},
+		"The Knight":
+		{
+			"name":"Chevalier",
+			"source":"ArM5Def",
+			"page":0
+		},
+		"The Grizzled Veteran":
+		{
+			"name":"Vétéran endurci",
+			"source":"ArM5Def",
+			"page":0
+		},
+		"The Standard Soldier":
+		{
+			"name":"Soldat standard",
+			"source":"ArM5Def",
+			"page":0
+		},
+		"The Berserker":
+		{
+			"name":"Berseker",
+			"source":"ArM5Def",
+			"page":0
+		},
+		"Guernicus":
+		{
+			"name":"Guernicus",
+			"source":"ArM5Def",
+			"page":0
+		},
+		"Mercere":
+		{
+			"name":"Mercere",
+			"source":"ArM5Def",
+			"page":0
+		},
+		"Jerbiton":
+		{
+			"name":"Jerbiton",
+			"source":"ArM5Def",
+			"page":0
+		},
+		"Flambeau":
+		{
+			"name":"Flambeau",
+			"source":"ArM5Def",
+			"page":0
+		},
+		"Tytalus":
+		{
+			"name":"Tytalus",
+			"source":"ArM5Def",
+			"page":0
+		},
+		"Darius":
+		{
+			"name":"Darius",
+			"source":"ArM5Def",
+			"page":0
+		},
+		"Ex Miscellanea":
+		{
+			"name":"Ex Miscellanea",
+			"source":"ArM5Def",
+			"page":0
+		},
+		"Bonisagus":
+		{
+			"name":"Bonisagus",
+			"source":"ArM5Def",
+			"page":0
+		},
+		"The Female Scholar":
+		{
+			"name":"Érudite",
+			"source":"ArM5Def",
+			"page":0
+		},
+		"Criamon":
+		{
+			"name":"Criamon",
+			"source":"ArM5Def",
+			"page":0
+		},
+		"Bjornaer":
+		{
+			"name":"Bjornaer",
+			"source":"ArM5Def",
+			"page":0
+		},
+		"The Rogue":
+		{
+			"name":"Brigand",
+			"source":"ArM5Def",
+			"page":0
+		},
+		"The Tough Guy":
+		{
+			"name":"Dur à cuire",
+			"source":"ArM5Def",
+			"page":0
+		},
+		"Verditius":
+		{
+			"name":"Verditius",
+			"source":"ArM5Def",
+			"page":0
+		},
+		"Merinita":
+		{
+			"name":"Merenita",
+			"source":"ArM5Def",
+			"page":0
+		},
+		"The Witch":
+		{
+			"name":"Sorcière",
+			"source":"ArM5Def",
+			"page":0
+		},
+		"The Hunter":
+		{
+			"name":"Chasseur",
+			"source":"ArM5Def",
+			"page":0
+		},
+		"Tremere":
+		{
+			"name":"Tremere",
+			"source":"ArM5Def",
+			"page":0
+		},
+		"The Specialist":
+		{
+			"name":"Spécialiste",
+			"source":"ArM5Def",
+			"page":0
+		}
+	}
+}
