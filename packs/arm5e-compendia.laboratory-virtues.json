@@ -8,7 +8,7 @@
 	},
 	"folders":
 	{
-		"Outfitting": "Equipement",
+		"Outfittings": "Equipement",
 		"Structure": "Structure",
 		"Supernatural": "Supernaturelle",
 		"Major": "Majeure",
@@ -17,419 +17,502 @@
 	},
 	"entries":
 	{
-		"Superior construction":
+		"Airborne":
 		{
-			"name":"Construction supérieure",
+			"name":"Aérien",
 			"source":"Cov",
-			"page":150
-		},
-		"Magical superior lighting":
-		{
-			"name":"Eclairage supérieur magique",
-			"source":"Cov",
-			"page":155
-		},
-		"Superior lighting":
-		{
-			"name":"Eclairage supérieur",
-			"source":"Cov",
-			"page":152
-		},
-		"Superior equipment":
-		{
-			"name":"Equipement supérieur",
-			"source":"Cov",
-			"page":152
-		},
-		"Vis source* \"to be configured\"":
-		{
-			"name":"Source de Vis* \"à configurer\"",
-			"source":"Cov",
-			"page":155
-		},
-		"Flawless tools \"to be configured\"":
-		{
-			"name":"Outillage parfait \"à configurer\"",
-			"source":"Cov",
-			"page":155
-		},
-		"Relocation":
-		{
-			"name":"Mobile",
-			"source":"Cov",
-			"page":155
-		},
-		"Sentient":
-		{
-			"name":"Doué de pensée",
-			"source":"Cov",
-			"page":155
-		},
-		"Palatial \"to be configured\"":
-		{
-			"name":"Grandiose \"à configurer\"",
-			"source":"Cov",
-			"page":152
-		},
-		"Person* \"to be configured\"":
-		{
-			"name":"Personne* \"à configurer\"",
-			"source":"Cov",
-			"page":152
-		},
-		"Lesser guardian \"to be configured\"":
-		{
-			"name":"Gardien mineur \"à configurer\"",
-			"source":"Cov",
-			"page":155
-		},
-		"Living quarters":
-		{
-			"name":"Logement",
-			"source":"Cov",
-			"page":152
-		},
-		"Superior decoration":
-		{
-			"name":"Décoration supérieure",
-			"source":"Cov",
-			"page":152
-		},
-		"Shrouded \"to be configure\"":
-		{
-			"name":"Caché \"à configurer\"",
-			"source":"Cov",
-			"page":155
-		},
-		"Extensive stores":
-		{
-			"name":"Réserves importantes",
-			"source":"Cov",
-			"page":149
-		},
-		"Regio*":
-		{
-			"name":"Regio*",
-			"source":"Cov",
-			"page":155
+			"page":155,
+			"description":"<p>Le laboratoire vole dans les vents et les nuages et ne se pose que rarement. Il va sans dire que seules de puissantes forces magiques peuvent faire léviter en permanence tout un bâtiment ou construire un laboratoire sur un nuage. Cette Vertu est souvent combinée au Vice Instable, sachant que le vol est un art délicat. +1 Entretien, –2 Sécurité, +2 Distorsion, +1 Santé, +4 Esthétique, +1 Expérimentation, +4 Au.</p>"
 		},
 		"Assistant*":
 		{
 			"name":"Assistant*",
 			"source":"Cov",
-			"page":152
+			"page":152,
+			"description":"<p>Un assistant ayant le Don (comme un apprenti hermétique) aide dans le laboratoire, accordant un bonus aux travaux. +(Intelligence + Théorie de la magie de l’assistant) à la Qualité générale. C’est une simple redite du bonus déjà indiqué dans ArM5, p. 162.</p>"
 		},
-		"Magical excessive heating":
-		{
-			"name":"Chauffage excessif magique",
-			"source":"Cov",
-			"page":155
-		},
-		"Idyllic surronding \"to be configured\"":
-		{
-			"name":"Environnement idylllique* \"à configurer\"",
-			"source":"Cov",
-			"page":150
-		},
-		"Superior heating":
-		{
-			"name":"Chauffage supérieur",
-			"source":"Cov",
-			"page":152
-		},
-		"Ice cavern \"to be configured\"":
-		{
-			"name":"Caverne de glace \"à configurer\"",
-			"source":"Cov",
-			"page":155
-		},
-		"Well insulated":
-		{
-			"name":"Bien isolé",
-			"source":"Cov",
-			"page":149
-		},
-		"Grand entrance":
-		{
-			"name":"Entrée grandiose",
-			"source":"Cov",
-			"page":150
-		},
-		"Excessive lighting":
-		{
-			"name":"Vivement éclairé",
-			"source":"Cov",
-			"page":152
-		},
-		"Superior tools":
-		{
-			"name":"Outillage supérieur",
-			"source":"Cov",
-			"page":152
-		},
-		"Invisible":
-		{
-			"name":"Invisible",
-			"source":"Cov",
-			"page":155
-		},
-		"Lesser feature* \"to be configured\"":
-		{
-			"name":"Trait distinctif mineur* \"à configurer\"",
-			"source":"Cov",
-			"page":149
-		},
-		"Lesser expansion \"to be configured\"":
-		{
-			"name":"Extension mineure \"à configurer\"",
-			"source":"Cov",
-			"page":152
-		},
-		"Mountaintop":
-		{
-			"name":"Sommet de montagne",
-			"source":"Cov",
-			"page":150
-		},
-		"Auspicious shape":
+		"Auspicious Shape":
 		{
 			"name":"Forme propice",
 			"source":"Cov",
-			"page":149
-		},
-		"Site of legend \"to be configured\"":
-		{
-			"name":"Site légendaire \"à configurer\"",
-			"source":"Cov",
-			"page":155
-		},
-		"Slaves \"to be configured\"":
-		{
-			"name":"Esclaves \"à configurer\"",
-			"source":"Cov",
-			"page":152
-		},
-		"Magic item* \"to be configured\"":
-		{
-			"name":"Objet magique* \"à configurer\"",
-			"source":"Cov",
-			"page":155
-		},
-		"Dedicated building":
-		{
-			"name":"Batiment dédié",
-			"source":"Cov",
-			"page":150
-		},
-		"Faerie ingredients \"to be configured\"":
-		{
-			"name":"Ingrédients féériques \"à configurer\"",
-			"source":"Cov",
-			"page":155
-		},
-		"Precious ingredients":
-		{
-			"name":"Ingrédients précieux",
-			"source":"Cov",
-			"page":152
+			"page":149,
+			"description":"<p>Le laboratoire ou son bâtiment est construit dans une forme bénéfique pour la magie, comme un hexagone ou un pentacle. Un cercle ou un carré ne compte pas. +1 Esthétique, +1 Vim.</p>"
 		},
 		"Boundless":
 		{
 			"name":"Illimité",
 			"source":"Cov",
-			"page":155
+			"page":155,
+			"description":"<p>L’intérieur du laboratoire n’a pas de limite d’espace, en dépit des limites apparentes de sa structure vue de l’extérieur. Cet effet sort des possibilités de la magie hermétique normale, mais peut avoir pour origine une magie non-hermétique ou un effet féerique. La Taille peut être augmentée sans limite. +2 Distorsion.</p>"
 		},
-		"Greater feature* \"to be configured\"":
+		"Dedicated Building":
 		{
-			"name":"Trait distinctif majeur* \"à configurer\"",
+			"name":"Batiment dédié",
 			"source":"Cov",
-			"page":149
+			"page":150,
+			"description":"<p>Le laboratoire (et éventuellement le logement de son propriétaire) occupe seul un bâtiment, sans partage avec quiconque. Il n’y aura sans doute que peu de dérangements. +1 Entretien, +1 Esthétique, +1 Re.</p>"
 		},
-		"Mobile":
-		{
-			"name":"Mobile",
-			"source":"Cov",
-			"page":150
-		},
-		"Enchantment* \"to be configured\"":
-		{
-			"name":"Enchantement* \"à configurer\"",
-			"source":"Cov",
-			"page":155
-		},
-		"Guard*":
-		{
-			"name":"Garde*",
-			"source":"Cov",
-			"page":152
-		},
-		"Familiar":
-		{
-			"name":"Familier",
-			"source":"Cov",
-			"page":154
-		},
-		"Highly organized":
-		{
-			"name":"Très organisé",
-			"source":"Cov",
-			"page":152
-		},
-		"Greater horde \"to be configured\"":
-		{
-			"name":"Horde supérieure \"à configurer\"",
-			"source":"Cov",
-			"page":154
-		},
-		"Greater guardian \"to be configured\"":
-		{
-			"name":"Gardien supérieur \"à configurer\"",
-			"source":"Cov",
-			"page":154
-		},
-		"Magical excessive lighting":
-		{
-			"name":"Eclairage excessif magique",
-			"source":"Cov",
-			"page":155
-		},
-		"Defense":
+		"Defenses":
 		{
 			"name":"Défenses",
 			"source":"Cov",
-			"page":150
+			"page":150,
+			"description":"<p>Le laboratoire dispose d’un type de défense solide, comme une herse ou des remparts. +1 Esthétique.</p>"
 		},
 		"Elevated":
 		{
 			"name":"Elevé",
 			"source":"Cov",
-			"page":150
+			"page":150,
+			"description":"<p>Le laboratoire est situé au moins à une hauteur de quatre étages, ou au sommet d’une tour, qui permet d’embrasser les alentours du regard. +1 Esthétique, +1 Au.</p>"
 		},
-		"Spotless":
+		"Enchantment*":
 		{
-			"name":"Impeccable",
+			"name":"Enchantement* \"à configurer\"",
 			"source":"Cov",
-			"page":152
+			"page":155,
+			"description":"<p>Le laboratoire lui-même a été enchanté comme un objet magique. Ceci peut engendrer une Vertu, un Vice, modifier des Caractéristiques, ou ajouter des Spécialisations (se référer aux indications plus loin, sur les objets magiques pour laboratoires).</p>"
 		},
-		"Airborne":
+		"Excessive Heating":
 		{
-			"name":"Aérien",
+			"name":"Surchauffé",
 			"source":"Cov",
-			"page":155
+			"page":152,
+			"description":"<p>Le laboratoire est maintenu à une température bien plus élevée que nécessaire et dispose de l’équipement nécessaire à ce chauffage. Par exemple, il dispose d’une demi-douzaine de foyers. +2 Entretien, –1 Sécurité, +2 Ig.</p>"
 		},
-		"Flawless equipment":
+		"Excessive Lighting":
+		{
+			"name":"Vivement éclairé",
+			"source":"Cov",
+			"page":152,
+			"description":"<p>Le laboratoire est éclairé bien plus qu’il ne le faut. Par exemple, il est pourvu de centaines de chandelles ou lampes, qui occupent plus de place qu’à l’habitude. +2 Entretien, +2 Im.</p>"
+		},
+		"Extensive Stores":
+		{
+			"name":"Réserves importantes",
+			"source":"Cov",
+			"page":149,
+			"description":"<p>Les grandes réserves du laboratoire lui permettent de mieux supporter une interruption de fournitures. En cas de manque de fonds, le laboratoire peut tenir six saisons avant de devoir choisir un Vice pour diminuer l’Entretien, au lieu de deux saisons. Cependant, un paiement unique égal à une année d’entretien doit être effectué à l’acquisition de cette Vertu, pour augmenter les stocks. Le vis et les matières dangereuses sont aussi entreposées avec plus de sûreté. +2 Sécurité.</p>"
+		},
+		"Faerie Ingredients":
+		{
+			"name":"Ingrédients féériques \"à configurer\"",
+			"source":"Cov",
+			"page":155,
+			"description":"<p>Certaines des réserves du laboratoire sont achalandées par les êtres féeriques et ont des propriétés bénéfiques (mais parfois imprévues). Par exemple, de l’argent féerique est utilisé au lieu d’argent ordinaire. +1 Qualité générale, –1 Entretien, +1 Distorsion, +1 Expérimentation, 1 point dans une Spécialisation adéquate.</p>"
+		},
+		"Familiar":
+		{
+			"name":"Familier",
+			"source":"Cov",
+			"page":154,
+			"description":"<p>Le propriétaire du laboratoire a un familier et celui-ci vit dans le laboratoire. Cette Vertu suppose que le familier prend de la place. Dans le cas contraire, elle peut être choisie comme Vertu gratuite. +(Intelligence + Théorie de la magie du familier) Qualité générale, + (corde d’or) Sécurité. C’est une simple redite du bonus indiqué dans la section consacré aux laboratoires dans ArM5.</p>"
+		},
+		"Flawless Equipment":
 		{
 			"name":"Equipement parfait",
 			"source":"Cov",
-			"page":155
+			"page":155,
+			"description":"<p>L’équipement du laboratoire ne souffre d’aucun défaut, il est peut-être trop parfait pour avoir été fabriqué par la main de l’homme. +2 Qualité générale, +2 Entretien (à moins que l’équipement ne soit continuellement protégé, créé ou donné par des voies surnaturelles, dans ce cas l’Entretien est –1), +2 Extraction de vis.</p>"
 		},
-		"Gallery \"to be configured\"":
+		"Flawless Tools":
+		{
+			"name":"Outillage parfait \"à configurer\"",
+			"source":"Cov",
+			"page":155,
+			"description":"<p>Les artisans qui ont fabriqué ces outils doivent être légendaires. +2 Entretien (à moins que l’outillage ne soit continuellement protégé, créé ou donné par des voies surnaturelles, dans ce cas l’Entretien est –1), +2 Objets.</p>"
+		},
+		"Gallery":
 		{
 			"name":"Galerie \"à configurer\"",
 			"source":"Cov",
-			"page":149
+			"page":149,
+			"description":"<p>Le laboratoire comprend une galerie intérieure ou une plate-forme qui permet de contempler tout le laboratoire sans déranger. +1 Sécurité, +1 Esthétique, +1 Enseignement.</p>"
 		},
-		"Inexhaustible supplies":
+		"Gateway":
+		{
+			"name":"Passage \"à configurer\"",
+			"source":"Cov",
+			"page":155,
+			"description":"<p>Le laboratoire est situé à un passage surnaturel, par exemple l’entrée d’un regio ou d’un royaume féerique, ou un portail Mercere. Le propriétaire du passage en contrôle habituellement l’accès et peut en tirer certains avantages tangibles, comme la perception d’un octroi chez les utilisateurs du passage, ou simplement la possibilité d’utiliser lui-même le passage. Ce passage peut constituer le trait distinctif Portail (acquis comme d’habitude) et peut aussi se combiner avec le Vice Voie publique. –1 Sécurité, +1 Esthétique, 1 point de Spécialisation Rego ou dans un autre Art adéquat.</p>"
+		},
+		"Grand Entrance":
+		{
+			"name":"Entrée grandiose",
+			"source":"Cov",
+			"page":150,
+			"description":"<p>L’entrée du laboratoire est constituée d’un accès élaboré et de grande taille, comme une grande porte, une arche, un vestibule opulent ou peut-être une pièce de réception. Cela prend de l’espace dans le sanctum, mais généralement pas dans la pièce du laboratoire elle-même. Il faut généralement une saison, ou davantage, pour que des artisans construisent ou garnissent cette entrée. Le signe de sanctum est probablement mis en évidence. Le laboratoire a un bel aspect au moins depuis l’extérieur, ce qui devrait impressionner les passants. +2 Esthétique.</p>"
+		},
+		"Greater Expansion":
+		{
+			"name":"Grande extension \"à configurer\"",
+			"source":"Cov",
+			"page":151,
+			"description":"<p>L’extension du laboratoire est fortement augmentée, avec au moins le double de la quantité habituelle d’équipement. Cela permet d’avoir plusieurs zones de travail et de l’équipement consacré à des travaux spécifiques. +2 Qualité générale, +4 Entretien, +1 Esthétique, 2 points en Spécialisation(s).</p>"
+		},
+		"Greater Feature*":
+		{
+			"name":"Trait distinctif majeur* \"à configurer\"",
+			"source":"Cov",
+			"page":149,
+			"description":"<p>Le laboratoire utilise principalement une structure unique et coûteuse qui aide dans certains types de travaux de laboratoire (cf. ci-dessous la liste de traits distinctifs). +2 Esthétique, 3 points dans la Spécialisation adéquate.</p>"
+		},
+		"Greater Guardian":
+		{
+			"name":"Gardien supérieur \"à configurer\"",
+			"source":"Cov",
+			"page":154,
+			"description":"<p>Une créature surnaturelle puissante (Puissance 20 ou plus), qui n’est pas le familier du mage, réside dans le laboratoire et sert de protecteur, étant bien disposé envers le propriétaire. Malheur aux intrus. +(Intelligence de la créature) Sécurité, +1 Distorsion, +1 Esthétique, 3 points de Spécialisation(s) dans l’Art adéquat.</p>"
+		},
+		"Greater Horde":
+		{
+			"name":"Horde supérieure \"à configurer\"",
+			"source":"Cov",
+			"page":154,
+			"description":"<p>Une importante communauté de créatures surnaturelles mineures se trouve aux ordres du propriétaire. Elles sont assez intelligentes pour remplir une fonction de protection et pour aider dans des tâches simples. +2 Qualité générale, +1 Entretien, +(Intelligence des créatures) Sécurité, +2 Esthétique, 2 points de Spécialisation Rego ou dans un autre Art adéquat.</p>"
+		},
+		"Guard*":
+		{
+			"name":"Garde*",
+			"source":"Cov",
+			"page":152,
+			"description":"<p>Un servant de garde se trouve en permanence à l’entrée du laboratoire et peut dissuader les indésirables de déranger le mage ou de s’introduire. +1 Esthétique.</p>"
+		},
+		"Highly Organized":
+		{
+			"name":"Très organisé",
+			"source":"Cov",
+			"page":152,
+			"description":"<p>L’équipement du laboratoire est organisé d’une manière optimale. Le mage a une chance d’acquérir cette Vertu chaque fois qu’il consacre une saison à augmenter le Raffinement du laboratoire (cf. Raffinement, ci-dessus). Une saison de ce travail (avec un jet pour acquérir la Vertu) peut être consacrée au laboratoire, même si l’on ne peut augmenter le Raffinement. La Vertu est perdue si un accident majeur est subi, si une autre personne utilise le laboratoire ou si une personne de moindre intelligence sert d’assistant. +1 Qualité générale.</p>"
+		},
+		"Ice Cavern":
+		{
+			"name":"Caverne de glace \"à configurer\"",
+			"source":"Cov",
+			"page":155,
+			"description":"<p>Le laboratoire est situé dans une structure taillée dans de la glace qui ne fond jamais. Il se trouve soit dans l’extrême nord, soit haut dans la montagne, soit encore la magie sert à empêcher la glace de fondre. Il faut espérer que le propriétaire d’un tel laboratoire n’est pas dérangé par le froid. +1 Entretien, +1 Distorsion, –2 Santé (sauf en cas d’immunité au froid), +2 Esthétique, +2 Re ou Aq.</p>"
+		},
+		"Idyllic Surronding":
+		{
+			"name":"Environnement idylllique* \"à configurer\"",
+			"source":"Cov",
+			"page":150,
+			"description":"<p>Le laboratoire est situé dans des lieux charmants et paisibles, comme dans une vallée ou un jardin magnifique. +2 Santé, +1 Esthétique, 1 point dans une Spécialisation parmi Cr, An, Aq, He ou Te en fonction du type de terrain.</p>"
+		},
+		"Inexhaustible Supplies":
 		{
 			"name":"Fournitures inépuisables",
 			"source":"Cov",
-			"page":155
+			"page":155,
+			"description":"<p>Le laboratoire bénéficie d’ingrédients et fournitures qui se renouvellent par magie, il n’en manque jamais. –3 Entretien, +1 Distorsion.</p>"
 		},
-		"Volcanic minerals":
+		"Invisible":
 		{
-			"name":"Minerais volcaniques",
-			"source":"HP",
-			"page":19
-		},
-		"Specimens* \"to be configured\"":
-		{
-			"name":"Spécimens* \"à configurer\"",
+			"name":"Invisible",
 			"source":"Cov",
-			"page":152
+			"page":155,
+			"description":"<p>L’intérieur du laboratoire et son équipement sont invisibles. Il faut naturellement que le propriétaire du laboratoire dispose d’un moyen de les voir, sans quoi il n’ira pas très loin dans ses travaux. +1 Distorsion, diviser la valeur Esthétique par deux après modification, +2 Im.</p>"
 		},
-		"Magical superior heating":
+		"Lesser Expansion":
 		{
-			"name":"Chauffage supérieur magique",
+			"name":"Extension mineure \"à configurer\"",
 			"source":"Cov",
-			"page":155
+			"page":152,
+			"description":"<p>L’extension du laboratoire est augmentée, avec davantage d’équipement spécialisé. +1 Qualité générale, +2 Entretien, 1 point dans une Spécialisation.</p>"
 		},
-		"Lesser horde \"to be configured\"":
+		"Lesser Feature*":
+		{
+			"name":"Trait distinctif mineur* \"à configurer\"",
+			"source":"Cov",
+			"page":149,
+			"description":"<p>Le laboratoire utilise une structure unique qui aide dans certains types de travaux de laboratoire (cf. ci-dessous la liste de traits distinctifs). +1 Esthétique, 1 point dans la Spécialisation adéquate.</p>"
+		},
+		"Lesser Guardian":
+		{
+			"name":"Gardien mineur \"à configurer\"",
+			"source":"Cov",
+			"page":155,
+			"description":"<p>Une créature surnaturelle (Puissance inférieure à 20), qui n’est pas le familier du mage, réside dans le laboratoire et sert de protecteur, étant bien disposé envers le propriétaire. +1 Sécurité, 1 point de Spécialisation dans l’Art adéquat.</p>"
+		},
+		"Lesser Horde":
 		{
 			"name":"Horde mineure \"à configurer\"",
 			"source":"Cov",
-			"page":155
+			"page":155,
+			"description":"<p>Une petite communauté de créatures semi-intelligentes aide dans le laboratoire. +1 Qualité générale, +1 Entretien, + 1 Sécurité, +1 Esthétique, 1 point de Spécialisation Rego ou dans un autre Art adéquat.</p>"
+		},
+		"Living Quarters":
+		{
+			"name":"Logement",
+			"source":"Cov",
+			"page":152,
+			"description":"<p>Le laboratoire comprend des meubles, comme un lit, une garde-robe, que le propriétaire peut utiliser pour dormir sur place. Vivre dans un laboratoire apporte quelque bénéfice aux travaux mais est néfaste à la santé et considéré comme quelque peu obsessionnel. +1 Qualité générale, –1 Sécurité, –2 Santé, –2 Esthétique.</p>"
+		},
+		"Magic Item*":
+		{
+			"name":"Objet magique* \"à configurer\"",
+			"source":"Cov",
+			"page":155,
+			"description":"<p>Un objet magique est installé dans le laboratoire. Il peut s’agir d’un objet fait par le propriétaire, reçu en don, acheté, ou encore d’un artefact trouvé dans le laboratoire. Si l’objet est très grand et occupe une place considérable dans le laboratoire, il faut le considérer comme une Vertu mineure et non gratuite. Ceci peut engendrer une Vertu, un Vice, modifier des Caractéristiques, ou ajouter des Spécialisations (se référer aux indications plus loin).</p>"
+		},
+		"Magical Heating (Excessive)":
+		{
+			"name":"Chauffage magique (Excessif)",
+			"source":"Cov",
+			"page":155,
+			"description":"<p>Le chauffage est assuré par magie. La Vertu fonctionne comme Surchauffé mais sans le coût en espace et Entretien.</p>"
+		},
+		"Magical Heating (Superior)":
+		{
+			"name":"Chauffage magique (Supérieur)",
+			"source":"Cov",
+			"page":155,
+			"description":"<p>Le chauffage est assuré par magie. La Vertu fonctionne comme Chauffage supérieur, mais sans le coût en espace et Entretien.</p>"
+		},
+		"Magical Lighting (Excessive)":
+		{
+			"name":"Eclairage magique (Excessif)",
+			"source":"Cov",
+			"page":155,
+			"description":"<p>L’éclairage est fourni par magie. La Vertu fonctionne comme Vivement éclairé, mais sans le coût en espace et Entretien.</p>"
+		},
+		"Magical Lighting (Superior)":
+		{
+			"name":"Eclairage magique (Supérieur)",
+			"source":"Cov",
+			"page":155,
+			"description":"<p>L’éclairage est fourni par magie. La Vertu fonctionne comme Éclairage supérieure, mais sans le coût en espace et Entretien.</p>"
+		},
+		"Magical Sighting (Superior)":
+		{
+			"name":"Eclairage magique (Supérieur)",
+			"source":"Cov",
+			"page":155,
+			"description":"<p>L’éclairage est fourni par magie. La Vertu fonctionne comme Éclairage supérieure, mais sans le coût en espace et Entretien.</p>"
 		},
 		"Menagerie":
 		{
 			"name":"Ménagerie",
 			"source":"Cov",
-			"page":152
+			"page":152,
+			"description":"<p>Le laboratoire contient une collection d’animaux vivants. +1 Entretien, –1 Sécurité, –1 Esthétique, +2 An.</p>"
 		},
-		"Servant":
+		"Mobile":
 		{
-			"name":"Serviteur",
+			"name":"Mobile",
 			"source":"Cov",
-			"page":116
+			"page":150,
+			"description":"<p>Le laboratoire dans son ensemble peut être rapidement déplacé. Par exemple, il peut se trouver à bord d’un navire ou (s’il est tout petit) sur une charrette. Cette Vertu va souvent de pair avec le Vice Instable. +1 Expérimentation.</p>"
 		},
-		"Greater expansion \"to be configured\"":
+		"Mountaintop":
 		{
-			"name":"Grande extension \"à configurer\"",
+			"name":"Sommet de montagne",
 			"source":"Cov",
-			"page":151
+			"page":150,
+			"description":"<p>Le laboratoire est situé au pic d’une montagne. Il s’agit d’une localisation éloignée et spectaculaire, offrant une belle vue, sujette aux vents forts et à la neige. –1 Sécurité, +1 Entretien, +2 Esthétique, +2 Au.</p>"
 		},
-		"Priceless ingredients":
-		{
-			"name":"Ingrédients inestimables",
-			"source":"Cov",
-			"page":152
-		},
-		"Studio":
-		{
-			"name":"Studio",
-			"source":"Cov",
-			"page":150
-		},
-		"Gateway \"to be configured\"":
-		{
-			"name":"Passage \"à configurer\"",
-			"source":"Cov",
-			"page":155
-		},
-		"Natural environment \"to be configured\"":
+		"Natural Environment":
 		{
 			"name":"Environnement naturel \"à configurer\"",
 			"source":"Cov",
-			"page":149
+			"page":149,
+			"description":"<p>Un cadre naturel, comme une forêt, le désert ou un cours d’eau, est situé dans le laboratoire, ou le laboratoire est construit dedans ou autour. +2 Esthétique, 3 points de Spécialisations parmi Cr, An, Aq, Au, He, Ig ou Te en fonction du type de terrain.</p>"
 		},
-		"Opulent \"to be configured\"":
+		"Opulent":
 		{
 			"name":"Opulent \"à configurer\"",
 			"source":"Cov",
-			"page":152
+			"page":152,
+			"description":"<p>Le laboratoire est confortable et bien meublé. +1 Entretien, +1 Santé, +2 Esthétique, +1 Enseignement.</p>"
 		},
-		"Excessive heating":
+		"Palatial":
 		{
-			"name":"Surchauffé",
+			"name":"Grandiose \"à configurer\"",
 			"source":"Cov",
-			"page":152
+			"page":152,
+			"description":"<p>Le laboratoire est équipé à profusion d’un équipement magnifique, avec ce qui se fait de mieux en confort et décoration. +1 Qualité générale, +3 Entretien, +2 Santé, +4 Esthétique, +2 Enseignement, 1 point dans une autre Spécialisation.</p>"
 		},
-		"Spacious":
+		"Person*":
 		{
-			"name":"Spacieux",
+			"name":"Personne*",
 			"source":"Cov",
-			"page":149
-		},
-		"Preserved":
-		{
-			"name":"Préservé",
-			"source":"Cov",
-			"page":155
+			"page":152,
+			"description":"<p>Une autre personne, peut-être un membre de la famille proche, ou une femme de chambre, se trouve très souvent dans le laboratoire (la plupart des jours durant au moins une heure). Cette Vertu peut être prise pour chacune des personnes qui fréquentent régulièrement le laboratoire. Ne comptez pas le propriétaire ou les assistants à temps plein, comme les apprentis. Un assistant vulgaire ayant reçu une formation est représenté par la Vertu Serviteur. –1 Sécurité, +1 Co ou Me.</p>"
 		},
 		"Pot plants":
 		{
 			"name":"Plante en pots",
 			"source":"Cov",
-			"page":152
+			"page":152,
+			"description":"<p>Le laboratoire contient des dizaines de plantes en pots. +1 Entretien, +1 Esthétique, +1 He.</p>"
+		},
+		"Pot Plants":
+		{
+			"name":"Plante en pots",
+			"source":"Cov",
+			"page":152,
+			"description":"<p>Le laboratoire contient des dizaines de plantes en pots. +1 Entretien, +1 Esthétique, +1 He.</p>"
+		},
+		"Precious Ingredients":
+		{
+			"name":"Ingrédients précieux",
+			"source":"Cov",
+			"page":152,
+			"description":"<p>Le laboratoire est pourvu en ingrédients plus coûteux que ceux qu’une alliance typique peut se permettre de fournir. +1 Qualité générale, +2 Entretien, +1 Rituels de longévité.</p>"
+		},
+		"Preserved":
+		{
+			"name":"Préservé",
+			"source":"Cov",
+			"page":155,
+			"description":"<p>Le laboratoire, ou une partie de son contenu, est immunisé à la pourriture naturelle. –1 Entretien, +1 Distorsion, +2 Santé, +1 Esthétique, +1 Cr.</p>"
+		},
+		"Priceless Ingredients":
+		{
+			"name":"Ingrédients inestimables",
+			"source":"Cov",
+			"page":152,
+			"description":"<p>Le laboratoire est pourvu en ingrédients dont la plupart des gens ne peuvent que rêver, comme de grandes quantités d’or et de pierres précieuses. +2 Qualité générale, +4 Entretien, +2 Rituels de longévité.</p>"
+		},
+		"Regio*":
+		{
+			"name":"Regio*",
+			"source":"Cov",
+			"page":155,
+			"description":"<p>L’intérieur du laboratoire est dans un regio et il existe un autre niveau de regio dans lequel le propriétaire peut se rendre facilement. S’il existe plusieurs niveaux de regio, cette Vertu peut être choisie à plusieurs reprises. +3 Taille, +1 Distorsion.</p>"
+		},
+		"Relocation":
+		{
+			"name":"Mobile",
+			"source":"Cov",
+			"page":155,
+			"description":"<p>La localisation du laboratoire dans le monde physique peut être modifiée par magie. Par exemple, il est enchanté d’un puissant effet Terram. Ceci peut procurer des avantages pour voyager mais rend aussi le laboratoire et son propriétaire plus difficiles à trouver. +1 Distorsion (si l’effet est constant), +1 Expérimentation.</p>"
+		},
+		"Sentient":
+		{
+			"name":"Doué de pensée",
+			"source":"Cov",
+			"page":155,
+			"description":"<p>Le laboratoire semble avoir développé un esprit indépendant. Il est peu probable que cela provienne de la magie hermétique (sauf percée), mais peut résulter de nombreuses décennies dans une aura magique ou féerique puissante. +1 Distorsion, +1 Expérimentation, +1 Me.</p>"
+		},
+		"Servant":
+		{
+			"name":"Serviteur",
+			"source":"Cov",
+			"page":116,
+			"description":"<p>L’un des serviteurs de l’alliance est employé à plein temps comme serviteur de laboratoire, pour accomplir les tâches les plus banales ou ennuyeuses dans le laboratoire et répondre aux besoins du magus. +(Intelligence du serviteur / 2, arrondi à l’entier supérieur) en Sécurité, +1 en Esthétique, +1 en Me.</p>"
+		},
+		"Shrouded":
+		{
+			"name":"Caché \"à configurer\"",
+			"source":"Cov",
+			"page":155,
+			"description":"<p>Le laboratoire es dissimulé ou protégé par un effet surnaturel comme Vallée voilée. +1 Distorsion, diviser la valeur Esthétique par deux après toutes les autres modifications.</p>"
+		},
+		"Site of legend":
+		{
+			"name":"Site légendaire \"à configurer\"",
+			"source":"Cov",
+			"page":155,
+			"description":"<p>On raconte des histoires sur ce laboratoire et des légendes y sont associées. Toute modification de Caractéristiques et Spécialisations pertinente.</p>"
+		},
+		"Slaves":
+		{
+			"name":"Esclaves \"à configurer\"",
+			"source":"Cov",
+			"page":152,
+			"description":"<p>Des esclaves humains sont employés dans le laboratoire, comme travailleurs ou comme sujets d’expériences. +1 Entretien, –1 Sécurité, –1 Esthétique, +2 Co ou Me.</p>"
+		},
+		"Spacious":
+		{
+			"name":"Spacieux",
+			"source":"Cov",
+			"page":149,
+			"description":"<p>Le laboratoire a assez de place pour étaler un peu son équipement. Si vous construisez un laboratoire à partir de rien, vous pouvez choisir de commencer avec cette Vertu sans saison de travail supplémentaire. +2 Sécurité, +1 Esthétique.</p>"
+		},
+		"Specimens*":
+		{
+			"name":"Spécimens* \"à configurer\"",
+			"source":"Cov",
+			"page":152,
+			"description":"<p>Le laboratoire contient une vaste collection de choses liées entre elles, dans des contenants visibles comme des jarres, ou servant d’objets d’étude ou de décoration. +1 Entretien, +1 Esthétique, 1 point de Spécialisation dans une Forme.</p>"
+		},
+		"Spotless":
+		{
+			"name":"Impeccable",
+			"source":"Cov",
+			"page":152,
+			"description":"<p>Le laboratoire est impeccablement propre. Il faut une saison de travail pour acquérir cette Vertu. Le mage a aussi une chance de l’acquérir lorsqu’une saison est consacrée à l’amélioration du Raffinement (cf. Raffinement ci-dessus). Cette Vertu est perdue si la propreté n’est pas entretenue, ou après un accident majeur ou suite à de la négligence. +1 Santé, +1 Esthétique, +1 Cr.</p>"
+		},
+		"Studio":
+		{
+			"name":"Studio",
+			"source":"Cov",
+			"page":150,
+			"description":"<p>Une pièce décorée juste à l’extérieur du laboratoire lui-même est réservée à seule fin d’exposer aux invités les possessions préférées du propriétaire. Les mages Verditius construisent souvent des studios pour montrer les objets qu’ils ont créé à des clients potentiels (cf. les Maisons d’Hermès : les Cultes des mystères). Le studio prend de l’espace dans le sanctum, mais généralement pas dans la pièce du laboratoire elle-même. +1 à +3 Esthétique, en fonction du nombre et de la splendeur des objets exposés.</p>"
+		},
+		"Superior Construction":
+		{
+			"name":"Construction supérieure",
+			"source":"Cov",
+			"page":150,
+			"description":"<p>Le laboratoire a bénéficié de techniques particulières de construction, par exemple l’utilisation de matériaux de construction de qualité supérieure, ou la conception par un maître architecte ou par un mage (comme avec le sort Conjuration de la tour mystique). S’il faut construire le bâtiment, son coût est doublé. +1 Sécurité, +1 Esthétique.</p>"
+		},
+		"Superior Decoration":
+		{
+			"name":"Décoration supérieure",
+			"source":"Cov",
+			"page":152,
+			"description":"<p>Le laboratoire jouit d’une décoration luxuriante ou généreuse. Par exemple, de nombreuses et belles tapisseries décorent les murs. +1 Entretien, +2 Esthétique, +1 Im.</p>"
+		},
+		"Superior Equipment":
+		{
+			"name":"Equipement supérieur",
+			"source":"Cov",
+			"page":152,
+			"description":"<p>Le laboratoire est fourni en équipement de qualité supérieure, comme du verre vénitien. Si l’on veut que cet équipement soit fabriqué à l’alliance, l’artisan doit avoir une Compétence Artisanat de 6 au moins, mais l’Entretien n’est pas augmenté dans ce cas. +1 Qualité générale, +2 Entretien, +1 Sécurité, +1 Extraction de vis.</p>"
+		},
+		"Superior Heating":
+		{
+			"name":"Chauffage supérieur",
+			"source":"Cov",
+			"page":152,
+			"description":"<p>Le laboratoire est bien chauffé et son occupant n’a jamais froid. Par exemple, il est chauffé par le sol ou comporte plusieurs foyers. +1 Entretien, +1 Santé, +1 Esthétique, +1 Ig.</p>"
+		},
+		"Superior Lighting":
+		{
+			"name":"Eclairage supérieur",
+			"source":"Cov",
+			"page":152,
+			"description":"<p>Le laboratoire est très bien éclairé, de sorte que les choses sont faciles à trouver et les livres faciles à lire, sans se fatiguer les yeux. +1 Entretien, +1 Esthétique, +1 Textes, +1 Im.</p>"
+		},
+		"Superior Tools":
+		{
+			"name":"Outillage supérieur",
+			"source":"Cov",
+			"page":152,
+			"description":"<p>Les outils du laboratoire ont été produits par des maîtres artisans. Si l’on veut que cet outillage soit fabriqué à l’alliance, l’artisan doit avoir une Compétence Artisanat de 6 au moins, mais l’Entretien n’est pas augmenté dans ce cas. +1 Entretien, +1 Sécurité, +1 Objets.</p>"
+		},
+		"Vis source*":
+		{
+			"name":"Source de Vis* \"à configurer\"",
+			"source":"Cov",
+			"page":155,
+			"description":"<p>Une source naturelle de vis se trouve dans le laboratoire. –1 Sécurité, +1 Distorsion, 2 points de Spécialisation dans l’Art correspondant.</p>"
+		},
+		"Volcanic Minerals":
+		{
+			"name":"Minerais volcaniques",
+			"source":"HP",
+			"page":19,
+			"description":"<p>Le laboratoire est approvisionné en minéraux exotiques provenant d’un volcan. Il doit être régulièrement réapprovisionné, sinon cette Vertu est perdue. Il n’y a aucun avantage à prendre cette Vertu plusieurs fois : une fois les besoins du laboratoire en minéraux exotiques satisfaits, des minéraux supplémentaires apportent peu de valeur.  –1 en Entretien, +1 en Terram.</p>"
+		},
+		"Well Insulated":
+		{
+			"name":"Bien isolé",
+			"source":"Cov",
+			"page":149,
+			"description":"<p>Le laboratoire est particulièrement bien isolé du monde extérieur, peut-être grâce à un mur supplémentaire ou à d’épais rideaux. Peu de bruit et de distraction y pénètrent, ce qui est bien utile dans un lieu sensible comme une ville. +1 Sécurité, +1 Esthétique.</p>"
 		}
 	}
 }

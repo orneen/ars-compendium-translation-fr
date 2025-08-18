@@ -17,383 +17,453 @@
 	},
 	"entries":
 	{
-		"No stores":
-		{
-			"name":"Aucune réserve",
-			"source":"Cov",
-			"page":151
-		},
-		"Defective lighting":
-		{
-			"name":"Eclairage défectueux",
-			"source":"Cov",
-			"page":154
-		},
-		"Wrecked":
-		{
-			"name":"En ruines",
-			"source":"Cov",
-			"page":153
-		},
-		"Low ceiling* \"to be configure\"":
-		{
-			"name":"Plafond bas* \"à configurer\"",
-			"source":"Cov",
-			"page":151
-		},
-		"Defective heating":
-		{
-			"name":"Chauffage défectueux",
-			"source":"Cov",
-			"page":154
-		},
-		"Empty (-1 health)*":
-		{
-			"name":"Vide (-1 santé)",
-			"source":"Cov",
-			"page":151
-		},
-		"Haunted":
-		{
-			"name":"Hanté",
-			"source":"Cov",
-			"page":156
-		},
-		"Deformed \"to be configured\"":
-		{
-			"name":"Déformé \"à configurer\"",
-			"source":"Cov",
-			"page":150
-		},
-		"Lesser illusion*":
-		{
-			"name":"Illusion mineure*",
-			"source":"Cov",
-			"page":157
-		},
-		"Exposed":
-		{
-			"name":"Exposé",
-			"source":"Cov",
-			"page":151
-		},
-		"Diminutive":
-		{
-			"name":"Petites proportions",
-			"source":"Cov",
-			"page":151
-		},
-		"Poorly insulated":
-		{
-			"name":"Mal isolé",
-			"source":"Cov",
-			"page":151
-		},
-		"Basic":
-		{
-			"name":"Basique",
-			"source":"Cov",
-			"page":152
-		},
-		"Impregnable":
-		{
-			"name":"Imprenable",
-			"source":"Cov",
-			"page":156
-		},
-		"Vile surroundings \"to be configured\"":
-		{
-			"name":"Environnement infect \"à configurer\"",
-			"source":"Cov",
-			"page":151
-		},
-		"Underwater":
-		{
-			"name":"Subaquatique",
-			"source":"Cov",
-			"page":157
-		},
-		"Predecessor":
-		{
-			"name":"Prédécesseur",
-			"source":"Cov",
-			"page":156
-		},
-		"Missing sanctum marker":
-		{
-			"name":"Pas de signe de sanctum",
-			"source":"Cov",
-			"page":153
-		},
 		"Abyss":
 		{
 			"name":"Abysse",
 			"source":"Cov",
-			"page":156
-		},
-		"Restriction \"to be configured\"":
-		{
-			"name":"Restriction \"à configurer\"",
-			"source":"Cov",
-			"page":156
-		},
-		"Hidden defect*":
-		{
-			"name":"Défaut caché",
-			"source":"Cov",
-			"page":152
-		},
-		"Gremlins \"to be configured\"":
-		{
-			"name":"Gremlins \"à configurer\"",
-			"source":"Cov",
-			"page":156
-		},
-		"Outdoors":
-		{
-			"name":"Externe",
-			"source":"Cov",
-			"page":151
-		},
-		"Inferior tools":
-		{
-			"name":"Outillage inférieur",
-			"source":"Cov",
-			"page":153
-		},
-		"Awkward shape":
-		{
-			"name":"Forme malcommode",
-			"source":"Cov",
-			"page":151
-		},
-		"Decaying":
-		{
-			"name":"Délabrement",
-			"source":"Cov",
-			"page":153
-		},
-		"Lightless \"to be configure\"":
-		{
-			"name":"Ténèbreux \"à configurer\"",
-			"source":"Cov",
-			"page":157
-		},
-		"Empty (+1 Upkeep)*":
-		{
-			"name":"Vide (+1 entretien)",
-			"source":"Cov",
-			"page":151
+			"page":156,
+			"description":"<p>Le laboratoire comprend une espèce de vide surnaturel, comme un puits insondable. Ceci peut constituer le trait distinctif Gouffre (acquis comme d’habitude). –2 Sécurité, +2 Pe.</p>"
 		},
 		"Lair \"to be configured\"":
 		{
 			"name":"Antre \"à configurer\"",
 			"source":"Cov",
-			"page":156
-		},
-		"Living \"to be configured\"":
-		{
-			"name":"Vivant \"à configurer\"",
-			"source":"Cov",
-			"page":157
-		},
-		"Elementary":
-		{
-			"name":"Elémentaire",
-			"source":"Cov",
-			"page":154
-		},
-		"Uneven floor \"to be configured\"":
-		{
-			"name":"Sol inégal \"à configurer\"",
-			"source":"Cov",
-			"page":151
-		},
-		"Greater illusion*":
-		{
-			"name":"Illusion majeure*",
-			"source":"Cov",
-			"page":157
-		},
-		"Hovel":
-		{
-			"name":"Taudis",
-			"source":"Cov",
-			"page":154
-		},
-		"Lesser focus \"to be configured\"":
-		{
-			"name":"Point focal mineur \"à configurer\"",
-			"source":"Cov",
-			"page":151
-		},
-		"Sacrifices \"to be configured\"":
-		{
-			"name":"Sacrifices \"à configurer\"",
-			"source":"Cov",
-			"page":157
-		},
-		"Subterranean":
-		{
-			"name":"Souterrain",
-			"source":"Cov",
-			"page":151
-		},
-		"Labyrinth \"to be configured\"":
-		{
-			"name":"Labyrinthe \"à configurer\"",
-			"source":"Cov",
-			"page":156
-		},
-		"Inferior equipment":
-		{
-			"name":"Equipement inférieur",
-			"source":"Cov",
-			"page":153
-		},
-		"Disorganized \"to be configured\"":
-		{
-			"name":"Désorganisé \"à configurer\"",
-			"source":"Cov",
-			"page":153
-		},
-		"Afire":
-		{
-			"name":"Enflammé",
-			"source":"Cov",
-			"page":156
-		},
-		"Unstable*":
-		{
-			"name":"Instable",
-			"source":"Cov",
-			"page":151
-		},
-		"Infested \"to be configured\"":
-		{
-			"name":"Infesté \"à configurer\"",
-			"source":"Cov",
-			"page":153
+			"page":156,
+			"description":"<p>Une créature se cache ou hiberne dans le laboratoire, que le mage le sache ou non. –1 Sécurité, +1 Distorsion, 1 point de Spécialisation dans l’Art adéquat.</p>"
 		},
 		"Heinous architecture":
 		{
 			"name":"Architecture agressive",
 			"source":"Cov",
-			"page":151
+			"page":151,
+			"description":"<p>La construction de la pièce est délibérément peu propice, perverse ou erronée. –1 Qualité générale, –2 Sécurité, +1 Distorsion, –2 Esthétique.</p>"
 		},
-		"Disguised":
+		"No stores":
 		{
-			"name":"Déguisé",
+			"name":"Aucune réserve",
 			"source":"Cov",
-			"page":151
+			"page":151,
+			"description":"<p>Le laboratoire n’a aucun espace destiné au rangement de fournitures et ne peut pas fonctionner en cas de rupture d’approvisionnement. En cas de manque de fonds, les Vices obligatoires permettant de réduire l’Entretien doivent être pris immédiatement au lieu de le faire après deux saisons. Le vis et les matières dangereuses ne sont pas rangés en sécurité. –2 Sécurité.</p>"
 		},
-		"Mental construct":
+		"Basic":
 		{
-			"name":"Construction mentale",
+			"name":"Basique",
 			"source":"Cov",
-			"page":157
+			"page":152,
+			"description":"<p>L’installation du laboratoire n’est pas terminée et tout l’équipement nécessaire n’est pas en place. Ce Vice est acquis après la première saison de construction d’un laboratoire (cf. laboratoire hermétique standard ci-dessus). Il est éliminé après la seconde saison de travail qui termine l’installation. –3 Qualité générale.</p>"
 		},
 		"Chaotic \"to be configured\"":
 		{
 			"name":"Chaotique \"à configurer\"",
 			"source":"Cov",
-			"page":156
+			"page":156,
+			"description":"<p>Le laboratoire ou son équipement, sont en mouvement ou flux constant. –2 Sécurité, +1 Distorsion, +1 Expérimentation, +2 Mu ou Re.</p>"
 		},
-		"Greater focus \"to be configured\"":
+		"Defective heating":
 		{
-			"name":"Point focal majeur \"à configurer\"",
+			"name":"Chauffage défectueux",
 			"source":"Cov",
-			"page":151
+			"page":154,
+			"description":"<p>Le système de chauffage du laboratoire est inadéquat ou absent. Les lieux sont trop froids pour y travailler confortablement durant l’hiver. –1 Qualité générale, –1 Entretien, –1 Santé, –1 Esthétique.</p>"
 		},
-		"Dirty":
+		"Mental construct":
 		{
-			"name":"Sale",
+			"name":"Construction mentale",
 			"source":"Cov",
-			"page":154
+			"page":157,
+			"description":"<p>Tout le laboratoire (ou une grande partie de celui-ci) se trouve dans l’esprit du mage, peut-être le fruit d’un puissant rituel Creo Mentem. La taille du laboratoire (ou de sa partie imaginaire) ne peut pas dépasser l’Intelligence du mage. Les parties imaginaires du laboratoire peuvent être améliorées comme d’habitude (des Vertus et Vices peuvent être acquis, le Raffinement peut être amélioré, etc.) mais ignorez les modifications à l’Entretien, la Santé et l’Esthétique. Le mage a besoin d’une magie sophistiquée s’il veut utiliser ce laboratoire pour se lier à un familier, enchanter des objets ou un rituel de longévité, ou enseigner. Il ne peut probablement pas non plus y extraire du vis. Cependant, il peut inventer des sorts, travailler sur des textes de laboratoire et étudier normalement du vis. –5 Entretien, +2 Distorsion, –2 Esthétique, +3 Me.</p>"
 		},
-		"Gaudy":
+		"Hidden defect*":
 		{
-			"name":"Mauvais gout",
+			"name":"Défaut caché",
 			"source":"Cov",
-			"page":153
+			"page":152,
+			"description":"<p>Une erreur discrète et potentiellement dangereuse se dissimule dans la configuration du laboratoire. C’est souvent la faute du propriétaire, mais ce peut être l’œuvre d’un tiers malicieux et subtil. Il existe une chance d’acquérir (ou perdre) ce Vice lorsqu’une saison de laboratoire est consacrée à l’amélioration du Raffinement (cf. Raffinement cidessus). Lorsque ce défaut est la cause d’un désastre en laboratoire, tentez un jet de Perception + Théorie de la magie contre un Facteur de Difficulté de 12. En cas de succès, le défaut est décelé et peut être corrigé en quelques heures de travail. –3 Sécurité.</p>"
 		},
-		"Vulnerable":
+		"Deformed \"to be configured\"":
 		{
-			"name":"Vulnérable",
+			"name":"Déformé \"à configurer\"",
 			"source":"Cov",
-			"page":151
+			"page":150,
+			"description":"<p>Une partie de la structure s’est affaissée ou s’est déformée. Par exemple, un mur s’est en partie écroulé et doit être étançonné. –1 Sécurité, –1 Esthétique, +1 Mu ou Pe.</p>"
 		},
-		"Inhabitants \"to be configured\"":
+		"Degenerative\"":
 		{
-			"name":"Habitants \"à configurer\"",
+			"name":"Dégénérescent",
 			"source":"Cov",
-			"page":156
-		},
-		"Missing equipment*":
-		{
-			"name":"Equipement manquant*",
-			"source":"Cov",
-			"page":154
-		},
-		"Damaged":
-		{
-			"name":"Endommagé",
-			"source":"Cov",
-			"page":153
-		},
-		"Cramped \"to be configured\"":
-		{
-			"name":"Exigu \"à configurer\"",
-			"source":"Cov",
-			"page":151
-		},
-		"Lousy ingredients":
-		{
-			"name":"Ingrédients miteux",
-			"source":"Cov",
-			"page":153
-		},
-		"Undecorated \"to be configure\"":
-		{
-			"name":"Spartiate \"à configurer\"",
-			"source":"Cov",
-			"page":154
-		},
-		"Cursed \"to be configured\"":
-		{
-			"name":"Maudit \"à configurer\"",
-			"source":"Cov",
-			"page":156
-		},
-		"Precarious* \"to be configured\"":
-		{
-			"name":"Précaire* \"à configurer\"",
-			"source":"Cov",
-			"page":156
-		},
-		"Missing ingredients*":
-		{
-			"name":"Ingrédients manquants*",
-			"source":"Cov",
-			"page":153
-		},
-		"Thoroughfare":
-		{
-			"name":"Voie publique",
-			"source":"Cov",
-			"page":157
-		},
-		"Damp":
-		{
-			"name":"Moite",
-			"source":"Cov",
-			"page":153
+			"page":156,
+			"description":"<p>L’équipement et les ingrédients du laboratoire se détériorent et s’usent à une vitesse surnaturelle. +2 Entretien, –1 Sécurité, +1 Distorsion, –2 Santé, –1 Esthétique, +2 Pe.</p>"
 		},
 		"Degenerative":
 		{
 			"name":"Dégénérescent",
 			"source":"Cov",
-			"page":156
+			"page":156,
+			"description":"<p>L’équipement et les ingrédients du laboratoire se détériorent et s’usent à une vitesse surnaturelle. +2 Entretien, –1 Sécurité, +1 Distorsion, –2 Santé, –1 Esthétique, +2 Pe.</p>"
+		},
+		"Disguised":
+		{
+			"name":"Déguisé",
+			"source":"Cov",
+			"page":151,
+			"description":"<p>Le laboratoire ou son entrée, est protégé par un camouflage vulgaire, comme une porte secrète. –1 Esthétique.</p>"
+		},
+		"Decaying":
+		{
+			"name":"Délabrement",
+			"source":"Cov",
+			"page":153,
+			"description":"<p>L’équipement, les fournitures et les matériaux du laboratoire sont négligés (ou on les a laissés se gâter). –1 Qualité générale, –1 Entretien, –1 Sécurité, –1 Esthétique, +2 Pe.</p>"
+		},
+		"Disorganized \"to be configured\"":
+		{
+			"name":"Désorganisé \"à configurer\"",
+			"source":"Cov",
+			"page":153,
+			"description":"<p>Le laboratoire est organisé au petit bonheur ou d’une manière insouciante. Certains mages préfèrent cette manière de faire. –1 Sécurité, –1 Esthé- tique, +1 Mu ou expérimentation.</p>"
+		},
+		"Defective lighting":
+		{
+			"name":"Eclairage défectueux",
+			"source":"Cov",
+			"page":154,
+			"description":"<p>Le laboratoire est mal éclairé, il est sombre et lugubre. Il peut s’avérer difficile d’y lire ou d’y retrouver quelque chose. –1 Qualité générale, –1 Entretien, –1 Sécurité, –1 Esthétique.</p>"
+		},
+		"Elementary":
+		{
+			"name":"Elémentaire",
+			"source":"Cov",
+			"page":154,
+			"description":"<p>Il s’agit d’une version simplifiée d’un laboratoire hermétique, dotée d’une sélection extrêmement limitée d’équipement, de sorte qu’une seule catégorie d’activités de laboratoire (cf. la liste des catégories dans la partie sur la Spécialisation) est possible. Le type d’activités est déterminé lors de la création et ne peut être modifié par la suite. Cependant, un tel type de laboratoire est moins cher à entretenir et ne prend qu’une saison à installer complètement. Il peut convenir à un espace très confiné, comme une petite caverne ou une charrette. Certaines alliances construisent des laboratoires élémentaires dans des auras puissantes pour y extraire du vis. –2 Qualité générale, –3 Entretien.</p>"
+		},
+		"Wrecked":
+		{
+			"name":"En ruines",
+			"source":"Cov",
+			"page":153,
+			"description":"<p>L’équipement du laboratoire est très fortement endommagé, par exemple après un accident majeur. Il faut deux saisons pour tout réparer et éliminer ce Vice. Après une saison, on passe au Vice Endommagé. –5 Qualité générale, –2 Sécurité, –2 Esthétique.</p>"
+		},
+		"Damaged":
+		{
+			"name":"Endommagé",
+			"source":"Cov",
+			"page":153,
+			"description":"<p>Le laboratoire est partiellement endommagé en raison d’un accident. Il faut une saison pour réparer les dégâts et éliminer ce Vice. –2 Qualité générale, –1 Sécurité, –1 Esthétique.</p>"
+		},
+		"Afire":
+		{
+			"name":"Enflammé",
+			"source":"Cov",
+			"page":156,
+			"description":"<p>Le laboratoire, ou une grande partie de celui-ci, est enveloppé dans des flammes inextinguibles. Cela nécessite naturellement une forme de protection ou d’immunité pour y travailler et implique que d’importantes catégories de travaux de laboratoire (comme les recherches en Corpus, Animal ou Aquam) seront impossibles. +1 Entretien, –3 Sécurité, +2 Distorsion, +2 Esthétique, +1 Expérimentation, +3 Ig.</p>"
+		},
+		"Vile surroundings \"to be configured\"":
+		{
+			"name":"Environnement infect \"à configurer\"",
+			"source":"Cov",
+			"page":151,
+			"description":"<p>Le laboratoire est situé en un lieu indésirable ou déplaisant, comme un marécage, près d’une sale cahute de paysans ou à côté d’une route sale et fréquentée. –2 Santé, –1 Esthétique, 1 point de Spécialisation en Pe, An, Aq, Au ou Co selon le type de terrain.</p>"
+		},
+		"Inferior equipment":
+		{
+			"name":"Equipement inférieur",
+			"source":"Cov",
+			"page":153,
+			"description":"<p>Le laboratoire est pourvu de fournitures de piètre qualité. Il ne faut pas toute une saison pour éliminer ce Vice, si des fonds suffisants pour augmenter l’Entretien sont apportés. –1 Qualité générale, –1 Entretien.</p>"
+		},
+		"Missing equipment*":
+		{
+			"name":"Equipement manquant*",
+			"source":"Cov",
+			"page":154,
+			"description":"<p>En raison du manque de certains équipements, il est totalement impossible de réaliser des travaux dans un ou deux types d’activités. Par exemple, faute d’écritoire, de parchemin et d’encres, il est impossible de travailler sur des textes. Si les objets, les sorts ou les textes sont choisis, seule cette activité est impossible. Dans les autres cas, il faut en choisir deux (cf. la partie sur la Spécialisation ci-dessus). Ce Vice ne peut pas être choisi plus de deux fois. –1 Entretien.</p>"
+		},
+		"Cramped \"to be configured\"":
+		{
+			"name":"Exigu \"à configurer\"",
+			"source":"Cov",
+			"page":151,
+			"description":"<p>En raison du manque de place, l’équipement du laboratoire est rangé un peu trop serré pour que ce soit confortable. Cela dérange quelque peu tous les types d’activité, sauf un qui est pris comme Spécialisation. Le laboratoire peut être réorganisé pour changer cette Spécialisation, au cours d’une saison de travail. Cette réorganisation peut se faire en même temps que les travaux destinés à augmenter le Raffinement. –1 Qualité générale, –1 Entretien, –2 Sécurité, –1 Esthétique, 1 point dans une Spécialisation d’activité.</p>"
+		},
+		"Exposed":
+		{
+			"name":"Exposé",
+			"source":"Cov",
+			"page":151,
+			"description":"<p>Le bâtiment est partiellement exposé aux éléments. Par exemple, il est dépourvu de toit ou sa toiture est médiocre, ou des vents le traversent via de grosses fissures. –1 Sécurité, +1 Entretien, –2 Santé, –1 Esthétique, +1 Au.</p>"
+		},
+		"Outdoors":
+		{
+			"name":"Externe",
+			"source":"Cov",
+			"page":151,
+			"description":"<p>Le laboratoire (mais pas forcé- ment le logement du mage) ne se trouve pas du tout dans un bâtiment et se trouve complètement exposé aux éléments. Ce Vice devrait être choisi en combinaison avec la Vertu Environnement naturel (mais dans ce cas, acqué- rir la Vertu ne prend pas de temps puisque l’environnement est déjà là). La Taille peut être augmentée sans limite. –1 Qualité générale, +2 Entretien, –1 Sécurité, –2 Santé, –3 Esthétique.</p>"
+		},
+		"Awkward shape":
+		{
+			"name":"Forme malcommode",
+			"source":"Cov",
+			"page":151,
+			"description":"<p>La pièce accueillant le laboratoire a une forme peu commode, par exemple elle est longue et étroite, ou est divisée en deux parties. –2 Sécurité, –1 Esthétique.</p>"
+		},
+		"Gremlins \"to be configured\"":
+		{
+			"name":"Gremlins \"à configurer\"",
+			"source":"Cov",
+			"page":156,
+			"description":"<p>Le laboratoire est habité par des créatures qui gênent volontairement, comme des esprits ou des démons. –3 Sécurité, +1 Distorsion, –1 Esthétique, 1 point de Spécialisation dans un Art adéquat.</p>"
+		},
+		"Inhabitants \"to be configured\"":
+		{
+			"name":"Habitants \"à configurer\"",
+			"source":"Cov",
+			"page":156,
+			"description":"<p>Le laboratoire est partagé avec des créatures qui considèrent les lieux comme étant leur foyer plus qu’un laboratoire. Elles peuvent être une nuisance pour le propriétaire, et réciproquement. –1 Sécurité, –1 Esthétique, 1 point de Spécialisation dans l’Art adéquat.</p>"
+		},
+		"Haunted":
+		{
+			"name":"Hanté",
+			"source":"Cov",
+			"page":156,
+			"description":"<p>Le laboratoire est hanté par un esprit qui dérange parfois le propriétaire actuel. +1 Distorsion, –1 Esthétique, +2 Me.</p>"
+		},
+		"Greater illusion*":
+		{
+			"name":"Illusion majeure*",
+			"source":"Cov",
+			"page":157,
+			"description":"<p>L’un des aspects ou éléments fondamentaux du laboratoire n’est qu’une illusion. Prenez immédiatement une Vertu majeure (sans y consacrer du temps) pour compenser ce Vice, mais notez que c’est illusoire et ses effets sont complètement nuls. Par exemple, le laboratoire peut sembler deux fois plus grand qu’il n’est en réalité. Dans ce cas, prenez la Vertu Extension supérieure, mais n’appliquez pas ses modificateurs aux attributs du laboratoire. +2 Distorsion, +2 Esthétique, +2 Im.</p>"
+		},
+		"Lesser illusion*":
+		{
+			"name":"Illusion mineure*",
+			"source":"Cov",
+			"page":157,
+			"description":"<p>L’un des mérites apparents du laboratoire n’est qu’une illusion. Prenez immédiatement une Vertu mineure (sans y consacrer du temps) pour compenser ce Vice, mais notez que c’est illusoire et ses effets sont complètement nuls. Par exemple, le laboratoire peut sembler décoré de belles tapisseries, mais celles-ci n’existent pas. Dans ce cas, prenez la Vertu Décoration supérieure, mais n’appliquez pas ses modificateurs aux attributs du laboratoire. +1 Distorsion, +1 Esthétique, +1 Im.</p>"
+		},
+		"Impregnable":
+		{
+			"name":"Imprenable",
+			"source":"Cov",
+			"page":156,
+			"description":"<p>Le laboratoire est complètement inaccessible, à moins d’utiliser une magie assez puissante. Par exemple, il est condamné derrière un mur de pierre et il faut utiliser une magie Muto Terram pour y accéder. Bien que le propriétaire ne risque guère d’être dérangé, moins de personnes verront le laboratoire et bien des gens penseront qu’il est paranoïaque. –2 Esthétique.</p>"
+		},
+		"Infested \"to be configured\"":
+		{
+			"name":"Infesté \"à configurer\"",
+			"source":"Cov",
+			"page":153,
+			"description":"<p>Le laboratoire est infesté par des plantes ou des animaux, par exemple un nid de souris, du lierre ou des champignons. En fonction de la nature de l’infestation, il ne faut pas nécessairement une saison pour éliminer ce Vice. –1 Sécurité, –1 Esthétique, +1 An ou He.</p>"
+		},
+		"Missing ingredients*":
+		{
+			"name":"Ingrédients manquants*",
+			"source":"Cov",
+			"page":153,
+			"description":"<p>En raison du manque de certains ingrédients, les travaux de laboratoire concernant soit une Technique en particulier, soit deux Formes, sont sévèrement limités : les Totaux de laboratoire sont divisés par deux. Par exemple, le laboratoire ne contient pas d’argent et les Totaux de laboratoire en Terram et Vim sont divisés par deux. Il ne faut pas toute une saison pour éliminer ce Vice, si des fonds suffisants pour augmenter l’Entretien sont apportés. –1 Entretien.</p>"
+		},
+		"Lousy ingredients":
+		{
+			"name":"Ingrédients miteux",
+			"source":"Cov",
+			"page":153,
+			"description":"<p>Le laboratoire est pourvu en ingrédients impurs, sales ou de piètre qualité. Il ne faut pas toute une saison pour éliminer ce Vice, si des fonds suffisants pour augmenter l’Entretien sont apportés. –1 Qualité générale, –1 Entretien.</p>"
+		},
+		"Unstable*":
+		{
+			"name":"Instable",
+			"source":"Cov",
+			"page":151,
+			"description":"<p>Le laboratoire est sujet à des mouvements, par exemple il se trouve sur un navire, sur une zone sismique ou a plus simplement des fondations instables, ce qui cause des incidents et détériorations. Ce Vice peut être choisi plusieurs fois pour une plus grande instabilité. +1 Entretien, –1 Sécurité.</p>"
+		},
+		"Labyrinth \"to be configured\"":
+		{
+			"name":"Labyrinthe \"à configurer\"",
+			"source":"Cov",
+			"page":156,
+			"description":"<p>Le laboratoire, ou au moins ses parties externes, consiste en une sorte de labyrinthe ou autre énigme structurelle. La plupart des mages estimeraient que c’est fatigant et inutile, mais certains mages Criamon aiment transformer leur laboratoire en labyrinthe. –1 Sécurité, –1 Santé, –2 Esthétique, +2 Me ou Vi.</p>"
+		},
+		"Poorly insulated":
+		{
+			"name":"Mal isolé",
+			"source":"Cov",
+			"page":151,
+			"description":"<p>Le laboratoire n’est guère isolé du monde extérieur, peut-être en raison de murs ou plafonds trop fins. Il est facile d’entendre ce qui se passe à l’intérieur et les bruits venant du laboratoire risquent de déranger les voisins du même étage ou des étages adjacents. –1 Sécurité, –1 Esthétique.</p>"
+		},
+		"Cursed \"to be configured\"":
+		{
+			"name":"Maudit \"à configurer\"",
+			"source":"Cov",
+			"page":156,
+			"description":"<p>Le laboratoire subit une malédiction surnaturelle. Diverses pénalités ou modifications de Caractéristiques (souvent la Sécurité) sont adéquates.</p>"
+		},
+		"Gaudy":
+		{
+			"name":"Mauvais gout",
+			"source":"Cov",
+			"page":153,
+			"description":"<p>La décoration du laboratoire est de mauvais goût et excessive. +1 Entretien, –1 Esthétique, +1 Im.</p>"
+		},
+		"Damp":
+		{
+			"name":"Moite",
+			"source":"Cov",
+			"page":153,
+			"description":"<p>Le laboratoire est détrempé ou humide. Le parchemin, ainsi que certains ingrédients, va vite moisir. +1 Entretien, –1 Santé, –1 Esthétique, +1 Aq.</p>"
+		},
+		"Inferior tools":
+		{
+			"name":"Outillage inférieur",
+			"source":"Cov",
+			"page":153,
+			"description":"<p>Les outils du laboratoire sont mal fabriqués et se brisent facilement. Il ne faut pas toute une saison pour éliminer ce Vice, si des fonds suffisants pour augmenter l’Entretien sont apportés. –1 Entretien, –1 Sécurité.</p>"
+		},
+		"Missing sanctum marker":
+		{
+			"name":"Pas de signe de sanctum",
+			"source":"Cov",
+			"page":153,
+			"description":"<p>Le signe de sanctum n’est pas affiché en évidence et on peut facilement le rater, ou encore il n’y en a pas du tout. Des mages hermétiques pourraient (en le sachant ou non) s’introduire. Il ne faut pas tout une saison pour éliminer ce Vice. –1 Esthétique.</p>"
+		},
+		"Diminutive":
+		{
+			"name":"Petites proportions",
+			"source":"Cov",
+			"page":151,
+			"description":"<p>Le laboratoire est configuré pour un mage particulièrement petit (Taille –1 ou moins), qui peut l’utiliser normalement. Cependant, un mage de taille normale (ou un assistant de taille normale) éprouverait (ou causerait) de grosses difficultés. Pour les personnages de taille 0 ou plus : –1 Qualité générale, –2 Sécurité, –1 Santé, –1 Esthétique.</p>"
+		},
+		"Low ceiling* \"to be configure\"":
+		{
+			"name":"Plafond bas* \"à configurer\"",
+			"source":"Cov",
+			"page":151,
+			"description":"<p>Le plafond est plus bas que les trois mètres requis, ce qui gêne certaines activités magiques. Ce Vice doit être pris deux fois si le plafond descend sous deux mètres cinquante, ou trois fois si le mage doit se courber (dans ce cas, il faut ajouter un –2 en Santé). –1 Qualité générale, –1 Sécurité, –1 Esthétique.</p>"
+		},
+		"Greater focus \"to be configured\"":
+		{
+			"name":"Point focal majeur \"à configurer\"",
+			"source":"Cov",
+			"page":151,
+			"description":"</p>Un trait distinctif majeur existant est l’élément central du laboratoire, ce qui améliore ce trait, mais entreprendre des activités qui n’y sont pas liées est difficile. –2 Qualité générale, 4 points dans la Spécialisation du trait distinctif.</p>"
+		},
+		"Lesser focus \"to be configured\"":
+		{
+			"name":"Point focal mineur \"à configurer\"",
+			"source":"Cov",
+			"page":151,
+			"description":"<p>Un trait distinctif mineur existant est l’élément central du laboratoire, ce qui améliore ce trait, mais entreprendre des activités qui n’y sont pas liées est difficile. –1 Qualité générale, 2 points dans la Spécialisation du trait distinctif.</p>"
+		},
+		"Precarious* \"to be configured\"":
+		{
+			"name":"Précaire* \"à configurer\"",
+			"source":"Cov",
+			"page":156,
+			"description":"<p>Le laboratoire est situé en un lieu surnaturellement dangereux, comme l’intérieur d’un volcan. Cette Vertu peut être choisie plus d’une fois, pour un plus grand degré de danger. –1 Sécurité, 1 point de Spécialisation dans l’Art adéquat.</p>"
+		},
+		"Predecessor":
+		{
+			"name":"Prédécesseur",
+			"source":"Cov",
+			"page":156,
+			"description":"<p>Le laboratoire conserve quelques tares héritées de son (notable) propriétaire précédent. –1 Sécurité, +1 Distorsion, +1 Expérimentation.</p>"
+		},
+		"Restriction \"to be configured\"":
+		{
+			"name":"Restriction \"à configurer\"",
+			"source":"Cov",
+			"page":156,
+			"description":"<p>Soit le laboratoire interdit certaines activités (une catégorie d’activité de laboratoire ne peut être effectuée), soit des pratiques ou rituels fatigants ou coûteux doivent être entrepris pour effectuer le travail de laboratoire. –1 Qualité générale ou +2 Entretien en fonction des circonstances.</p>"
+		},
+		"Sacrifices \"to be configured\"":
+		{
+			"name":"Sacrifices \"à configurer\"",
+			"source":"Cov",
+			"page":157,
+			"description":"<p>Des sacrifices animaux sont nécessaires pour que le laboratoire fonctionne. +2 Entretien, –1 Sécurité, +1 Distorsion, –1 Santé, –3 Esthé- tique, 2 points de Spécialisation dans une Technique ou en Animal.</p>"
+		},
+		"Dirty":
+		{
+			"name":"Sale",
+			"source":"Cov",
+			"page":154,
+			"description":"<p>Le laboratoire n’est pas entretenu aux normes de base de propreté. Son propriétaire en sort souvent puant ou sale et la plupart des visiteurs trouvent cela assez insupportable. –1 Santé, –2 Esthétique, +1 Pe.</p>"
+		},
+		"Uneven floor \"to be configured\"":
+		{
+			"name":"Sol inégal \"à configurer\"",
+			"source":"Cov",
+			"page":151,
+			"description":"<p>Le sol du laboratoire est de travers ou dangereux. Il se peut que le laboratoire soit dans une caverne, ou que le sol soit couvert de sable ou de cailloux. –1 Sécurité, –1 Santé, –1 Esthétique, +1 Mu ou Te.</p>"
+		},
+		"Subterranean":
+		{
+			"name":"Souterrain",
+			"source":"Cov",
+			"page":151,
+			"description":"<p>Le laboratoire est en sous-sol. La lumière naturelle manque et plus de chandelles sont donc nécessaires pour l’éclairage. +1 Entretien, –1 Santé, –1 Esthétique, +1 Te.</p>"
+		},
+		"Undecorated \"to be configure\"":
+		{
+			"name":"Spartiate \"à configurer\"",
+			"source":"Cov",
+			"page":154,
+			"description":"<p>Ce laboratoire a une décoration très spartiate, ou pas de décoration du tout, ce qui rend les lieux peu inspirants et peu chaleureux. –1 Entretien, –1 Esthétique, soustraire un point à toute Spécialisation dont la valeur est de 2 ou plus.</p>"
+		},
+		"Underwater":
+		{
+			"name":"Subaquatique",
+			"source":"Cov",
+			"page":157,
+			"description":"<p>Le laboratoire est rempli d’eau au lieu d’air, ce qui présente des difficultés logistiques liées à la respiration, et aux déplacements précis d’un point à l’autre. Certaines catégories de travaux de laboratoire (par exemple les travaux sur des textes et dans les Arts Auram et Ignem) peuvent devenir impossibles. +2 Sécurité, +1 Distorsion, –2 Esthétique, +1 Expérimentation, +4 Aq.</p>"
+		},
+		"Hovel":
+		{
+			"name":"Taudis",
+			"source":"Cov",
+			"page":154,
+			"description":"<p>Le laboratoire est très encombré, négligé et sale, ce n’est guère plus qu’une décharge puante. La plupart des mages ne songeraient jamais à poser le pied dans ce trou misérable. –1 Qualité générale, –2 Entretien, –2 Sécurité, –3 Santé, –4 Esthétique.</p>"
+		},
+		"Lightless \"to be configure\"":
+		{
+			"name":"Ténèbreux \"à configurer\"",
+			"source":"Cov",
+			"page":157,
+			"description":"<p>Le laboratoire est plongé dans le noir et son contenu ne peut être vu. Le propriétaire doit imaginer un autre moyen de percevoir l’espace afin de pouvoir travailler normalement. –1 Entretien, +1 Distorsion, la valeur Esthétique ne peut dépasser –1, +1 Pe ou Im.</p>"
+		},
+		"Empty (-1 health)*":
+		{
+			"name":"Vide (-1 santé)",
+			"source":"Cov",
+			"page":151,
+			"description":"<p>Une grande partie du laboratoire est vide. Un laboratoire beaucoup plus grand que nécessaire est un inconvénient car il est plus coûteux d’entretenir un espace vide : il en faut plus pour éclairer, chauffer et nettoyer la pièce. Ou alors, si l’espace vide n’est pas entretenu, il accumule la poussière, les toiles d’araignée ou attire les courants d’air. Ce Vice doit être pris par deux points dont la Taille dépasse la Taille occupée. Dès que l’espace vide est occupé, le Vice disparaît. –1 Esthétique,  –1 Santé.</p>"
+		},
+		"Empty (+1 Upkeep)*":
+		{
+			"name":"Vide (+1 entretien)",
+			"source":"Cov",
+			"page":151,
+			"description":"<p>Une grande partie du laboratoire est vide. Un laboratoire beaucoup plus grand que nécessaire est un inconvénient car il est plus coûteux d’entretenir un espace vide : il en faut plus pour éclairer, chauffer et nettoyer la pièce. Ou alors, si l’espace vide n’est pas entretenu, il accumule la poussière, les toiles d’araignée ou attire les courants d’air. Ce Vice doit être pris par deux points dont la Taille dépasse la Taille occupée. Dès que l’espace vide est occupé, le Vice disparaît. –1 Esthétique,  +1 Entretien.</p>"
+		},
+		"Living \"to be configured\"":
+		{
+			"name":"Vivant \"à configurer\"",
+			"source":"Cov",
+			"page":157,
+			"description":"<p>La structure du laboratoire est vivante. Par exemple, il se trouve dans un arbre féerique ou dans le ventre d’une bête endormie. –2 Sécurité, +2 Distorsion, 3 points de Spécialisation dans l’Art adéquat.</p>"
+		},
+		"Thoroughfare":
+		{
+			"name":"Voie publique",
+			"source":"Cov",
+			"page":157,
+			"description":"<p>Des créatures surnaturelles, comme des gnomes, traversent à l’occasion le laboratoire et provoquent de petits soucis. –1 Sécurité.</p>"
+		},
+		"Vulnerable":
+		{
+			"name":"Vulnérable",
+			"source":"Cov",
+			"page":151,
+			"description":"<p>Le laboratoire n’a même pas les défenses les plus élémentaires et il est facile de s’y introduire ou d’y entrer par hasard. Par exemple, il est situé au niveau du sol et n’a pas de porte. –1 Esthétique.</p>"
 		}
 	}
 }
