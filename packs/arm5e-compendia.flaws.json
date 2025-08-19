@@ -115,14 +115,14 @@
 			"name":"Rival adoré - Mineur",
 			"source":"ArM5Def",
 			"page":0,
-			"description":"<p>La version Mineure de ce Vice donne au personnage un rival qui est à la fois férocement protecteur et obsédé par l'idée de s'opposer à lui à chaque instant. Pour les magi de Tytalus, ce rival est en général un magus plus âgé, probablement l'ancien professeur du personnage, ou peut-être un autre apprenti du maître du personnage. Comme dans le cas du Vice Ennemis, le Rival cause périodiquement des ennuis au magus</p>"
+			"description":"<p>Le personnage a un rival qui est à la fois farouchement protecteur envers lui et obsédé par l'idée de s'opposer à lui à chaque occasion. Pour les magi de la Maison Tytalus, ce rival est généralement un magus plus âgé, souvent son ancien Parens, ou peut-être une ancienne apprentie de son Parens. À l'instar du Défaut Ennemis, le rival crée périodiquement des problèmes pour le magus. Cependant, il défend jalousement le privilège de rendre la vie du magus misérable et intervient souvent pour écarter les obstacles qui ne viennent pas de lui. Le rival croit sincèrement que son opposition profite à sa victime et souhaite le voir s'épanouir à travers l'adversité.</p><p>Si le personnage qui endosse le rôle de rival adoré est un autre personnage joueur, alors cela devient un Défaut majeur. Le personnage génère des histoires en causant des ennuis à son rival, et doit aussi réagir lorsque quelqu'un d'autre tente de lui nuire.</p><p>De telles relations sont une tradition de la Maison Tytalus et peuvent être mutuelles. Lorsque la rivalité est réciproque, le groupe peut autoriser le personnage à prendre à la fois les versions mineure et majeure de ce Défaut. Cela signifiera que la rivalité deviendra un élément central de toute la saga, et donc l'ensemble du groupe doit réfléchir s'il souhaite que cela prenne une telle importance.</p>"
 		},
 		"Beloved Rival -Major":
 		{
 			"name":"Rival adoré - Majeur",
 			"source":"ArM5Def",
 			"page":0,
-			"description":"<p>La version Mineure de ce Vice donne au personnage un rival qui est à la fois férocement protecteur et obsédé par l'idée de s'opposer à lui à chaque instant. Pour les magi de Tytalus, ce rival est en général un magus plus âgé, probablement l'ancien professeur du personnage, ou peut-être un autre apprenti du maître du personnage. Comme dans le cas du Vice Ennemis, le Rival cause périodiquement des ennuis au magus</p>"
+			"description":"<p>Le personnage a un rival qui est à la fois farouchement protecteur envers lui et obsédé par l'idée de s'opposer à lui à chaque occasion. Pour les magi de la Maison Tytalus, ce rival est généralement un magus plus âgé, souvent son ancien Parens, ou peut-être une ancienne apprentie de son Parens. À l'instar du Défaut Ennemis, le rival crée périodiquement des problèmes pour le magus. Cependant, il défend jalousement le privilège de rendre la vie du magus misérable et intervient souvent pour écarter les obstacles qui ne viennent pas de lui. Le rival croit sincèrement que son opposition profite à sa victime et souhaite le voir s'épanouir à travers l'adversité.</p><p>Si le personnage qui endosse le rôle de rival adoré est un autre personnage joueur, alors cela devient un Défaut majeur. Le personnage génère des histoires en causant des ennuis à son rival, et doit aussi réagir lorsque quelqu'un d'autre tente de lui nuire.</p><p>De telles relations sont une tradition de la Maison Tytalus et peuvent être mutuelles. Lorsque la rivalité est réciproque, le groupe peut autoriser le personnage à prendre à la fois les versions mineure et majeure de ce Défaut. Cela signifiera que la rivalité deviendra un élément central de toute la saga, et donc l'ensemble du groupe doit réfléchir s'il souhaite que cela prenne une telle importance.</p>"
 		},
 		"Bigamist":
 		{
@@ -1295,7 +1295,7 @@
 		},
 		"Missing Eye":
 		{
-			"name":"oeil manquant",
+			"name":"Oeil manquant",
 			"source":"ArM5Def",
 			"page":0,
 			"description":"<p>Le personnage ne peut pas évaluer facilement les distances proches et subit un malus de -3 aux jets d'attaque avec des projectiles et aux jets de ciblage des sorts. En mêlée, il subit un malus de -1 aux jets d'attaque en raison de son champ de vision limité. Il a aussi un angle mort dans sa vision par lequel les gens peuvent s'approcher sans être vus. Ce Vice peut être combiné avec Vue basse et les malus sont cumulatifs.</p>"
